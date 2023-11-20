@@ -1,0 +1,3982 @@
+[
+  {
+    "code": "105190",
+    "name": "ACE 200",
+    "price": "33660"
+  },
+  {
+    "code": "332500",
+    "name": "ACE 200TR",
+    "price": "21315"
+  },
+  {
+    "code": "448870",
+    "name": "ACE 23-12 회사채(AA-이상)액티브",
+    "price": "105635"
+  },
+  {
+    "code": "448880",
+    "name": "ACE 24-12 회사채(AA-이상)액티브",
+    "price": "107560"
+  },
+  {
+    "code": "461260",
+    "name": "ACE 25-06 회사채(AA-이상)액티브",
+    "price": "10165"
+  },
+  {
+    "code": "461270",
+    "name": "ACE 26-06 회사채(AA-이상)액티브",
+    "price": "10145"
+  },
+  {
+    "code": "385600",
+    "name": "ACE 2차전지&친환경차액티브",
+    "price": "11030"
+  },
+  {
+    "code": "469150",
+    "name": "ACE AI반도체포커스",
+    "price": "11505"
+  },
+  {
+    "code": "385590",
+    "name": "ACE ESG액티브",
+    "price": "7360"
+  },
+  {
+    "code": "380340",
+    "name": "ACE Fn5G플러스",
+    "price": "9215"
+  },
+  {
+    "code": "226380",
+    "name": "ACE Fn성장소비주도주",
+    "price": "5730"
+  },
+  {
+    "code": "414270",
+    "name": "ACE G2전기차&자율주행액티브",
+    "price": "8150"
+  },
+  {
+    "code": "411060",
+    "name": "ACE KRX금현물",
+    "price": "11835"
+  },
+  {
+    "code": "225130",
+    "name": "ACE 골드선물 레버리지(합성 H)",
+    "price": "16400"
+  },
+  {
+    "code": "365780",
+    "name": "ACE 국고채10년",
+    "price": "87340"
+  },
+  {
+    "code": "114460",
+    "name": "ACE 국고채3년",
+    "price": "102375"
+  },
+  {
+    "code": "299070",
+    "name": "ACE 국채선물10년인버스",
+    "price": "113380"
+  },
+  {
+    "code": "299080",
+    "name": "ACE 국채선물3년인버스",
+    "price": "108780"
+  },
+  {
+    "code": "411050",
+    "name": "ACE 글로벌메타버스테크액티브",
+    "price": "8895"
+  },
+  {
+    "code": "446770",
+    "name": "ACE 글로벌반도체TOP4 Plus SOLACTIVE",
+    "price": "15390"
+  },
+  {
+    "code": "435040",
+    "name": "ACE 글로벌브랜드TOP10블룸버그",
+    "price": "12115"
+  },
+  {
+    "code": "460960",
+    "name": "ACE 글로벌인컴TOP10 SOLACTIVE",
+    "price": "9630"
+  },
+  {
+    "code": "440640",
+    "name": "ACE 단기채권알파액티브",
+    "price": "104365"
+  },
+  {
+    "code": "190620",
+    "name": "ACE 단기통안채",
+    "price": "103245"
+  },
+  {
+    "code": "265690",
+    "name": "ACE 러시아MSCI(합성)",
+    "price": "9590"
+  },
+  {
+    "code": "152500",
+    "name": "ACE 레버리지",
+    "price": "6405"
+  },
+  {
+    "code": "291130",
+    "name": "ACE 멕시코MSCI(합성)",
+    "price": "14065"
+  },
+  {
+    "code": "452250",
+    "name": "ACE 미국30년국채선물레버리지(합성 H)",
+    "price": "6315"
+  },
+  {
+    "code": "453850",
+    "name": "ACE 미국30년국채액티브(H)",
+    "price": "8310"
+  },
+  {
+    "code": "280320",
+    "name": "ACE 미국IT인터넷S&P(합성 H)",
+    "price": "13280"
+  },
+  {
+    "code": "360200",
+    "name": "ACE 미국S&P500",
+    "price": "14750"
+  },
+  {
+    "code": "438080",
+    "name": "ACE 미국S&P500채권혼합액티브",
+    "price": "10240"
+  },
+  {
+    "code": "309230",
+    "name": "ACE 미국WideMoat가치주",
+    "price": "20290"
+  },
+  {
+    "code": "367380",
+    "name": "ACE 미국나스닥100",
+    "price": "15715"
+  },
+  {
+    "code": "438100",
+    "name": "ACE 미국나스닥100채권혼합액티브",
+    "price": "10590"
+  },
+  {
+    "code": "181480",
+    "name": "ACE 미국다우존스리츠(합성 H)",
+    "price": "72410"
+  },
+  {
+    "code": "456880",
+    "name": "ACE 미국달러SOFR금리(합성)",
+    "price": "10055"
+  },
+  {
+    "code": "440650",
+    "name": "ACE 미국달러단기채권액티브",
+    "price": "10020"
+  },
+  {
+    "code": "402970",
+    "name": "ACE 미국배당다우존스",
+    "price": "9905"
+  },
+  {
+    "code": "465580",
+    "name": "ACE 미국빅테크TOP7 Plus",
+    "price": "10200"
+  },
+  {
+    "code": "465610",
+    "name": "ACE 미국빅테크TOP7 Plus레버리지(합성)",
+    "price": "10245"
+  },
+  {
+    "code": "465620",
+    "name": "ACE 미국빅테크TOP7 Plus인버스(합성)",
+    "price": "19315"
+  },
+  {
+    "code": "391590",
+    "name": "ACE 미국스팩&IPO INDXX",
+    "price": "4865"
+  },
+  {
+    "code": "391600",
+    "name": "ACE 미국친환경그린테마INDXX",
+    "price": "8860"
+  },
+  {
+    "code": "455660",
+    "name": "ACE 미국하이일드액티브(H)",
+    "price": "9780"
+  },
+  {
+    "code": "143460",
+    "name": "ACE 밸류대형",
+    "price": "8910"
+  },
+  {
+    "code": "245710",
+    "name": "ACE 베트남VN30(합성)",
+    "price": "17165"
+  },
+  {
+    "code": "371130",
+    "name": "ACE 베트남VN30선물블룸버그레버리지(H)",
+    "price": "9645"
+  },
+  {
+    "code": "131890",
+    "name": "ACE 삼성그룹동일가중",
+    "price": "16340"
+  },
+  {
+    "code": "108450",
+    "name": "ACE 삼성그룹섹터가중",
+    "price": "14535"
+  },
+  {
+    "code": "322130",
+    "name": "ACE 스마트로우볼",
+    "price": "14630"
+  },
+  {
+    "code": "272220",
+    "name": "ACE 스마트모멘텀",
+    "price": "13645"
+  },
+  {
+    "code": "272230",
+    "name": "ACE 스마트밸류",
+    "price": "12745"
+  },
+  {
+    "code": "322120",
+    "name": "ACE 스마트퀄리티",
+    "price": "14720"
+  },
+  {
+    "code": "322150",
+    "name": "ACE 스마트하이베타",
+    "price": "12345"
+  },
+  {
+    "code": "316300",
+    "name": "ACE 싱가포르리츠",
+    "price": "11390"
+  },
+  {
+    "code": "277540",
+    "name": "ACE 아시아TOP50S&P",
+    "price": "12050"
+  },
+  {
+    "code": "448540",
+    "name": "ACE 엔비디아채권혼합블룸버그",
+    "price": "14770"
+  },
+  {
+    "code": "433500",
+    "name": "ACE 원자력테마딥서치",
+    "price": "11345"
+  },
+  {
+    "code": "256440",
+    "name": "ACE 인도네시아MSCI(합성)",
+    "price": "9840"
+  },
+  {
+    "code": "145670",
+    "name": "ACE 인버스",
+    "price": "5745"
+  },
+  {
+    "code": "238720",
+    "name": "ACE 일본Nikkei225(H)",
+    "price": "23110"
+  },
+  {
+    "code": "196030",
+    "name": "ACE 일본TOPIX레버리지(H)",
+    "price": "32460"
+  },
+  {
+    "code": "205720",
+    "name": "ACE 일본TOPIX인버스(합성 H)",
+    "price": "3070"
+  },
+  {
+    "code": "469160",
+    "name": "ACE 일본반도체",
+    "price": "9860"
+  },
+  {
+    "code": "356540",
+    "name": "ACE 종합채권(AA-이상)KIS액티브",
+    "price": "97130"
+  },
+  {
+    "code": "447430",
+    "name": "ACE 주주환원가치주액티브",
+    "price": "10800"
+  },
+  {
+    "code": "416090",
+    "name": "ACE 중국과창판STAR50",
+    "price": "6300"
+  },
+  {
+    "code": "168580",
+    "name": "ACE 중국본토CSI300",
+    "price": "22700"
+  },
+  {
+    "code": "219900",
+    "name": "ACE 중국본토CSI300레버리지(합성)",
+    "price": "2400"
+  },
+  {
+    "code": "272910",
+    "name": "ACE 중장기국공채액티브",
+    "price": "99220"
+  },
+  {
+    "code": "371870",
+    "name": "ACE 차이나항셍테크",
+    "price": "5540"
+  },
+  {
+    "code": "354500",
+    "name": "ACE 코스닥150",
+    "price": "12680"
+  },
+  {
+    "code": "305050",
+    "name": "ACE 코스피",
+    "price": "25340"
+  },
+  {
+    "code": "457480",
+    "name": "ACE 테슬라밸류체인액티브",
+    "price": "10860"
+  },
+  {
+    "code": "469170",
+    "name": "ACE 포스코그룹포커스",
+    "price": "8075"
+  },
+  {
+    "code": "261920",
+    "name": "ACE 필리핀MSCI(합성)",
+    "price": "12510"
+  },
+  {
+    "code": "152100",
+    "name": "ARIRANG 200",
+    "price": "33885"
+  },
+  {
+    "code": "295820",
+    "name": "ARIRANG 200동일가중",
+    "price": "9355"
+  },
+  {
+    "code": "253150",
+    "name": "ARIRANG 200선물레버리지",
+    "price": "29385"
+  },
+  {
+    "code": "253160",
+    "name": "ARIRANG 200선물인버스2X",
+    "price": "5290"
+  },
+  {
+    "code": "447660",
+    "name": "ARIRANG Apple채권혼합Fn",
+    "price": "10980"
+  },
+  {
+    "code": "395750",
+    "name": "ARIRANG ESG가치주액티브",
+    "price": "7870"
+  },
+  {
+    "code": "395760",
+    "name": "ARIRANG ESG성장주액티브",
+    "price": "7870"
+  },
+  {
+    "code": "278420",
+    "name": "ARIRANG ESG우수기업",
+    "price": "8260"
+  },
+  {
+    "code": "436180",
+    "name": "ARIRANG K-유니콘투자기업액티브",
+    "price": "9950"
+  },
+  {
+    "code": "453010",
+    "name": "ARIRANG KOFR금리",
+    "price": "102405"
+  },
+  {
+    "code": "292750",
+    "name": "ARIRANG KRX300",
+    "price": "15550"
+  },
+  {
+    "code": "333940",
+    "name": "ARIRANG KS로우볼가중TR",
+    "price": "12505"
+  },
+  {
+    "code": "333950",
+    "name": "ARIRANG KS로우사이즈가중TR",
+    "price": "14990"
+  },
+  {
+    "code": "333960",
+    "name": "ARIRANG KS모멘텀가중TR",
+    "price": "12930"
+  },
+  {
+    "code": "333970",
+    "name": "ARIRANG KS밸류가중TR",
+    "price": "14590"
+  },
+  {
+    "code": "333980",
+    "name": "ARIRANG KS퀄리티가중TR",
+    "price": "13730"
+  },
+  {
+    "code": "429740",
+    "name": "ARIRANG K리츠Fn",
+    "price": "6600"
+  },
+  {
+    "code": "449450",
+    "name": "ARIRANG K방산Fn",
+    "price": "11075"
+  },
+  {
+    "code": "269530",
+    "name": "ARIRANG S&P글로벌인프라",
+    "price": "12895"
+  },
+  {
+    "code": "433850",
+    "name": "ARIRANG TDF2030액티브",
+    "price": "10520"
+  },
+  {
+    "code": "433860",
+    "name": "ARIRANG TDF2040액티브",
+    "price": "10455"
+  },
+  {
+    "code": "433870",
+    "name": "ARIRANG TDF2050액티브",
+    "price": "10700"
+  },
+  {
+    "code": "433880",
+    "name": "ARIRANG TDF2060액티브",
+    "price": "11000"
+  },
+  {
+    "code": "251590",
+    "name": "ARIRANG 고배당저변동50",
+    "price": "11300"
+  },
+  {
+    "code": "161510",
+    "name": "ARIRANG 고배당주",
+    "price": "12020"
+  },
+  {
+    "code": "251600",
+    "name": "ARIRANG 고배당주채권혼합",
+    "price": "11010"
+  },
+  {
+    "code": "461460",
+    "name": "ARIRANG 국고채10년액티브",
+    "price": "50270"
+  },
+  {
+    "code": "451600",
+    "name": "ARIRANG 국고채30년액티브",
+    "price": "95300"
+  },
+  {
+    "code": "289670",
+    "name": "ARIRANG 국채선물10년",
+    "price": "51270"
+  },
+  {
+    "code": "298340",
+    "name": "ARIRANG 국채선물3년",
+    "price": "53500"
+  },
+  {
+    "code": "442580",
+    "name": "ARIRANG 글로벌D램반도체iSelect",
+    "price": "14270"
+  },
+  {
+    "code": "189400",
+    "name": "ARIRANG 글로벌MSCI(합성 H)",
+    "price": "16010"
+  },
+  {
+    "code": "419650",
+    "name": "ARIRANG 글로벌수소&차세대연료전지MV",
+    "price": "4585"
+  },
+  {
+    "code": "438210",
+    "name": "ARIRANG 글로벌인공지능산업MV",
+    "price": "10485"
+  },
+  {
+    "code": "415920",
+    "name": "ARIRANG 글로벌희토류전략자원기업MV",
+    "price": "5735"
+  },
+  {
+    "code": "278620",
+    "name": "ARIRANG 단기채권액티브",
+    "price": "110425"
+  },
+  {
+    "code": "429760",
+    "name": "ARIRANG 미국S&P500",
+    "price": "10975"
+  },
+  {
+    "code": "269540",
+    "name": "ARIRANG 미국S&P500(H)",
+    "price": "18510"
+  },
+  {
+    "code": "287180",
+    "name": "ARIRANG 미국나스닥테크",
+    "price": "26240"
+  },
+  {
+    "code": "213630",
+    "name": "ARIRANG 미국다우존스고배당주(합성 H)",
+    "price": "14120"
+  },
+  {
+    "code": "332610",
+    "name": "ARIRANG 미국단기우량회사채",
+    "price": "109215"
+  },
+  {
+    "code": "456200",
+    "name": "ARIRANG 미국달러SOFR금리액티브(합성)",
+    "price": "50000"
+  },
+  {
+    "code": "426410",
+    "name": "ARIRANG 미국대체투자Top10MV",
+    "price": "12400"
+  },
+  {
+    "code": "332620",
+    "name": "ARIRANG 미국장기우량회사채",
+    "price": "80935"
+  },
+  {
+    "code": "464470",
+    "name": "ARIRANG 미국채30년액티브",
+    "price": "46365"
+  },
+  {
+    "code": "461900",
+    "name": "ARIRANG 미국테크10iSelect",
+    "price": "10590"
+  },
+  {
+    "code": "461910",
+    "name": "ARIRANG 미국테크10레버리지iSelect(합성)",
+    "price": "11180"
+  },
+  {
+    "code": "195970",
+    "name": "ARIRANG 선진국MSCI(합성 H)",
+    "price": "10635"
+  },
+  {
+    "code": "238670",
+    "name": "ARIRANG 스마트베타Quality채권혼합",
+    "price": "10560"
+  },
+  {
+    "code": "195980",
+    "name": "ARIRANG 신흥국MSCI(합성 H)",
+    "price": "8760"
+  },
+  {
+    "code": "373530",
+    "name": "ARIRANG 신흥국MSCI인버스(합성 H)",
+    "price": "11935"
+  },
+  {
+    "code": "256450",
+    "name": "ARIRANG 심천차이넥스트(합성)",
+    "price": "8065"
+  },
+  {
+    "code": "239660",
+    "name": "ARIRANG 우량회사채50 1년",
+    "price": "113525"
+  },
+  {
+    "code": "421320",
+    "name": "ARIRANG 우주항공&UAM iSelect",
+    "price": "10305"
+  },
+  {
+    "code": "464920",
+    "name": "ARIRANG 일본반도체소부장Solactive",
+    "price": "10525"
+  },
+  {
+    "code": "451000",
+    "name": "ARIRANG 종합채권(AA-이상)액티브",
+    "price": "103235"
+  },
+  {
+    "code": "280920",
+    "name": "ARIRANG 주도업종",
+    "price": "8795"
+  },
+  {
+    "code": "266550",
+    "name": "ARIRANG 중형주저변동50",
+    "price": "10585"
+  },
+  {
+    "code": "301400",
+    "name": "ARIRANG 코스닥150",
+    "price": "12705"
+  },
+  {
+    "code": "301410",
+    "name": "ARIRANG 코스닥150선물인버스",
+    "price": "6155"
+  },
+  {
+    "code": "227830",
+    "name": "ARIRANG 코스피",
+    "price": "25605"
+  },
+  {
+    "code": "122090",
+    "name": "ARIRANG 코스피50",
+    "price": "23030"
+  },
+  {
+    "code": "328370",
+    "name": "ARIRANG 코스피TR",
+    "price": "13125"
+  },
+  {
+    "code": "457990",
+    "name": "ARIRANG 태양광&ESS Fn",
+    "price": "7560"
+  },
+  {
+    "code": "470320",
+    "name": "BNK 24-11 회사채(AA-이상)액티브",
+    "price": "50125"
+  },
+  {
+    "code": "466810",
+    "name": "BNK 2차전지양극재",
+    "price": "8865"
+  },
+  {
+    "code": "457930",
+    "name": "BNK 미래전략기술액티브",
+    "price": "9570"
+  },
+  {
+    "code": "445690",
+    "name": "BNK 주주가치액티브",
+    "price": "11995"
+  },
+  {
+    "code": "448570",
+    "name": "FOCUS AI코리아액티브",
+    "price": "11720"
+  },
+  {
+    "code": "285690",
+    "name": "FOCUS ESG리더스",
+    "price": "9865"
+  },
+  {
+    "code": "292730",
+    "name": "FOCUS KRX300",
+    "price": "15980"
+  },
+  {
+    "code": "402520",
+    "name": "FOCUS 혁신기업액티브",
+    "price": "7950"
+  },
+  {
+    "code": "293180",
+    "name": "HANARO 200",
+    "price": "33370"
+  },
+  {
+    "code": "407310",
+    "name": "HANARO 200 TOP10",
+    "price": "7980"
+  },
+  {
+    "code": "332930",
+    "name": "HANARO 200TR",
+    "price": "41575"
+  },
+  {
+    "code": "304780",
+    "name": "HANARO 200선물레버리지",
+    "price": "17660"
+  },
+  {
+    "code": "306520",
+    "name": "HANARO 200선물인버스",
+    "price": "10720"
+  },
+  {
+    "code": "448490",
+    "name": "HANARO 32-10 국고채액티브",
+    "price": "52355"
+  },
+  {
+    "code": "454320",
+    "name": "HANARO CAPEX설비투자iSelect",
+    "price": "9715"
+  },
+  {
+    "code": "471290",
+    "name": "HANARO CD금리액티브(합성)",
+    "price": "100090"
+  },
+  {
+    "code": "395290",
+    "name": "HANARO Fn K-POP&미디어",
+    "price": "8075"
+  },
+  {
+    "code": "395280",
+    "name": "HANARO Fn K-게임",
+    "price": "4140"
+  },
+  {
+    "code": "368190",
+    "name": "HANARO Fn K-뉴딜디지털플러스",
+    "price": "8105"
+  },
+  {
+    "code": "402460",
+    "name": "HANARO Fn K-메타버스MZ",
+    "price": "7110"
+  },
+  {
+    "code": "395270",
+    "name": "HANARO Fn K-반도체",
+    "price": "9755"
+  },
+  {
+    "code": "438900",
+    "name": "HANARO Fn K-푸드",
+    "price": "9510"
+  },
+  {
+    "code": "367740",
+    "name": "HANARO Fn5G산업",
+    "price": "11995"
+  },
+  {
+    "code": "407300",
+    "name": "HANARO Fn골프테마",
+    "price": "5965"
+  },
+  {
+    "code": "381560",
+    "name": "HANARO Fn전기&수소차",
+    "price": "8080"
+  },
+  {
+    "code": "441540",
+    "name": "HANARO Fn조선해운",
+    "price": "9485"
+  },
+  {
+    "code": "381570",
+    "name": "HANARO Fn친환경에너지",
+    "price": "7505"
+  },
+  {
+    "code": "346000",
+    "name": "HANARO KAP초장기국고채",
+    "price": "36870"
+  },
+  {
+    "code": "453060",
+    "name": "HANARO KOFR금리액티브(합성)",
+    "price": "102490"
+  },
+  {
+    "code": "304760",
+    "name": "HANARO KRX300",
+    "price": "15370"
+  },
+  {
+    "code": "404470",
+    "name": "HANARO KRX기후변화솔루션",
+    "price": "11310"
+  },
+  {
+    "code": "332940",
+    "name": "HANARO MSCI Korea TR",
+    "price": "14060"
+  },
+  {
+    "code": "322400",
+    "name": "HANARO e커머스",
+    "price": "10100"
+  },
+  {
+    "code": "322410",
+    "name": "HANARO 고배당",
+    "price": "11625"
+  },
+  {
+    "code": "354350",
+    "name": "HANARO 글로벌럭셔리S&P(합성)",
+    "price": "17050"
+  },
+  {
+    "code": "464060",
+    "name": "HANARO 글로벌반도체TOP10 SOLACTIVE",
+    "price": "10200"
+  },
+  {
+    "code": "432850",
+    "name": "HANARO 글로벌백신치료제MSCI",
+    "price": "9180"
+  },
+  {
+    "code": "461340",
+    "name": "HANARO 글로벌생성형AI액티브",
+    "price": "10550"
+  },
+  {
+    "code": "448510",
+    "name": "HANARO 글로벌신재생에너지MSCI(합성)",
+    "price": "6570"
+  },
+  {
+    "code": "424460",
+    "name": "HANARO 글로벌워터MSCI(합성)",
+    "price": "10680"
+  },
+  {
+    "code": "401590",
+    "name": "HANARO 글로벌탄소배출권선물ICE(합성)",
+    "price": "10465"
+  },
+  {
+    "code": "314700",
+    "name": "HANARO 농업융복합산업",
+    "price": "10560"
+  },
+  {
+    "code": "390950",
+    "name": "HANARO 단기채권액티브",
+    "price": "104875"
+  },
+  {
+    "code": "432840",
+    "name": "HANARO 미국S&P500",
+    "price": "10975"
+  },
+  {
+    "code": "419170",
+    "name": "HANARO 미국메타버스iSelect",
+    "price": "11315"
+  },
+  {
+    "code": "434730",
+    "name": "HANARO 원자력iSelect",
+    "price": "11100"
+  },
+  {
+    "code": "456100",
+    "name": "HANARO 유로존국채25년플러스(합성 H)",
+    "price": "46705"
+  },
+  {
+    "code": "461500",
+    "name": "HANARO 종합채권(AA-이상)액티브",
+    "price": "102790"
+  },
+  {
+    "code": "304770",
+    "name": "HANARO 코스닥150",
+    "price": "12580"
+  },
+  {
+    "code": "306530",
+    "name": "HANARO 코스닥150선물레버리지",
+    "price": "8975"
+  },
+  {
+    "code": "375760",
+    "name": "HANARO 탄소효율그린뉴딜",
+    "price": "8235"
+  },
+  {
+    "code": "215620",
+    "name": "HK S&P코리아로우볼",
+    "price": "11820"
+  },
+  {
+    "code": "391670",
+    "name": "HK 베스트일레븐액티브",
+    "price": "8270"
+  },
+  {
+    "code": "391680",
+    "name": "HK 하이볼액티브",
+    "price": "7950"
+  },
+  {
+    "code": "148020",
+    "name": "KBSTAR 200",
+    "price": "33510"
+  },
+  {
+    "code": "285000",
+    "name": "KBSTAR 200IT",
+    "price": "14005"
+  },
+  {
+    "code": "361580",
+    "name": "KBSTAR 200TR",
+    "price": "17975"
+  },
+  {
+    "code": "287300",
+    "name": "KBSTAR 200건설",
+    "price": "12705"
+  },
+  {
+    "code": "287310",
+    "name": "KBSTAR 200경기소비재",
+    "price": "9225"
+  },
+  {
+    "code": "290080",
+    "name": "KBSTAR 200고배당커버드콜ATM",
+    "price": "7310"
+  },
+  {
+    "code": "284980",
+    "name": "KBSTAR 200금융",
+    "price": "8335"
+  },
+  {
+    "code": "287320",
+    "name": "KBSTAR 200산업재",
+    "price": "10975"
+  },
+  {
+    "code": "287330",
+    "name": "KBSTAR 200생활소비재",
+    "price": "5890"
+  },
+  {
+    "code": "252400",
+    "name": "KBSTAR 200선물레버리지",
+    "price": "14600"
+  },
+  {
+    "code": "252410",
+    "name": "KBSTAR 200선물인버스",
+    "price": "5920"
+  },
+  {
+    "code": "252420",
+    "name": "KBSTAR 200선물인버스2X",
+    "price": "2605"
+  },
+  {
+    "code": "284990",
+    "name": "KBSTAR 200에너지화학",
+    "price": "9115"
+  },
+  {
+    "code": "285010",
+    "name": "KBSTAR 200중공업",
+    "price": "9795"
+  },
+  {
+    "code": "285020",
+    "name": "KBSTAR 200철강소재",
+    "price": "8940"
+  },
+  {
+    "code": "315480",
+    "name": "KBSTAR 200커뮤니케이션서비스",
+    "price": "10520"
+  },
+  {
+    "code": "448590",
+    "name": "KBSTAR 23-11 회사채(AA-이상)액티브",
+    "price": "52115"
+  },
+  {
+    "code": "464540",
+    "name": "KBSTAR 25-03 회사채(AA-이상)액티브",
+    "price": "50470"
+  },
+  {
+    "code": "448600",
+    "name": "KBSTAR 25-11 회사채(AA-이상)액티브",
+    "price": "52395"
+  },
+  {
+    "code": "465330",
+    "name": "KBSTAR 2차전지TOP10",
+    "price": "15055"
+  },
+  {
+    "code": "465350",
+    "name": "KBSTAR 2차전지TOP10인버스(합성)",
+    "price": "23715"
+  },
+  {
+    "code": "422420",
+    "name": "KBSTAR 2차전지액티브",
+    "price": "10495"
+  },
+  {
+    "code": "105780",
+    "name": "KBSTAR 5대그룹주",
+    "price": "5995"
+  },
+  {
+    "code": "469070",
+    "name": "KBSTAR AI&로봇",
+    "price": "10760"
+  },
+  {
+    "code": "290130",
+    "name": "KBSTAR ESG사회책임투자",
+    "price": "10790"
+  },
+  {
+    "code": "368200",
+    "name": "KBSTAR Fn K-뉴딜디지털플러스",
+    "price": "8145"
+  },
+  {
+    "code": "367760",
+    "name": "KBSTAR Fn5G테크",
+    "price": "10295"
+  },
+  {
+    "code": "367770",
+    "name": "KBSTAR Fn수소경제테마",
+    "price": "8780"
+  },
+  {
+    "code": "427110",
+    "name": "KBSTAR Fn창업투자회사",
+    "price": "6115"
+  },
+  {
+    "code": "388280",
+    "name": "KBSTAR Fn컨택트대표",
+    "price": "6945"
+  },
+  {
+    "code": "427120",
+    "name": "KBSTAR Fn플랫폼테마",
+    "price": "6205"
+  },
+  {
+    "code": "326240",
+    "name": "KBSTAR IT플러스",
+    "price": "17570"
+  },
+  {
+    "code": "385560",
+    "name": "KBSTAR KIS국고채30년Enhanced",
+    "price": "67090"
+  },
+  {
+    "code": "469580",
+    "name": "KBSTAR KP달러채권액티브",
+    "price": "49875"
+  },
+  {
+    "code": "270800",
+    "name": "KBSTAR KQ고배당",
+    "price": "11890"
+  },
+  {
+    "code": "292050",
+    "name": "KBSTAR KRX300",
+    "price": "16030"
+  },
+  {
+    "code": "307010",
+    "name": "KBSTAR KRX300레버리지",
+    "price": "12820"
+  },
+  {
+    "code": "319870",
+    "name": "KBSTAR KRX300미국달러선물혼합",
+    "price": "15415"
+  },
+  {
+    "code": "403990",
+    "name": "KBSTAR KRX기후변화솔루션",
+    "price": "11270"
+  },
+  {
+    "code": "442550",
+    "name": "KBSTAR TDF2030액티브",
+    "price": "10445"
+  },
+  {
+    "code": "442560",
+    "name": "KBSTAR TDF2040액티브",
+    "price": "10475"
+  },
+  {
+    "code": "442570",
+    "name": "KBSTAR TDF2050액티브",
+    "price": "10520"
+  },
+  {
+    "code": "234310",
+    "name": "KBSTAR V&S셀렉트밸류",
+    "price": "13660"
+  },
+  {
+    "code": "241390",
+    "name": "KBSTAR V&S셀렉트밸류채권혼합",
+    "price": "11605"
+  },
+  {
+    "code": "401170",
+    "name": "KBSTAR iSelect메타버스",
+    "price": "6330"
+  },
+  {
+    "code": "300640",
+    "name": "KBSTAR 게임테마",
+    "price": "8930"
+  },
+  {
+    "code": "266160",
+    "name": "KBSTAR 고배당",
+    "price": "12060"
+  },
+  {
+    "code": "114100",
+    "name": "KBSTAR 국고채3년",
+    "price": "108345"
+  },
+  {
+    "code": "282000",
+    "name": "KBSTAR 국고채3년선물인버스",
+    "price": "107750"
+  },
+  {
+    "code": "451670",
+    "name": "KBSTAR 국채30년레버리지KAP(합성)",
+    "price": "18085"
+  },
+  {
+    "code": "295000",
+    "name": "KBSTAR 국채선물10년",
+    "price": "50605"
+  },
+  {
+    "code": "295020",
+    "name": "KBSTAR 국채선물10년인버스",
+    "price": "55440"
+  },
+  {
+    "code": "432600",
+    "name": "KBSTAR 국채선물3년",
+    "price": "52110"
+  },
+  {
+    "code": "397420",
+    "name": "KBSTAR 국채선물5년추종",
+    "price": "48415"
+  },
+  {
+    "code": "397410",
+    "name": "KBSTAR 국채선물5년추종인버스",
+    "price": "55730"
+  },
+  {
+    "code": "276650",
+    "name": "KBSTAR 글로벌4차산업IT(합성 H)",
+    "price": "23270"
+  },
+  {
+    "code": "437370",
+    "name": "KBSTAR 글로벌농업경제MV",
+    "price": "8435"
+  },
+  {
+    "code": "375270",
+    "name": "KBSTAR 글로벌데이터센터리츠나스닥(합성)",
+    "price": "10035"
+  },
+  {
+    "code": "411720",
+    "name": "KBSTAR 글로벌메타버스Moorgate",
+    "price": "9920"
+  },
+  {
+    "code": "417450",
+    "name": "KBSTAR 글로벌수소경제Indxx",
+    "price": "7195"
+  },
+  {
+    "code": "442320",
+    "name": "KBSTAR 글로벌원자력iSelect",
+    "price": "12645"
+  },
+  {
+    "code": "461490",
+    "name": "KBSTAR 글로벌자산배분액티브",
+    "price": "10205"
+  },
+  {
+    "code": "459750",
+    "name": "KBSTAR 글로벌주식분산액티브",
+    "price": "10130"
+  },
+  {
+    "code": "399580",
+    "name": "KBSTAR 글로벌클린에너지S&P",
+    "price": "6830"
+  },
+  {
+    "code": "336160",
+    "name": "KBSTAR 금융채액티브",
+    "price": "100810"
+  },
+  {
+    "code": "326230",
+    "name": "KBSTAR 내수주플러스",
+    "price": "7515"
+  },
+  {
+    "code": "272560",
+    "name": "KBSTAR 단기국공채액티브",
+    "price": "106835"
+  },
+  {
+    "code": "385550",
+    "name": "KBSTAR 단기종합채권(AA-이상)액티브",
+    "price": "105995"
+  },
+  {
+    "code": "196230",
+    "name": "KBSTAR 단기통안채",
+    "price": "109685"
+  },
+  {
+    "code": "315960",
+    "name": "KBSTAR 대형고배당10TR",
+    "price": "16620"
+  },
+  {
+    "code": "455890",
+    "name": "KBSTAR 머니마켓액티브",
+    "price": "51120"
+  },
+  {
+    "code": "252730",
+    "name": "KBSTAR 모멘텀로우볼",
+    "price": "13575"
+  },
+  {
+    "code": "252720",
+    "name": "KBSTAR 모멘텀밸류",
+    "price": "13870"
+  },
+  {
+    "code": "379780",
+    "name": "KBSTAR 미국S&P500",
+    "price": "12745"
+  },
+  {
+    "code": "453330",
+    "name": "KBSTAR 미국S&P500(H)",
+    "price": "11365"
+  },
+  {
+    "code": "460660",
+    "name": "KBSTAR 미국S&P배당킹",
+    "price": "9530"
+  },
+  {
+    "code": "219390",
+    "name": "KBSTAR 미국S&P원유생산기업(합성 H)",
+    "price": "6260"
+  },
+  {
+    "code": "354240",
+    "name": "KBSTAR 미국고정배당우선증권ICE TR",
+    "price": "9540"
+  },
+  {
+    "code": "368590",
+    "name": "KBSTAR 미국나스닥100",
+    "price": "15210"
+  },
+  {
+    "code": "437350",
+    "name": "KBSTAR 미국단기투자등급회사채액티브",
+    "price": "10070"
+  },
+  {
+    "code": "455960",
+    "name": "KBSTAR 미국달러SOFR금리액티브(합성)",
+    "price": "10005"
+  },
+  {
+    "code": "469530",
+    "name": "KBSTAR 미국달러선물인버스",
+    "price": "10105"
+  },
+  {
+    "code": "469060",
+    "name": "KBSTAR 미국반도체NYSE",
+    "price": "10655"
+  },
+  {
+    "code": "469050",
+    "name": "KBSTAR 미국반도체NYSE(H)",
+    "price": "11015"
+  },
+  {
+    "code": "449580",
+    "name": "KBSTAR 미국빅데이터Top3채권혼합iSelect",
+    "price": "12040"
+  },
+  {
+    "code": "267440",
+    "name": "KBSTAR 미국장기국채선물(H)",
+    "price": "8275"
+  },
+  {
+    "code": "267490",
+    "name": "KBSTAR 미국장기국채선물레버리지(합성 H)",
+    "price": "5830"
+  },
+  {
+    "code": "267450",
+    "name": "KBSTAR 미국장기국채선물인버스(H)",
+    "price": "10805"
+  },
+  {
+    "code": "267500",
+    "name": "KBSTAR 미국장기국채선물인버스2X(합성 H)",
+    "price": "10885"
+  },
+  {
+    "code": "446700",
+    "name": "KBSTAR 배터리 리사이클링iSelect",
+    "price": "11940"
+  },
+  {
+    "code": "388420",
+    "name": "KBSTAR 비메모리반도체액티브",
+    "price": "11050"
+  },
+  {
+    "code": "448630",
+    "name": "KBSTAR 삼성그룹Top3채권혼합블룸버그",
+    "price": "9875"
+  },
+  {
+    "code": "140570",
+    "name": "KBSTAR 수출주",
+    "price": "10350"
+  },
+  {
+    "code": "140580",
+    "name": "KBSTAR 우량업종대표주",
+    "price": "10080"
+  },
+  {
+    "code": "379790",
+    "name": "KBSTAR 유로스탁스50(H)",
+    "price": "11740"
+  },
+  {
+    "code": "385540",
+    "name": "KBSTAR 종합채권(A-이상)액티브",
+    "price": "98670"
+  },
+  {
+    "code": "183710",
+    "name": "KBSTAR 주식혼합",
+    "price": "38130"
+  },
+  {
+    "code": "310080",
+    "name": "KBSTAR 중국MSCI China(H)",
+    "price": "7485"
+  },
+  {
+    "code": "463300",
+    "name": "KBSTAR 중국본토CSI300",
+    "price": "8650"
+  },
+  {
+    "code": "174360",
+    "name": "KBSTAR 중국본토대형주CSI100",
+    "price": "15150"
+  },
+  {
+    "code": "136340",
+    "name": "KBSTAR 중기우량회사채",
+    "price": "104075"
+  },
+  {
+    "code": "281990",
+    "name": "KBSTAR 중소형고배당",
+    "price": "10940"
+  },
+  {
+    "code": "272570",
+    "name": "KBSTAR 중장기국공채액티브",
+    "price": "102020"
+  },
+  {
+    "code": "250730",
+    "name": "KBSTAR 차이나HSCEI(H)",
+    "price": "7065"
+  },
+  {
+    "code": "291680",
+    "name": "KBSTAR 차이나H선물인버스(H)",
+    "price": "13265"
+  },
+  {
+    "code": "371150",
+    "name": "KBSTAR 차이나항셍테크",
+    "price": "5570"
+  },
+  {
+    "code": "183700",
+    "name": "KBSTAR 채권혼합",
+    "price": "59460"
+  },
+  {
+    "code": "270810",
+    "name": "KBSTAR 코스닥150",
+    "price": "12470"
+  },
+  {
+    "code": "278240",
+    "name": "KBSTAR 코스닥150선물레버리지",
+    "price": "10095"
+  },
+  {
+    "code": "275750",
+    "name": "KBSTAR 코스닥150선물인버스",
+    "price": "4105"
+  },
+  {
+    "code": "302450",
+    "name": "KBSTAR 코스피",
+    "price": "25545"
+  },
+  {
+    "code": "334690",
+    "name": "KBSTAR 팔라듐선물(H)",
+    "price": "5560"
+  },
+  {
+    "code": "334700",
+    "name": "KBSTAR 팔라듐선물인버스(H)",
+    "price": "6355"
+  },
+  {
+    "code": "253280",
+    "name": "KBSTAR 헬스케어",
+    "price": "11055"
+  },
+  {
+    "code": "253290",
+    "name": "KBSTAR 헬스케어채권혼합",
+    "price": "11020"
+  },
+  {
+    "code": "069500",
+    "name": "KODEX 200",
+    "price": "33305"
+  },
+  {
+    "code": "226980",
+    "name": "KODEX 200 중소형",
+    "price": "11475"
+  },
+  {
+    "code": "337160",
+    "name": "KODEX 200ESG",
+    "price": "12160"
+  },
+  {
+    "code": "363580",
+    "name": "KODEX 200IT TR",
+    "price": "12030"
+  },
+  {
+    "code": "278530",
+    "name": "KODEX 200TR",
+    "price": "11405"
+  },
+  {
+    "code": "337150",
+    "name": "KODEX 200exTOP",
+    "price": "10835"
+  },
+  {
+    "code": "223190",
+    "name": "KODEX 200가치저변동",
+    "price": "9855"
+  },
+  {
+    "code": "252650",
+    "name": "KODEX 200동일가중",
+    "price": "10215"
+  },
+  {
+    "code": "360140",
+    "name": "KODEX 200롱코스닥150숏선물",
+    "price": "8885"
+  },
+  {
+    "code": "284430",
+    "name": "KODEX 200미국채혼합",
+    "price": "11895"
+  },
+  {
+    "code": "252670",
+    "name": "KODEX 200선물인버스2X",
+    "price": "2605"
+  },
+  {
+    "code": "448310",
+    "name": "KODEX 23-12 국고채액티브",
+    "price": "10385"
+  },
+  {
+    "code": "448320",
+    "name": "KODEX 23-12 은행채(AA+이상)액티브",
+    "price": "10470"
+  },
+  {
+    "code": "465680",
+    "name": "KODEX 24-12 은행채(AA+이상)액티브",
+    "price": "10070"
+  },
+  {
+    "code": "467940",
+    "name": "KODEX 25-11 회사채(A+이상)액티브",
+    "price": "10125"
+  },
+  {
+    "code": "305720",
+    "name": "KODEX 2차전지산업",
+    "price": "21835"
+  },
+  {
+    "code": "462330",
+    "name": "KODEX 2차전지산업레버리지",
+    "price": "4840"
+  },
+  {
+    "code": "461950",
+    "name": "KODEX 2차전지핵심소재10 Fn",
+    "price": "8265"
+  },
+  {
+    "code": "457690",
+    "name": "KODEX 33-06 국고채액티브",
+    "price": "9985"
+  },
+  {
+    "code": "271060",
+    "name": "KODEX 3대농산물선물(H)",
+    "price": "10810"
+  },
+  {
+    "code": "457700",
+    "name": "KODEX 53-09 국고채액티브",
+    "price": "10095"
+  },
+  {
+    "code": "459580",
+    "name": "KODEX CD금리액티브(합성)",
+    "price": "1017800"
+  },
+  {
+    "code": "439860",
+    "name": "KODEX ESG종합채권(A-이상)액티브",
+    "price": "105420"
+  },
+  {
+    "code": "368680",
+    "name": "KODEX Fn K-뉴딜디지털플러스",
+    "price": "8175"
+  },
+  {
+    "code": "395170",
+    "name": "KODEX Fn Top10동일가중",
+    "price": "7295"
+  },
+  {
+    "code": "337120",
+    "name": "KODEX Fn멀티팩터",
+    "price": "11975"
+  },
+  {
+    "code": "325010",
+    "name": "KODEX Fn성장",
+    "price": "13850"
+  },
+  {
+    "code": "395160",
+    "name": "KODEX Fn시스템반도체",
+    "price": "9115"
+  },
+  {
+    "code": "395150",
+    "name": "KODEX Fn웹툰&드라마",
+    "price": "3965"
+  },
+  {
+    "code": "266370",
+    "name": "KODEX IT",
+    "price": "17850"
+  },
+  {
+    "code": "445290",
+    "name": "KODEX K-로봇액티브",
+    "price": "13805"
+  },
+  {
+    "code": "401470",
+    "name": "KODEX K-메타버스액티브",
+    "price": "7420"
+  },
+  {
+    "code": "385520",
+    "name": "KODEX K-미래차액티브",
+    "price": "9025"
+  },
+  {
+    "code": "385510",
+    "name": "KODEX K-신재생에너지액티브",
+    "price": "12735"
+  },
+  {
+    "code": "373490",
+    "name": "KODEX K-이노베이션액티브",
+    "price": "10315"
+  },
+  {
+    "code": "445150",
+    "name": "KODEX K-친환경선박액티브",
+    "price": "9995"
+  },
+  {
+    "code": "423160",
+    "name": "KODEX KOFR금리액티브(합성)",
+    "price": "104905"
+  },
+  {
+    "code": "292190",
+    "name": "KODEX KRX300",
+    "price": "15665"
+  },
+  {
+    "code": "306950",
+    "name": "KODEX KRX300레버리지",
+    "price": "12780"
+  },
+  {
+    "code": "404260",
+    "name": "KODEX KRX기후변화솔루션",
+    "price": "11310"
+  },
+  {
+    "code": "229720",
+    "name": "KODEX KTOP30",
+    "price": "16875"
+  },
+  {
+    "code": "291890",
+    "name": "KODEX MSCI EM선물(H)",
+    "price": "7520"
+  },
+  {
+    "code": "289040",
+    "name": "KODEX MSCI KOREA ESG유니버설",
+    "price": "9840"
+  },
+  {
+    "code": "156080",
+    "name": "KODEX MSCI Korea",
+    "price": "15845"
+  },
+  {
+    "code": "278540",
+    "name": "KODEX MSCI Korea TR",
+    "price": "11200"
+  },
+  {
+    "code": "275280",
+    "name": "KODEX MSCI모멘텀",
+    "price": "10780"
+  },
+  {
+    "code": "275290",
+    "name": "KODEX MSCI밸류",
+    "price": "10760"
+  },
+  {
+    "code": "275300",
+    "name": "KODEX MSCI퀄리티",
+    "price": "8240"
+  },
+  {
+    "code": "269420",
+    "name": "KODEX S&P글로벌인프라(합성)",
+    "price": "13255"
+  },
+  {
+    "code": "433970",
+    "name": "KODEX TDF2030액티브",
+    "price": "10840"
+  },
+  {
+    "code": "433980",
+    "name": "KODEX TDF2040액티브",
+    "price": "11060"
+  },
+  {
+    "code": "434060",
+    "name": "KODEX TDF2050액티브",
+    "price": "11210"
+  },
+  {
+    "code": "329650",
+    "name": "KODEX TRF3070",
+    "price": "11440"
+  },
+  {
+    "code": "329660",
+    "name": "KODEX TRF5050",
+    "price": "12855"
+  },
+  {
+    "code": "329670",
+    "name": "KODEX TRF7030",
+    "price": "14230"
+  },
+  {
+    "code": "352540",
+    "name": "KODEX TSE일본리츠(H)",
+    "price": "12075"
+  },
+  {
+    "code": "315930",
+    "name": "KODEX Top5PlusTR",
+    "price": "18750"
+  },
+  {
+    "code": "261220",
+    "name": "KODEX WTI원유선물(H)",
+    "price": "13840"
+  },
+  {
+    "code": "271050",
+    "name": "KODEX WTI원유선물인버스(H)",
+    "price": "4695"
+  },
+  {
+    "code": "468370",
+    "name": "KODEX iShares미국인플레이션국채액티브",
+    "price": "9745"
+  },
+  {
+    "code": "468630",
+    "name": "KODEX iShares미국투자등급회사채액티브",
+    "price": "10000"
+  },
+  {
+    "code": "468380",
+    "name": "KODEX iShares미국하이일드액티브",
+    "price": "9880"
+  },
+  {
+    "code": "117700",
+    "name": "KODEX 건설",
+    "price": "3310"
+  },
+  {
+    "code": "300950",
+    "name": "KODEX 게임산업",
+    "price": "6765"
+  },
+  {
+    "code": "266390",
+    "name": "KODEX 경기소비재",
+    "price": "8485"
+  },
+  {
+    "code": "279530",
+    "name": "KODEX 고배당",
+    "price": "9100"
+  },
+  {
+    "code": "132030",
+    "name": "KODEX 골드선물(H)",
+    "price": "12620"
+  },
+  {
+    "code": "280940",
+    "name": "KODEX 골드선물인버스(H)",
+    "price": "6980"
+  },
+  {
+    "code": "138910",
+    "name": "KODEX 구리선물(H)",
+    "price": "6465"
+  },
+  {
+    "code": "471230",
+    "name": "KODEX 국고채10년액티브",
+    "price": "101925"
+  },
+  {
+    "code": "439870",
+    "name": "KODEX 국고채30년액티브",
+    "price": "99225"
+  },
+  {
+    "code": "114260",
+    "name": "KODEX 국고채3년",
+    "price": "58310"
+  },
+  {
+    "code": "152380",
+    "name": "KODEX 국채선물10년",
+    "price": "63690"
+  },
+  {
+    "code": "176950",
+    "name": "KODEX 국채선물10년인버스",
+    "price": "55110"
+  },
+  {
+    "code": "292770",
+    "name": "KODEX 국채선물3년인버스",
+    "price": "54030"
+  },
+  {
+    "code": "276990",
+    "name": "KODEX 글로벌로봇(합성)",
+    "price": "15255"
+  },
+  {
+    "code": "102960",
+    "name": "KODEX 기계장비",
+    "price": "5955"
+  },
+  {
+    "code": "352560",
+    "name": "KODEX 다우존스미국리츠(H)",
+    "price": "10850"
+  },
+  {
+    "code": "273140",
+    "name": "KODEX 단기변동금리부채권액티브",
+    "price": "108530"
+  },
+  {
+    "code": "153130",
+    "name": "KODEX 단기채권",
+    "price": "107720"
+  },
+  {
+    "code": "214980",
+    "name": "KODEX 단기채권PLUS",
+    "price": "108385"
+  },
+  {
+    "code": "122630",
+    "name": "KODEX 레버리지",
+    "price": "15935"
+  },
+  {
+    "code": "321410",
+    "name": "KODEX 멀티에셋하이인컴(H)",
+    "price": "9245"
+  },
+  {
+    "code": "244620",
+    "name": "KODEX 모멘텀Plus",
+    "price": "11525"
+  },
+  {
+    "code": "428560",
+    "name": "KODEX 미국ETF산업Top10 Indxx",
+    "price": "12180"
+  },
+  {
+    "code": "314250",
+    "name": "KODEX 미국FANG플러스(H)",
+    "price": "30015"
+  },
+  {
+    "code": "449180",
+    "name": "KODEX 미국S&P500(H)",
+    "price": "10755"
+  },
+  {
+    "code": "379800",
+    "name": "KODEX 미국S&P500TR",
+    "price": "13180"
+  },
+  {
+    "code": "453660",
+    "name": "KODEX 미국S&P500경기소비재",
+    "price": "11610"
+  },
+  {
+    "code": "453650",
+    "name": "KODEX 미국S&P500금융",
+    "price": "11070"
+  },
+  {
+    "code": "276970",
+    "name": "KODEX 미국S&P500배당귀족커버드콜(합성 H)",
+    "price": "8405"
+  },
+  {
+    "code": "200030",
+    "name": "KODEX 미국S&P500산업재(합성)",
+    "price": "23540"
+  },
+  {
+    "code": "219480",
+    "name": "KODEX 미국S&P500선물(H)",
+    "price": "21000"
+  },
+  {
+    "code": "218420",
+    "name": "KODEX 미국S&P500에너지(합성)",
+    "price": "12475"
+  },
+  {
+    "code": "463640",
+    "name": "KODEX 미국S&P500유틸리티",
+    "price": "9275"
+  },
+  {
+    "code": "463680",
+    "name": "KODEX 미국S&P500테크놀로지",
+    "price": "10365"
+  },
+  {
+    "code": "463690",
+    "name": "KODEX 미국S&P500통신서비스",
+    "price": "10295"
+  },
+  {
+    "code": "453630",
+    "name": "KODEX 미국S&P500필수소비재",
+    "price": "9485"
+  },
+  {
+    "code": "453640",
+    "name": "KODEX 미국S&P500헬스케어",
+    "price": "10100"
+  },
+  {
+    "code": "185680",
+    "name": "KODEX 미국S&P바이오(합성)",
+    "price": "19730"
+  },
+  {
+    "code": "449190",
+    "name": "KODEX 미국나스닥100(H)",
+    "price": "12775"
+  },
+  {
+    "code": "379810",
+    "name": "KODEX 미국나스닥100TR",
+    "price": "13600"
+  },
+  {
+    "code": "409820",
+    "name": "KODEX 미국나스닥100레버리지(합성 H)",
+    "price": "7530"
+  },
+  {
+    "code": "304940",
+    "name": "KODEX 미국나스닥100선물(H)",
+    "price": "19075"
+  },
+  {
+    "code": "409810",
+    "name": "KODEX 미국나스닥100선물인버스(H)",
+    "price": "9720"
+  },
+  {
+    "code": "455030",
+    "name": "KODEX 미국달러SOFR금리액티브(합성)",
+    "price": "10265"
+  },
+  {
+    "code": "261240",
+    "name": "KODEX 미국달러선물",
+    "price": "12035"
+  },
+  {
+    "code": "261250",
+    "name": "KODEX 미국달러선물레버리지",
+    "price": "12420"
+  },
+  {
+    "code": "261270",
+    "name": "KODEX 미국달러선물인버스",
+    "price": "8760"
+  },
+  {
+    "code": "261260",
+    "name": "KODEX 미국달러선물인버스2X",
+    "price": "6835"
+  },
+  {
+    "code": "280930",
+    "name": "KODEX 미국러셀2000(H)",
+    "price": "11115"
+  },
+  {
+    "code": "411420",
+    "name": "KODEX 미국메타버스나스닥액티브",
+    "price": "8515"
+  },
+  {
+    "code": "390390",
+    "name": "KODEX 미국반도체MV",
+    "price": "14240"
+  },
+  {
+    "code": "441640",
+    "name": "KODEX 미국배당프리미엄액티브",
+    "price": "9590"
+  },
+  {
+    "code": "390400",
+    "name": "KODEX 미국스마트모빌리티S&P",
+    "price": "5240"
+  },
+  {
+    "code": "437080",
+    "name": "KODEX 미국종합채권SRI액티브(H)",
+    "price": "95645"
+  },
+  {
+    "code": "308620",
+    "name": "KODEX 미국채10년선물",
+    "price": "10650"
+  },
+  {
+    "code": "304660",
+    "name": "KODEX 미국채울트라30년선물(H)",
+    "price": "7640"
+  },
+  {
+    "code": "304670",
+    "name": "KODEX 미국채울트라30년선물인버스(H)",
+    "price": "11680"
+  },
+  {
+    "code": "419420",
+    "name": "KODEX 미국클린에너지나스닥",
+    "price": "6150"
+  },
+  {
+    "code": "266360",
+    "name": "KODEX 미디어&엔터테인먼트",
+    "price": "11675"
+  },
+  {
+    "code": "244580",
+    "name": "KODEX 바이오",
+    "price": "7595"
+  },
+  {
+    "code": "091160",
+    "name": "KODEX 반도체",
+    "price": "34060"
+  },
+  {
+    "code": "325020",
+    "name": "KODEX 배당가치",
+    "price": "12545"
+  },
+  {
+    "code": "211900",
+    "name": "KODEX 배당성장",
+    "price": "13470"
+  },
+  {
+    "code": "237370",
+    "name": "KODEX 배당성장채권혼합",
+    "price": "11990"
+  },
+  {
+    "code": "244670",
+    "name": "KODEX 밸류Plus",
+    "price": "8330"
+  },
+  {
+    "code": "140700",
+    "name": "KODEX 보험",
+    "price": "7905"
+  },
+  {
+    "code": "102780",
+    "name": "KODEX 삼성그룹",
+    "price": "8660"
+  },
+  {
+    "code": "213610",
+    "name": "KODEX 삼성그룹밸류",
+    "price": "8465"
+  },
+  {
+    "code": "448330",
+    "name": "KODEX 삼성전자채권혼합Wise",
+    "price": "10895"
+  },
+  {
+    "code": "251350",
+    "name": "KODEX 선진국MSCI World",
+    "price": "22205"
+  },
+  {
+    "code": "437070",
+    "name": "KODEX 아시아달러채권SRI플러스액티브",
+    "price": "50265"
+  },
+  {
+    "code": "446690",
+    "name": "KODEX 아시아반도체공급망exChina액티브",
+    "price": "13425"
+  },
+  {
+    "code": "117460",
+    "name": "KODEX 에너지화학",
+    "price": "15230"
+  },
+  {
+    "code": "140710",
+    "name": "KODEX 운송",
+    "price": "4345"
+  },
+  {
+    "code": "456250",
+    "name": "KODEX 유럽명품TOP10 STOXX",
+    "price": "8130"
+  },
+  {
+    "code": "400570",
+    "name": "KODEX 유럽탄소배출권선물ICE(H)",
+    "price": "11925"
+  },
+  {
+    "code": "144600",
+    "name": "KODEX 은선물(H)",
+    "price": "4525"
+  },
+  {
+    "code": "091170",
+    "name": "KODEX 은행",
+    "price": "6395"
+  },
+  {
+    "code": "453810",
+    "name": "KODEX 인도Nifty50",
+    "price": "10765"
+  },
+  {
+    "code": "453820",
+    "name": "KODEX 인도Nifty50레버리지(합성)",
+    "price": "11145"
+  },
+  {
+    "code": "114800",
+    "name": "KODEX 인버스",
+    "price": "4630"
+  },
+  {
+    "code": "101280",
+    "name": "KODEX 일본TOPIX100",
+    "price": "17260"
+  },
+  {
+    "code": "091180",
+    "name": "KODEX 자동차",
+    "price": "17985"
+  },
+  {
+    "code": "363570",
+    "name": "KODEX 장기종합채권(AA-이상)액티브KAP",
+    "price": "88670"
+  },
+  {
+    "code": "273130",
+    "name": "KODEX 종합채권(AA-이상)액티브",
+    "price": "106490"
+  },
+  {
+    "code": "102970",
+    "name": "KODEX 증권",
+    "price": "6345"
+  },
+  {
+    "code": "419430",
+    "name": "KODEX 차이나2차전지MSCI(합성)",
+    "price": "5825"
+  },
+  {
+    "code": "169950",
+    "name": "KODEX 차이나A50",
+    "price": "16845"
+  },
+  {
+    "code": "283580",
+    "name": "KODEX 차이나CSI300",
+    "price": "10440"
+  },
+  {
+    "code": "099140",
+    "name": "KODEX 차이나H",
+    "price": "14600"
+  },
+  {
+    "code": "204450",
+    "name": "KODEX 차이나H레버리지(H)",
+    "price": "1580"
+  },
+  {
+    "code": "415340",
+    "name": "KODEX 차이나과창판STAR50(합성)",
+    "price": "6490"
+  },
+  {
+    "code": "428510",
+    "name": "KODEX 차이나메타버스액티브",
+    "price": "9555"
+  },
+  {
+    "code": "256750",
+    "name": "KODEX 차이나심천ChiNext(합성)",
+    "price": "8220"
+  },
+  {
+    "code": "372330",
+    "name": "KODEX 차이나항셍테크",
+    "price": "5685"
+  },
+  {
+    "code": "117680",
+    "name": "KODEX 철강",
+    "price": "9115"
+  },
+  {
+    "code": "279540",
+    "name": "KODEX 최소변동성",
+    "price": "10055"
+  },
+  {
+    "code": "229200",
+    "name": "KODEX 코스닥150",
+    "price": "12555"
+  },
+  {
+    "code": "233740",
+    "name": "KODEX 코스닥150레버리지",
+    "price": "9330"
+  },
+  {
+    "code": "360150",
+    "name": "KODEX 코스닥150롱코스피200숏선물",
+    "price": "9790"
+  },
+  {
+    "code": "251340",
+    "name": "KODEX 코스닥150선물인버스",
+    "price": "3980"
+  },
+  {
+    "code": "461450",
+    "name": "KODEX 코스닥글로벌",
+    "price": "9790"
+  },
+  {
+    "code": "226490",
+    "name": "KODEX 코스피",
+    "price": "25190"
+  },
+  {
+    "code": "237350",
+    "name": "KODEX 코스피100",
+    "price": "25850"
+  },
+  {
+    "code": "359210",
+    "name": "KODEX 코스피TR",
+    "price": "12005"
+  },
+  {
+    "code": "337140",
+    "name": "KODEX 코스피대형주",
+    "price": "11905"
+  },
+  {
+    "code": "138920",
+    "name": "KODEX 콩선물(H)",
+    "price": "14835"
+  },
+  {
+    "code": "244660",
+    "name": "KODEX 퀄리티Plus",
+    "price": "8420"
+  },
+  {
+    "code": "375770",
+    "name": "KODEX 탄소효율그린뉴딜",
+    "price": "8330"
+  },
+  {
+    "code": "459560",
+    "name": "KODEX 테슬라밸류체인FactSet",
+    "price": "10080"
+  },
+  {
+    "code": "266410",
+    "name": "KODEX 필수소비재",
+    "price": "6520"
+  },
+  {
+    "code": "298770",
+    "name": "KODEX 한국대만IT프리미어",
+    "price": "18995"
+  },
+  {
+    "code": "450190",
+    "name": "KODEX 한중반도체(합성)",
+    "price": "11940"
+  },
+  {
+    "code": "450180",
+    "name": "KODEX 한중전기차(합성)",
+    "price": "8730"
+  },
+  {
+    "code": "266420",
+    "name": "KODEX 헬스케어",
+    "price": "11980"
+  },
+  {
+    "code": "364690",
+    "name": "KODEX 혁신기술테마액티브",
+    "price": "11870"
+  },
+  {
+    "code": "069660",
+    "name": "KOSEF 200",
+    "price": "33265"
+  },
+  {
+    "code": "294400",
+    "name": "KOSEF 200TR",
+    "price": "41490"
+  },
+  {
+    "code": "253250",
+    "name": "KOSEF 200선물레버리지",
+    "price": "14455"
+  },
+  {
+    "code": "253240",
+    "name": "KOSEF 200선물인버스",
+    "price": "5985"
+  },
+  {
+    "code": "253230",
+    "name": "KOSEF 200선물인버스2X",
+    "price": "2625"
+  },
+  {
+    "code": "460280",
+    "name": "KOSEF Fn유전자혁신기술",
+    "price": "8905"
+  },
+  {
+    "code": "331910",
+    "name": "KOSEF Fn중소형",
+    "price": "20120"
+  },
+  {
+    "code": "469790",
+    "name": "KOSEF K-테크TOP10",
+    "price": "10635"
+  },
+  {
+    "code": "100910",
+    "name": "KOSEF KRX100",
+    "price": "5150"
+  },
+  {
+    "code": "450120",
+    "name": "KOSEF SK그룹대표주",
+    "price": "11030"
+  },
+  {
+    "code": "104530",
+    "name": "KOSEF 고배당",
+    "price": "8830"
+  },
+  {
+    "code": "148070",
+    "name": "KOSEF 국고채10년",
+    "price": "110925"
+  },
+  {
+    "code": "167860",
+    "name": "KOSEF 국고채10년레버리지",
+    "price": "103950"
+  },
+  {
+    "code": "114470",
+    "name": "KOSEF 국고채3년",
+    "price": "108920"
+  },
+  {
+    "code": "130730",
+    "name": "KOSEF 단기자금",
+    "price": "104495"
+  },
+  {
+    "code": "411860",
+    "name": "KOSEF 독일DAX",
+    "price": "10050"
+  },
+  {
+    "code": "394340",
+    "name": "KOSEF 릭소글로벌디지털경제MSCI",
+    "price": "8430"
+  },
+  {
+    "code": "394350",
+    "name": "KOSEF 릭소글로벌퓨처모빌리티MSCI",
+    "price": "8860"
+  },
+  {
+    "code": "430500",
+    "name": "KOSEF 물가채KIS",
+    "price": "108650"
+  },
+  {
+    "code": "426330",
+    "name": "KOSEF 미국ETF산업STOXX",
+    "price": "10515"
+  },
+  {
+    "code": "449770",
+    "name": "KOSEF 미국S&P500",
+    "price": "11670"
+  },
+  {
+    "code": "449780",
+    "name": "KOSEF 미국S&P500(H)",
+    "price": "11545"
+  },
+  {
+    "code": "453080",
+    "name": "KOSEF 미국나스닥100(H)",
+    "price": "13085"
+  },
+  {
+    "code": "138230",
+    "name": "KOSEF 미국달러선물",
+    "price": "14325"
+  },
+  {
+    "code": "225800",
+    "name": "KOSEF 미국달러선물레버리지",
+    "price": "11870"
+  },
+  {
+    "code": "139660",
+    "name": "KOSEF 미국달러선물인버스",
+    "price": "9155"
+  },
+  {
+    "code": "230480",
+    "name": "KOSEF 미국달러선물인버스2X",
+    "price": "6015"
+  },
+  {
+    "code": "373790",
+    "name": "KOSEF 미국방어배당성장나스닥",
+    "price": "12500"
+  },
+  {
+    "code": "104520",
+    "name": "KOSEF 블루칩",
+    "price": "7530"
+  },
+  {
+    "code": "200250",
+    "name": "KOSEF 인도Nifty50(합성)",
+    "price": "19800"
+  },
+  {
+    "code": "441330",
+    "name": "KOSEF 차이나A50커넥트MSCI",
+    "price": "7750"
+  },
+  {
+    "code": "445930",
+    "name": "KOSEF 차이나A50커넥트레버리지MSCI(합성H)",
+    "price": "7555"
+  },
+  {
+    "code": "445950",
+    "name": "KOSEF 차이나A50커넥트인버스MSCI(합성 H)",
+    "price": "10595"
+  },
+  {
+    "code": "454180",
+    "name": "KOSEF 차이나내수소비TOP CSI",
+    "price": "7795"
+  },
+  {
+    "code": "316670",
+    "name": "KOSEF 코스닥150",
+    "price": "6285"
+  },
+  {
+    "code": "291630",
+    "name": "KOSEF 코스닥150선물레버리지",
+    "price": "4450"
+  },
+  {
+    "code": "291620",
+    "name": "KOSEF 코스닥150선물인버스",
+    "price": "7145"
+  },
+  {
+    "code": "467540",
+    "name": "KOSEF 코스닥글로벌",
+    "price": "10210"
+  },
+  {
+    "code": "153270",
+    "name": "KOSEF 코스피100",
+    "price": "25085"
+  },
+  {
+    "code": "122260",
+    "name": "KOSEF 통안채1년",
+    "price": "104715"
+  },
+  {
+    "code": "466400",
+    "name": "KTOP 25-08 회사채(A+이상)액티브",
+    "price": "100800"
+  },
+  {
+    "code": "451060",
+    "name": "KTOP K200액티브",
+    "price": "10420"
+  },
+  {
+    "code": "463290",
+    "name": "KTOP 단기금융채액티브",
+    "price": "101215"
+  },
+  {
+    "code": "168300",
+    "name": "KTOP 코스피50",
+    "price": "23500"
+  },
+  {
+    "code": "462900",
+    "name": "KoAct 바이오헬스케어액티브",
+    "price": "9580"
+  },
+  {
+    "code": "407170",
+    "name": "MASTER 스마트커머스액티브",
+    "price": "7065"
+  },
+  {
+    "code": "407160",
+    "name": "MASTER 테크미디어텔레콤액티브",
+    "price": "8510"
+  },
+  {
+    "code": "411540",
+    "name": "SOL 200 Top10",
+    "price": "8105"
+  },
+  {
+    "code": "295040",
+    "name": "SOL 200TR",
+    "price": "11875"
+  },
+  {
+    "code": "449540",
+    "name": "SOL 24-06 국고채액티브",
+    "price": "103445"
+  },
+  {
+    "code": "469820",
+    "name": "SOL 24-12 회사채(AA-이상)액티브",
+    "price": "50145"
+  },
+  {
+    "code": "462540",
+    "name": "SOL 25-09 회사채(AA-이상)액티브",
+    "price": "50545"
+  },
+  {
+    "code": "455860",
+    "name": "SOL 2차전지소부장Fn",
+    "price": "7640"
+  },
+  {
+    "code": "444200",
+    "name": "SOL KEDI메가테크액티브",
+    "price": "11715"
+  },
+  {
+    "code": "363510",
+    "name": "SOL KIS단기통안채",
+    "price": "105205"
+  },
+  {
+    "code": "292500",
+    "name": "SOL KRX300",
+    "price": "15805"
+  },
+  {
+    "code": "404650",
+    "name": "SOL KRX기후변화솔루션",
+    "price": "11340"
+  },
+  {
+    "code": "438570",
+    "name": "SOL 국고채10년",
+    "price": "104020"
+  },
+  {
+    "code": "438560",
+    "name": "SOL 국고채3년",
+    "price": "104160"
+  },
+  {
+    "code": "400590",
+    "name": "SOL 글로벌탄소배출권선물ICE(합성)",
+    "price": "12555"
+  },
+  {
+    "code": "461600",
+    "name": "SOL 미국30년국채액티브(H)",
+    "price": "9090"
+  },
+  {
+    "code": "433330",
+    "name": "SOL 미국S&P500",
+    "price": "12145"
+  },
+  {
+    "code": "399110",
+    "name": "SOL 미국S&P500ESG",
+    "price": "11550"
+  },
+  {
+    "code": "447620",
+    "name": "SOL 미국TOP5채권혼합40 Solactive",
+    "price": "11480"
+  },
+  {
+    "code": "446720",
+    "name": "SOL 미국배당다우존스",
+    "price": "8970"
+  },
+  {
+    "code": "452360",
+    "name": "SOL 미국배당다우존스(H)",
+    "price": "9895"
+  },
+  {
+    "code": "455850",
+    "name": "SOL 반도체소부장Fn",
+    "price": "12730"
+  },
+  {
+    "code": "400580",
+    "name": "SOL 유럽탄소배출권선물S&P(H)",
+    "price": "11925"
+  },
+  {
+    "code": "459370",
+    "name": "SOL 유럽탄소배출권선물인버스ICE(H)",
+    "price": "11600"
+  },
+  {
+    "code": "464610",
+    "name": "SOL 의료기기소부장Fn",
+    "price": "9330"
+  },
+  {
+    "code": "466930",
+    "name": "SOL 자동차TOP3플러스",
+    "price": "9750"
+  },
+  {
+    "code": "464600",
+    "name": "SOL 자동차소부장Fn",
+    "price": "9615"
+  },
+  {
+    "code": "466920",
+    "name": "SOL 조선TOP3플러스",
+    "price": "8720"
+  },
+  {
+    "code": "436140",
+    "name": "SOL 종합채권(AA-이상)액티브",
+    "price": "102800"
+  },
+  {
+    "code": "220130",
+    "name": "SOL 차이나강소기업CSI500(합성 H)",
+    "price": "4380"
+  },
+  {
+    "code": "415760",
+    "name": "SOL 차이나육성산업액티브(합성)",
+    "price": "6285"
+  },
+  {
+    "code": "413220",
+    "name": "SOL 차이나태양광CSI(합성)",
+    "price": "4970"
+  },
+  {
+    "code": "469830",
+    "name": "SOL 초단기채권액티브",
+    "price": "50105"
+  },
+  {
+    "code": "450910",
+    "name": "SOL 코스닥150",
+    "price": "12335"
+  },
+  {
+    "code": "423170",
+    "name": "SOL 한국형글로벌반도체액티브",
+    "price": "12875"
+  },
+  {
+    "code": "429980",
+    "name": "SOL 한국형글로벌전기차&2차전지액티브",
+    "price": "9750"
+  },
+  {
+    "code": "429990",
+    "name": "SOL 한국형글로벌플랫폼&메타버스액티브",
+    "price": "10805"
+  },
+  {
+    "code": "102110",
+    "name": "TIGER 200",
+    "price": "33345"
+  },
+  {
+    "code": "139260",
+    "name": "TIGER 200 IT",
+    "price": "31240"
+  },
+  {
+    "code": "139220",
+    "name": "TIGER 200 건설",
+    "price": "3125"
+  },
+  {
+    "code": "139290",
+    "name": "TIGER 200 경기소비재",
+    "price": "14635"
+  },
+  {
+    "code": "139270",
+    "name": "TIGER 200 금융",
+    "price": "6280"
+  },
+  {
+    "code": "227550",
+    "name": "TIGER 200 산업재",
+    "price": "5820"
+  },
+  {
+    "code": "227560",
+    "name": "TIGER 200 생활소비재",
+    "price": "7775"
+  },
+  {
+    "code": "139250",
+    "name": "TIGER 200 에너지화학",
+    "price": "13540"
+  },
+  {
+    "code": "139230",
+    "name": "TIGER 200 중공업",
+    "price": "3170"
+  },
+  {
+    "code": "139240",
+    "name": "TIGER 200 철강소재",
+    "price": "8755"
+  },
+  {
+    "code": "227540",
+    "name": "TIGER 200 헬스케어",
+    "price": "16780"
+  },
+  {
+    "code": "243880",
+    "name": "TIGER 200IT레버리지",
+    "price": "37535"
+  },
+  {
+    "code": "310960",
+    "name": "TIGER 200TR",
+    "price": "18575"
+  },
+  {
+    "code": "252000",
+    "name": "TIGER 200동일가중",
+    "price": "10585"
+  },
+  {
+    "code": "267770",
+    "name": "TIGER 200선물레버리지",
+    "price": "12200"
+  },
+  {
+    "code": "252710",
+    "name": "TIGER 200선물인버스2X",
+    "price": "2765"
+  },
+  {
+    "code": "243890",
+    "name": "TIGER 200에너지화학레버리지",
+    "price": "7795"
+  },
+  {
+    "code": "315270",
+    "name": "TIGER 200커뮤니케이션서비스",
+    "price": "16910"
+  },
+  {
+    "code": "166400",
+    "name": "TIGER 200커버드콜5%OTM",
+    "price": "11975"
+  },
+  {
+    "code": "289480",
+    "name": "TIGER 200커버드콜ATM",
+    "price": "8550"
+  },
+  {
+    "code": "447780",
+    "name": "TIGER 23-12 국공채액티브",
+    "price": "207835"
+  },
+  {
+    "code": "453530",
+    "name": "TIGER 24-04 회사채(A+이상)액티브",
+    "price": "51330"
+  },
+  {
+    "code": "447820",
+    "name": "TIGER 24-10 회사채(A+이상)액티브",
+    "price": "53570"
+  },
+  {
+    "code": "453540",
+    "name": "TIGER 25-10 회사채(A+이상)액티브",
+    "price": "51075"
+  },
+  {
+    "code": "462010",
+    "name": "TIGER 2차전지소재Fn",
+    "price": "7935"
+  },
+  {
+    "code": "305540",
+    "name": "TIGER 2차전지테마",
+    "price": "25215"
+  },
+  {
+    "code": "365040",
+    "name": "TIGER AI코리아그로스액티브",
+    "price": "11520"
+  },
+  {
+    "code": "357870",
+    "name": "TIGER CD금리투자KIS(합성)",
+    "price": "53350"
+  },
+  {
+    "code": "400970",
+    "name": "TIGER Fn메타버스",
+    "price": "7470"
+  },
+  {
+    "code": "396500",
+    "name": "TIGER Fn반도체TOP10",
+    "price": "9870"
+  },
+  {
+    "code": "377990",
+    "name": "TIGER Fn신재생에너지",
+    "price": "8400"
+  },
+  {
+    "code": "417630",
+    "name": "TIGER KEDI혁신기업ESG30",
+    "price": "9770"
+  },
+  {
+    "code": "449170",
+    "name": "TIGER KOFR금리액티브(합성)",
+    "price": "103460"
+  },
+  {
+    "code": "364960",
+    "name": "TIGER KRX BBIG K-뉴딜",
+    "price": "6020"
+  },
+  {
+    "code": "412560",
+    "name": "TIGER KRX BBIG K-뉴딜레버리지",
+    "price": "2185"
+  },
+  {
+    "code": "364980",
+    "name": "TIGER KRX2차전지K-뉴딜",
+    "price": "14185"
+  },
+  {
+    "code": "412570",
+    "name": "TIGER KRX2차전지K-뉴딜레버리지",
+    "price": "4885"
+  },
+  {
+    "code": "292160",
+    "name": "TIGER KRX300",
+    "price": "15730"
+  },
+  {
+    "code": "364990",
+    "name": "TIGER KRX게임K-뉴딜",
+    "price": "5030"
+  },
+  {
+    "code": "404540",
+    "name": "TIGER KRX기후변화솔루션",
+    "price": "11375"
+  },
+  {
+    "code": "364970",
+    "name": "TIGER KRX바이오K-뉴딜",
+    "price": "5720"
+  },
+  {
+    "code": "365000",
+    "name": "TIGER KRX인터넷K-뉴딜",
+    "price": "3515"
+  },
+  {
+    "code": "228820",
+    "name": "TIGER KTOP30",
+    "price": "8410"
+  },
+  {
+    "code": "300610",
+    "name": "TIGER K게임",
+    "price": "7650"
+  },
+  {
+    "code": "138530",
+    "name": "TIGER LG그룹+펀더멘털",
+    "price": "7885"
+  },
+  {
+    "code": "445910",
+    "name": "TIGER MKF배당귀족",
+    "price": "11455"
+  },
+  {
+    "code": "289260",
+    "name": "TIGER MSCI KOREA ESG리더스",
+    "price": "8255"
+  },
+  {
+    "code": "289250",
+    "name": "TIGER MSCI KOREA ESG유니버설",
+    "price": "9845"
+  },
+  {
+    "code": "310970",
+    "name": "TIGER MSCI Korea TR",
+    "price": "14020"
+  },
+  {
+    "code": "269370",
+    "name": "TIGER S&P글로벌인프라(합성)",
+    "price": "11195"
+  },
+  {
+    "code": "248270",
+    "name": "TIGER S&P글로벌헬스케어(합성)",
+    "price": "19160"
+  },
+  {
+    "code": "292150",
+    "name": "TIGER TOP10",
+    "price": "10975"
+  },
+  {
+    "code": "453950",
+    "name": "TIGER TSMC밸류체인FACTSET",
+    "price": "11345"
+  },
+  {
+    "code": "139280",
+    "name": "TIGER 경기방어",
+    "price": "8595"
+  },
+  {
+    "code": "237440",
+    "name": "TIGER 경기방어채권혼합",
+    "price": "8920"
+  },
+  {
+    "code": "319640",
+    "name": "TIGER 골드선물(H)",
+    "price": "13500"
+  },
+  {
+    "code": "160580",
+    "name": "TIGER 구리실물",
+    "price": "9505"
+  },
+  {
+    "code": "451530",
+    "name": "TIGER 국고채30년스트립액티브",
+    "price": "46060"
+  },
+  {
+    "code": "114820",
+    "name": "TIGER 국채3년",
+    "price": "106155"
+  },
+  {
+    "code": "275980",
+    "name": "TIGER 글로벌4차산업혁신기술(합성 H)",
+    "price": "15445"
+  },
+  {
+    "code": "464310",
+    "name": "TIGER 글로벌AI&로보틱스 INDXX",
+    "price": "9515"
+  },
+  {
+    "code": "466950",
+    "name": "TIGER 글로벌AI액티브",
+    "price": "10290"
+  },
+  {
+    "code": "387270",
+    "name": "TIGER 글로벌BBIG액티브",
+    "price": "11545"
+  },
+  {
+    "code": "394670",
+    "name": "TIGER 글로벌리튬&2차전지SOLACTIVE(합성)",
+    "price": "6995"
+  },
+  {
+    "code": "440340",
+    "name": "TIGER 글로벌멀티에셋TIF액티브",
+    "price": "9345"
+  },
+  {
+    "code": "412770",
+    "name": "TIGER 글로벌메타버스액티브",
+    "price": "7705"
+  },
+  {
+    "code": "418670",
+    "name": "TIGER 글로벌사이버보안INDXX",
+    "price": "10090"
+  },
+  {
+    "code": "276000",
+    "name": "TIGER 글로벌자원생산기업(합성 H)",
+    "price": "14620"
+  },
+  {
+    "code": "394660",
+    "name": "TIGER 글로벌자율주행&전기차SOLACTIVE",
+    "price": "9685"
+  },
+  {
+    "code": "371450",
+    "name": "TIGER 글로벌클라우드컴퓨팅INDXX",
+    "price": "9125"
+  },
+  {
+    "code": "464930",
+    "name": "TIGER 글로벌혁신블루칩TOP10",
+    "price": "10060"
+  },
+  {
+    "code": "139310",
+    "name": "TIGER 금속선물(H)",
+    "price": "5430"
+  },
+  {
+    "code": "139320",
+    "name": "TIGER 금은선물(H)",
+    "price": "9540"
+  },
+  {
+    "code": "137610",
+    "name": "TIGER 농산물선물Enhanced(H)",
+    "price": "7060"
+  },
+  {
+    "code": "182490",
+    "name": "TIGER 단기선진하이일드(합성 H)",
+    "price": "12495"
+  },
+  {
+    "code": "272580",
+    "name": "TIGER 단기채권액티브",
+    "price": "52855"
+  },
+  {
+    "code": "157450",
+    "name": "TIGER 단기통안채",
+    "price": "105160"
+  },
+  {
+    "code": "105010",
+    "name": "TIGER 라틴35",
+    "price": "4230"
+  },
+  {
+    "code": "123320",
+    "name": "TIGER 레버리지",
+    "price": "15550"
+  },
+  {
+    "code": "174350",
+    "name": "TIGER 로우볼",
+    "price": "11365"
+  },
+  {
+    "code": "329200",
+    "name": "TIGER 리츠부동산인프라",
+    "price": "4240"
+  },
+  {
+    "code": "341850",
+    "name": "TIGER 리츠부동산인프라채권TR KIS",
+    "price": "4525"
+  },
+  {
+    "code": "147970",
+    "name": "TIGER 모멘텀",
+    "price": "23900"
+  },
+  {
+    "code": "182480",
+    "name": "TIGER 미국MSCI리츠(합성 H)",
+    "price": "11295"
+  },
+  {
+    "code": "360750",
+    "name": "TIGER 미국S&P500",
+    "price": "14590"
+  },
+  {
+    "code": "448290",
+    "name": "TIGER 미국S&P500TR(H)",
+    "price": "10970"
+  },
+  {
+    "code": "225040",
+    "name": "TIGER 미국S&P500레버리지(합성 H)",
+    "price": "28930"
+  },
+  {
+    "code": "429000",
+    "name": "TIGER 미국S&P500배당귀족",
+    "price": "9890"
+  },
+  {
+    "code": "143850",
+    "name": "TIGER 미국S&P500선물(H)",
+    "price": "50945"
+  },
+  {
+    "code": "225030",
+    "name": "TIGER 미국S&P500선물인버스(H)",
+    "price": "3645"
+  },
+  {
+    "code": "133690",
+    "name": "TIGER 미국나스닥100",
+    "price": "91415"
+  },
+  {
+    "code": "448300",
+    "name": "TIGER 미국나스닥100TR(H)",
+    "price": "13030"
+  },
+  {
+    "code": "435420",
+    "name": "TIGER 미국나스닥100TR채권혼합Fn",
+    "price": "11240"
+  },
+  {
+    "code": "418660",
+    "name": "TIGER 미국나스닥100레버리지(합성)",
+    "price": "12535"
+  },
+  {
+    "code": "441680",
+    "name": "TIGER 미국나스닥100커버드콜(합성)",
+    "price": "9580"
+  },
+  {
+    "code": "429010",
+    "name": "TIGER 미국나스닥넥스트100",
+    "price": "10240"
+  },
+  {
+    "code": "203780",
+    "name": "TIGER 미국나스닥바이오",
+    "price": "17890"
+  },
+  {
+    "code": "245340",
+    "name": "TIGER 미국다우존스30",
+    "price": "22390"
+  },
+  {
+    "code": "456610",
+    "name": "TIGER 미국달러SOFR금리액티브(합성)",
+    "price": "49630"
+  },
+  {
+    "code": "329750",
+    "name": "TIGER 미국달러단기채권액티브",
+    "price": "11470"
+  },
+  {
+    "code": "261110",
+    "name": "TIGER 미국달러선물레버리지",
+    "price": "12450"
+  },
+  {
+    "code": "261120",
+    "name": "TIGER 미국달러선물인버스2X",
+    "price": "6855"
+  },
+  {
+    "code": "458750",
+    "name": "TIGER 미국배당+3%프리미엄다우존스",
+    "price": "9625"
+  },
+  {
+    "code": "458760",
+    "name": "TIGER 미국배당+7%프리미엄다우존스",
+    "price": "9420"
+  },
+  {
+    "code": "458730",
+    "name": "TIGER 미국배당다우존스",
+    "price": "9770"
+  },
+  {
+    "code": "305080",
+    "name": "TIGER 미국채10년선물",
+    "price": "11065"
+  },
+  {
+    "code": "458250",
+    "name": "TIGER 미국채30년스트립액티브(합성 H)",
+    "price": "42120"
+  },
+  {
+    "code": "465670",
+    "name": "TIGER 미국캐시카우100",
+    "price": "9595"
+  },
+  {
+    "code": "381170",
+    "name": "TIGER 미국테크TOP10 INDXX",
+    "price": "14470"
+  },
+  {
+    "code": "458260",
+    "name": "TIGER 미국투자등급회사채액티브(H)",
+    "price": "48480"
+  },
+  {
+    "code": "381180",
+    "name": "TIGER 미국필라델피아반도체나스닥",
+    "price": "12715"
+  },
+  {
+    "code": "423920",
+    "name": "TIGER 미국필라델피아반도체레버리지(합성)",
+    "price": "12680"
+  },
+  {
+    "code": "228810",
+    "name": "TIGER 미디어컨텐츠",
+    "price": "6000"
+  },
+  {
+    "code": "091230",
+    "name": "TIGER 반도체",
+    "price": "35375"
+  },
+  {
+    "code": "098560",
+    "name": "TIGER 방송통신",
+    "price": "7000"
+  },
+  {
+    "code": "211560",
+    "name": "TIGER 배당성장",
+    "price": "16825"
+  },
+  {
+    "code": "138520",
+    "name": "TIGER 삼성그룹펀더멘털",
+    "price": "11240"
+  },
+  {
+    "code": "157490",
+    "name": "TIGER 소프트웨어",
+    "price": "8560"
+  },
+  {
+    "code": "463250",
+    "name": "TIGER 스페이스테크iSelect",
+    "price": "10475"
+  },
+  {
+    "code": "228800",
+    "name": "TIGER 여행레저",
+    "price": "3450"
+  },
+  {
+    "code": "227570",
+    "name": "TIGER 우량가치",
+    "price": "10910"
+  },
+  {
+    "code": "261140",
+    "name": "TIGER 우선주",
+    "price": "10805"
+  },
+  {
+    "code": "130680",
+    "name": "TIGER 원유선물Enhanced(H)",
+    "price": "4190"
+  },
+  {
+    "code": "217770",
+    "name": "TIGER 원유선물인버스(H)",
+    "price": "3160"
+  },
+  {
+    "code": "195930",
+    "name": "TIGER 유로스탁스50(합성 H)",
+    "price": "15265"
+  },
+  {
+    "code": "225050",
+    "name": "TIGER 유로스탁스레버리지(합성 H)",
+    "price": "9110"
+  },
+  {
+    "code": "245350",
+    "name": "TIGER 유로스탁스배당30",
+    "price": "10350"
+  },
+  {
+    "code": "091220",
+    "name": "TIGER 은행",
+    "price": "6555"
+  },
+  {
+    "code": "466940",
+    "name": "TIGER 은행고배당플러스TOP10",
+    "price": "10000"
+  },
+  {
+    "code": "307510",
+    "name": "TIGER 의료기기",
+    "price": "14725"
+  },
+  {
+    "code": "225060",
+    "name": "TIGER 이머징마켓MSCI레버리지(합성 H)",
+    "price": "6690"
+  },
+  {
+    "code": "453870",
+    "name": "TIGER 인도니프티50",
+    "price": "10530"
+  },
+  {
+    "code": "236350",
+    "name": "TIGER 인도니프티50레버리지(합성)",
+    "price": "27205"
+  },
+  {
+    "code": "123310",
+    "name": "TIGER 인버스",
+    "price": "5180"
+  },
+  {
+    "code": "195920",
+    "name": "TIGER 일본TOPIX(합성 H)",
+    "price": "20160"
+  },
+  {
+    "code": "241180",
+    "name": "TIGER 일본니케이225",
+    "price": "17600"
+  },
+  {
+    "code": "465660",
+    "name": "TIGER 일본반도체FACTSET",
+    "price": "10825"
+  },
+  {
+    "code": "292560",
+    "name": "TIGER 일본엔선물",
+    "price": "8255"
+  },
+  {
+    "code": "451540",
+    "name": "TIGER 종합채권(AA-이상)액티브",
+    "price": "50805"
+  },
+  {
+    "code": "150460",
+    "name": "TIGER 중국소비테마",
+    "price": "6110"
+  },
+  {
+    "code": "302190",
+    "name": "TIGER 중장기국채",
+    "price": "49145"
+  },
+  {
+    "code": "157500",
+    "name": "TIGER 증권",
+    "price": "4150"
+  },
+  {
+    "code": "307520",
+    "name": "TIGER 지주회사",
+    "price": "9160"
+  },
+  {
+    "code": "192090",
+    "name": "TIGER 차이나CSI300",
+    "price": "8405"
+  },
+  {
+    "code": "204480",
+    "name": "TIGER 차이나CSI300레버리지(합성)",
+    "price": "13795"
+  },
+  {
+    "code": "217780",
+    "name": "TIGER 차이나CSI300인버스(합성)",
+    "price": "9430"
+  },
+  {
+    "code": "245360",
+    "name": "TIGER 차이나HSCEI",
+    "price": "8400"
+  },
+  {
+    "code": "414780",
+    "name": "TIGER 차이나과창판STAR50(합성)",
+    "price": "6350"
+  },
+  {
+    "code": "371470",
+    "name": "TIGER 차이나바이오테크SOLACTIVE",
+    "price": "6665"
+  },
+  {
+    "code": "396520",
+    "name": "TIGER 차이나반도체FACTSET",
+    "price": "5770"
+  },
+  {
+    "code": "371460",
+    "name": "TIGER 차이나전기차SOLACTIVE",
+    "price": "8195"
+  },
+  {
+    "code": "456680",
+    "name": "TIGER 차이나전기차레버리지(합성)",
+    "price": "5470"
+  },
+  {
+    "code": "396510",
+    "name": "TIGER 차이나클린에너지SOLACTIVE",
+    "price": "5695"
+  },
+  {
+    "code": "117690",
+    "name": "TIGER 차이나항셍25",
+    "price": "12625"
+  },
+  {
+    "code": "371160",
+    "name": "TIGER 차이나항셍테크",
+    "price": "5685"
+  },
+  {
+    "code": "438320",
+    "name": "TIGER 차이나항셍테크레버리지(합성 H)",
+    "price": "6745"
+  },
+  {
+    "code": "232080",
+    "name": "TIGER 코스닥150",
+    "price": "12905"
+  },
+  {
+    "code": "233160",
+    "name": "TIGER 코스닥150 레버리지",
+    "price": "10270"
+  },
+  {
+    "code": "261060",
+    "name": "TIGER 코스닥150IT",
+    "price": "15415"
+  },
+  {
+    "code": "261070",
+    "name": "TIGER 코스닥150바이오테크",
+    "price": "7545"
+  },
+  {
+    "code": "250780",
+    "name": "TIGER 코스닥150선물인버스",
+    "price": "4055"
+  },
+  {
+    "code": "461580",
+    "name": "TIGER 코스닥글로벌",
+    "price": "9740"
+  },
+  {
+    "code": "277630",
+    "name": "TIGER 코스피",
+    "price": "25420"
+  },
+  {
+    "code": "210780",
+    "name": "TIGER 코스피고배당",
+    "price": "13575"
+  },
+  {
+    "code": "277640",
+    "name": "TIGER 코스피대형주",
+    "price": "12325"
+  },
+  {
+    "code": "277650",
+    "name": "TIGER 코스피중형주",
+    "price": "13615"
+  },
+  {
+    "code": "376410",
+    "name": "TIGER 탄소효율그린뉴딜",
+    "price": "8280"
+  },
+  {
+    "code": "447770",
+    "name": "TIGER 테슬라채권혼합Fn",
+    "price": "11175"
+  },
+  {
+    "code": "438330",
+    "name": "TIGER 투자등급회사채액티브",
+    "price": "105650"
+  },
+  {
+    "code": "387280",
+    "name": "TIGER 퓨처모빌리티액티브",
+    "price": "8935"
+  },
+  {
+    "code": "449690",
+    "name": "TIGER 한중반도체(합성)",
+    "price": "11830"
+  },
+  {
+    "code": "449680",
+    "name": "TIGER 한중전기차(합성)",
+    "price": "8595"
+  },
+  {
+    "code": "143860",
+    "name": "TIGER 헬스케어",
+    "price": "27115"
+  },
+  {
+    "code": "138540",
+    "name": "TIGER 현대차그룹+펀더멘털",
+    "price": "23190"
+  },
+  {
+    "code": "228790",
+    "name": "TIGER 화장품",
+    "price": "2385"
+  },
+  {
+    "code": "441800",
+    "name": "TIMEFOLIO Korea플러스배당액티브",
+    "price": "10905"
+  },
+  {
+    "code": "385720",
+    "name": "TIMEFOLIO Kstock액티브",
+    "price": "8265"
+  },
+  {
+    "code": "463050",
+    "name": "TIMEFOLIO K바이오액티브",
+    "price": "8165"
+  },
+  {
+    "code": "410870",
+    "name": "TIMEFOLIO K컬처액티브",
+    "price": "8530"
+  },
+  {
+    "code": "456600",
+    "name": "TIMEFOLIO 글로벌AI인공지능액티브",
+    "price": "13385"
+  },
+  {
+    "code": "426020",
+    "name": "TIMEFOLIO 미국S&P500액티브",
+    "price": "12785"
+  },
+  {
+    "code": "426030",
+    "name": "TIMEFOLIO 미국나스닥100액티브",
+    "price": "13655"
+  },
+  {
+    "code": "385710",
+    "name": "TIMEFOLIO 이노베이션액티브",
+    "price": "8005"
+  },
+  {
+    "code": "404120",
+    "name": "TIMEFOLIO 탄소중립액티브",
+    "price": "12930"
+  },
+  {
+    "code": "108590",
+    "name": "TREX 200",
+    "price": "33810"
+  },
+  {
+    "code": "145850",
+    "name": "TREX 펀더멘탈 200",
+    "price": "36515"
+  },
+  {
+    "code": "433250",
+    "name": "UNICORN R&D 액티브",
+    "price": "10910"
+  },
+  {
+    "code": "422260",
+    "name": "VITA MZ소비액티브",
+    "price": "8210"
+  },
+  {
+    "code": "452440",
+    "name": "VITA 밸류알파액티브",
+    "price": "11430"
+  },
+  {
+    "code": "448100",
+    "name": "WOORI 200",
+    "price": "33700"
+  },
+  {
+    "code": "468820",
+    "name": "WOORI 25-09 회사채(AA-이상)액티브",
+    "price": "50485"
+  },
+  {
+    "code": "413930",
+    "name": "WOORI AI ESG액티브",
+    "price": "8600"
+  },
+  {
+    "code": "458030",
+    "name": "WOORI 단기국공채액티브",
+    "price": "50920"
+  },
+  {
+    "code": "426150",
+    "name": "WOORI 대한민국국고채액티브",
+    "price": "51380"
+  },
+  {
+    "code": "444490",
+    "name": "WOORI 미국S&P500",
+    "price": "10855"
+  },
+  {
+    "code": "440910",
+    "name": "WOORI 미국S&P우주항공&디펜스",
+    "price": "10950"
+  },
+  {
+    "code": "434960",
+    "name": "대신343 K200",
+    "price": "33480"
+  },
+  {
+    "code": "403790",
+    "name": "마이다스 KoreaStock액티브",
+    "price": "18595"
+  },
+  {
+    "code": "438740",
+    "name": "마이다스 KoreaStock중소형액티브",
+    "price": "20680"
+  },
+  {
+    "code": "292340",
+    "name": "마이티 200커버드콜ATM레버리지",
+    "price": "7560"
+  },
+  {
+    "code": "465780",
+    "name": "마이티 26-09 특수채(AAA)액티브",
+    "price": "101185"
+  },
+  {
+    "code": "442260",
+    "name": "마이티 다이나믹퀀트액티브",
+    "price": "11665"
+  },
+  {
+    "code": "159800",
+    "name": "마이티 코스피100",
+    "price": "25470"
+  },
+  {
+    "code": "462340",
+    "name": "에셋플러스 글로벌다이나믹시니어액티브",
+    "price": "9580"
+  },
+  {
+    "code": "433220",
+    "name": "에셋플러스 글로벌대장장이액티브",
+    "price": "11705"
+  },
+  {
+    "code": "451150",
+    "name": "에셋플러스 글로벌영에이지액티브",
+    "price": "11140"
+  },
+  {
+    "code": "407830",
+    "name": "에셋플러스 글로벌플랫폼액티브",
+    "price": "7145"
+  },
+  {
+    "code": "442090",
+    "name": "에셋플러스 코리아대장장이액티브",
+    "price": "11480"
+  },
+  {
+    "code": "407820",
+    "name": "에셋플러스 코리아플랫폼액티브",
+    "price": "6560"
+  },
+  {
+    "code": "152870",
+    "name": "파워 200",
+    "price": "33535"
+  },
+  {
+    "code": "192720",
+    "name": "파워 고배당저변동성",
+    "price": "28395"
+  },
+  {
+    "code": "140950",
+    "name": "파워 코스피100",
+    "price": "25230"
+  },
+  {
+    "code": "464230",
+    "name": "히어로즈 24-09 회사채(AA-이상)액티브",
+    "price": "50530"
+  },
+  {
+    "code": "467620",
+    "name": "히어로즈 25-09 미국채권(AA-이상)액티브",
+    "price": "48485"
+  },
+  {
+    "code": "464240",
+    "name": "히어로즈 26-09 회사채(AA-이상)액티브",
+    "price": "50490"
+  },
+  {
+    "code": "458210",
+    "name": "히어로즈 CD금리액티브(합성)",
+    "price": "101810"
+  },
+  {
+    "code": "435530",
+    "name": "히어로즈 TDF2030액티브",
+    "price": "10590"
+  },
+  {
+    "code": "435540",
+    "name": "히어로즈 TDF2040액티브",
+    "price": "10800"
+  },
+  {
+    "code": "435550",
+    "name": "히어로즈 TDF2050액티브",
+    "price": "10890"
+  },
+  {
+    "code": "471460",
+    "name": "히어로즈 국고채30년액티브",
+    "price": "53440"
+  },
+  {
+    "code": "437550",
+    "name": "히어로즈 글로벌리츠이지스액티브",
+    "price": "8770"
+  },
+  {
+    "code": "419890",
+    "name": "히어로즈 단기채권ESG액티브",
+    "price": "104235"
+  },
+  {
+    "code": "429870",
+    "name": "히어로즈 리츠이지스액티브",
+    "price": "6810"
+  },
+  {
+    "code": "460270",
+    "name": "히어로즈 미국달러SOFR금리액티브(합성)",
+    "price": "10425"
+  },
+  {
+    "code": "459790",
+    "name": "히어로즈 미국성장기업30액티브",
+    "price": "10360"
+  },
+  {
+    "code": "454780",
+    "name": "히어로즈 종합채권(AA-이상)액티브",
+    "price": "100380"
+  }
+]
