@@ -1,0 +1,954 @@
+[
+  {
+    "code": "KR4167TC0009",
+    "name": "10년국채   F 202312",
+    "amount": "0.02",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2206800"
+  },
+  {
+    "code": "KR4165TC0001",
+    "name": "3년국채    F 202312",
+    "amount": "0.02",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2074800"
+  },
+  {
+    "code": "KR6145767BC4",
+    "name": "BNK캐피탈270-5",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1235788"
+  },
+  {
+    "code": "KR6145763C19",
+    "name": "BNK캐피탈271-3",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "14829"
+  },
+  {
+    "code": "KR6079319C84",
+    "name": "JB 우리캐피탈453-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "137701"
+  },
+  {
+    "code": "KR6066574411",
+    "name": "LG전자73-4",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "74452"
+  },
+  {
+    "code": "KRZE01101DAP",
+    "name": "NH농협은행 본점영업부 20231023-364-1",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "119304"
+  },
+  {
+    "code": "KRZF03473YDN",
+    "name": "SK 20231006-97-64",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "119304"
+  },
+  {
+    "code": "KRZF03473ZDN",
+    "name": "SK 20231006-97-65",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "119304"
+  },
+  {
+    "code": "KRZF03473FDB",
+    "name": "SK(CP)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1235788"
+  },
+  {
+    "code": "KRZF03473GDB",
+    "name": "SK(CP)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1235788"
+  },
+  {
+    "code": "KR6034732D20",
+    "name": "SK306-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2478230"
+  },
+  {
+    "code": "KR6001741C45",
+    "name": "SK네트웍스184-1",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "238608"
+  },
+  {
+    "code": "KR61380934A2",
+    "name": "SK에너지39-3",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2471577"
+  },
+  {
+    "code": "KR6017671C86",
+    "name": "SK텔레콤83-1",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "238608"
+  },
+  {
+    "code": "KR6030612982",
+    "name": "교보증권7-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "395452"
+  },
+  {
+    "code": "KR103501GAC4",
+    "name": "국고채권00875-2312(20-8)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "74345"
+  },
+  {
+    "code": "KR103501GB34",
+    "name": "국고채권01250-2603(21-1)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "475531"
+  },
+  {
+    "code": "KR103502GA67",
+    "name": "국고채권01375-3006(20-4)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "245922"
+  },
+  {
+    "code": "KR103501GA35",
+    "name": "국고채권01500-2503(20-1)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "341078"
+  },
+  {
+    "code": "KR103502GAC2",
+    "name": "국고채권01500-3012(20-9)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "173010"
+  },
+  {
+    "code": "KR103502G693",
+    "name": "국고채권01500-3609(16-6)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "25334"
+  },
+  {
+    "code": "KR103502GA91",
+    "name": "국고채권01500-4009(20-7)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "19773"
+  },
+  {
+    "code": "KR103502GA34",
+    "name": "국고채권01500-5003(20-2)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "234800"
+  },
+  {
+    "code": "KR103501GB91",
+    "name": "국고채권01750-2609(21-7)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1458230"
+  },
+  {
+    "code": "KR103501G935",
+    "name": "국고채권01875-2403(19-1)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "148295"
+  },
+  {
+    "code": "KR103501GBC2",
+    "name": "국고채권01875-2412(21-10)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "74147"
+  },
+  {
+    "code": "KR103502G966",
+    "name": "국고채권01875-2906(19-4)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "12358"
+  },
+  {
+    "code": "KR103503GB99",
+    "name": "국고채권01875-4109(21-9)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1482946"
+  },
+  {
+    "code": "KR103502GB33",
+    "name": "국고채권01875-5103(21-2)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "150766"
+  },
+  {
+    "code": "KR103502GB66",
+    "name": "국고채권02000-3106(21-5)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "108972"
+  },
+  {
+    "code": "KR103502G933",
+    "name": "국고채권02000-4903(19-2)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1268537"
+  },
+  {
+    "code": "KR103502G768",
+    "name": "국고채권02125-2706(17-3)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "98863"
+  },
+  {
+    "code": "KR103501G562",
+    "name": "국고채권02250-2506(15-2)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "123579"
+  },
+  {
+    "code": "KR103502G792",
+    "name": "국고채권02250-3709(17-5)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "252101"
+  },
+  {
+    "code": "KR103501GC33",
+    "name": "국고채권02375-2703(22-1)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "990484"
+  },
+  {
+    "code": "KR103502G8C0",
+    "name": "국고채권02375-2812(18-10)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "222442"
+  },
+  {
+    "code": "KR103502GBC0",
+    "name": "국고채권02375-3112(21-11)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2477756"
+  },
+  {
+    "code": "KR103502GC32",
+    "name": "국고채권02500-5203(22-2)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "4500124"
+  },
+  {
+    "code": "KR103502G867",
+    "name": "국고채권02625-2806(18-4)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "123579"
+  },
+  {
+    "code": "KR103502G834",
+    "name": "국고채권02625-4803(18-2)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "560430"
+  },
+  {
+    "code": "KR103501GD65",
+    "name": "국고채권03125-2606(23-4)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1659467"
+  },
+  {
+    "code": "KR103501GC90",
+    "name": "국고채권03125-2709(22-8)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "195255"
+  },
+  {
+    "code": "KR103502GC99",
+    "name": "국고채권03125-5209(22-9)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2471577"
+  },
+  {
+    "code": "KR103501GD32",
+    "name": "국고채권03250-2803(23-1)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1966642"
+  },
+  {
+    "code": "KR103502GD64",
+    "name": "국고채권03250-3306(23-5)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "6742805"
+  },
+  {
+    "code": "KR103504GC97",
+    "name": "국고채권03250-4209(22-11)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "247158"
+  },
+  {
+    "code": "KR103502GD31",
+    "name": "국고채권03250-5303(23-2)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "457736"
+  },
+  {
+    "code": "KR103502GC65",
+    "name": "국고채권03375-3206(22-5)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "93238"
+  },
+  {
+    "code": "KR103502G438",
+    "name": "국고채권03500-2403(14-2)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "121884"
+  },
+  {
+    "code": "KR103501GD99",
+    "name": "국고채권03500-2809(23-6)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1977261"
+  },
+  {
+    "code": "KR103502GD98",
+    "name": "국고채권03625-5309(23-7)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "6218005"
+  },
+  {
+    "code": "KR103502G3C1",
+    "name": "국고채권03750-3312(13-8)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "143140"
+  },
+  {
+    "code": "KR10350271C8",
+    "name": "국고채권04000-3112(11-7)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "174002"
+  },
+  {
+    "code": "KR103501GCC0",
+    "name": "국고채권04250-2512(22-13)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "620347"
+  },
+  {
+    "code": "KR103502GCC8",
+    "name": "국고채권04250-3212(22-14)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1344918"
+  },
+  {
+    "code": "KR1035017S39",
+    "name": "국고채권05750-2603(06-1)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "86167"
+  },
+  {
+    "code": "KRC0350C3197",
+    "name": "국고채이자분리채권01860-3109",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "22244"
+  },
+  {
+    "code": "KRC0350C2595",
+    "name": "국고채이자분리채권03360-2509",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "4807217"
+  },
+  {
+    "code": "KR101501D918",
+    "name": "국민주택1종채권19-01",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "548864"
+  },
+  {
+    "code": "KR101501D9B8",
+    "name": "국민주택1종채권19-11",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "42514"
+  },
+  {
+    "code": "KR381004GD85",
+    "name": "농업금융채권(은행)2023-08이5Y-D",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "247158"
+  },
+  {
+    "code": "KR381102G976",
+    "name": "농업금융채권(중앙회)2019-7이5Y-B",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "19773"
+  },
+  {
+    "code": "KR381109GC15",
+    "name": "농업금융채권(중앙회)2022-1이5Y-I",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2471577"
+  },
+  {
+    "code": "KR2007012934",
+    "name": "대구지역개발채권19-03",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "10384"
+  },
+  {
+    "code": "KR6005302C47",
+    "name": "롯데칠성음료56-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "238608"
+  },
+  {
+    "code": "KR6030628B68",
+    "name": "롯데카드440-3",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "296589"
+  },
+  {
+    "code": "KR6030624D37",
+    "name": "롯데카드484-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2481816"
+  },
+  {
+    "code": "KRZF01117XCC",
+    "name": "롯데케미칼 20221205-364-30",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1235788"
+  },
+  {
+    "code": "KRZF01117YCC",
+    "name": "롯데케미칼 20221205-364-31",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1235788"
+  },
+  {
+    "code": "KR6011172C83",
+    "name": "롯데케미칼59-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "241389"
+  },
+  {
+    "code": "KR103503G568",
+    "name": "물가연동국고채권01750-2506(15-5)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "487731"
+  },
+  {
+    "code": "KR103503G865",
+    "name": "물가연동국고채권01750-2806(18-5)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2982"
+  },
+  {
+    "code": "KR6006802D23",
+    "name": "미래에셋증권64-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2471577"
+  },
+  {
+    "code": "KR6006802D56",
+    "name": "미래에셋증권65-1",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "238608"
+  },
+  {
+    "code": "KR354701GA99",
+    "name": "부산교통공사2020-09",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "238608"
+  },
+  {
+    "code": "KR2006012935",
+    "name": "부산지역개발채권19-03",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "38943"
+  },
+  {
+    "code": "KR352301GC38",
+    "name": "부산항만공사37",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2470959"
+  },
+  {
+    "code": "KR310214GD80",
+    "name": "산업금융채권23신이0400-0829-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2501698"
+  },
+  {
+    "code": "KR6029781B30",
+    "name": "삼성카드2499",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1976026"
+  },
+  {
+    "code": "KR6029786D82",
+    "name": "삼성카드2609",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "238626"
+  },
+  {
+    "code": "KR2001024927",
+    "name": "서울도시철도공채증권19-02",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "7415"
+  },
+  {
+    "code": "KR601945A967",
+    "name": "아이비케이캐피탈196-3",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "24716"
+  },
+  {
+    "code": "KR6056553B21",
+    "name": "에스케이이엔에스16-3",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "37074"
+  },
+  {
+    "code": "KR6097244B95",
+    "name": "엔에이치농협캐피탈169-4",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "444884"
+  },
+  {
+    "code": "KR603366BC80",
+    "name": "우리금융캐피탈454-1",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2475855"
+  },
+  {
+    "code": "KR6033662D18",
+    "name": "우리금융캐피탈461-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2526952"
+  },
+  {
+    "code": "KR6174147D80",
+    "name": "우리카드231-7(사)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "238873"
+  },
+  {
+    "code": "KR2008012933",
+    "name": "울산지역개발채권19-03",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "46731"
+  },
+  {
+    "code": "KR20080129C4",
+    "name": "울산지역개발채권19-12",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "7490"
+  },
+  {
+    "code": "KR310508GD51",
+    "name": "중소기업은행(신)2305이3A-17",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2471577"
+  },
+  {
+    "code": "KR6140173C14",
+    "name": "케이비국민카드348-3",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1271626"
+  },
+  {
+    "code": "KR6140175CC3",
+    "name": "케이비국민카드373-5",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1287341"
+  },
+  {
+    "code": "KR6140174D61",
+    "name": "케이비국민카드381-3",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1235788"
+  },
+  {
+    "code": "KR6140172D89",
+    "name": "케이비국민카드384-2(사)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "238823"
+  },
+  {
+    "code": "KR6021965D41",
+    "name": "케이비캐피탈506-5",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1235788"
+  },
+  {
+    "code": "KRZF002385DN",
+    "name": "케이씨씨 20231020-248-38",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "119304"
+  },
+  {
+    "code": "KRZF002386DN",
+    "name": "케이씨씨 20231020-248-39",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "119304"
+  },
+  {
+    "code": "KR3561027243",
+    "name": "토지주택채권125",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "96495"
+  },
+  {
+    "code": "KR6003671C45",
+    "name": "포스코퓨처엠18-1(녹)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "420168"
+  },
+  {
+    "code": "KR6004941D87",
+    "name": "하나은행46-08이2갑-02",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2471577"
+  },
+  {
+    "code": "KRZFA30753DP",
+    "name": "하나증권(CP)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1235788"
+  },
+  {
+    "code": "KRZFA30756DP",
+    "name": "하나증권(CP)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "119304"
+  },
+  {
+    "code": "KRZFA30752DP",
+    "name": "하나증권(CP)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1235788"
+  },
+  {
+    "code": "KR6205492C92",
+    "name": "하나카드222-2",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "243223"
+  },
+  {
+    "code": "KR6019803D17",
+    "name": "하나캐피탈377-3",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "640624"
+  },
+  {
+    "code": "KR350806GD98",
+    "name": "한국가스공사466",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2518920"
+  },
+  {
+    "code": "KR350802GDA4",
+    "name": "한국가스공사467",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2498218"
+  },
+  {
+    "code": "KR6064311A60",
+    "name": "한국남부발전53-1",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "74147"
+  },
+  {
+    "code": "KR350106GA49",
+    "name": "한국전력공사채권1034",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2470959"
+  },
+  {
+    "code": "KR354401GD57",
+    "name": "한국주택금융공사100(사)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2471577"
+  },
+  {
+    "code": "KR354425GD75",
+    "name": "한국주택금융공사110(사)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "741473"
+  },
+  {
+    "code": "KRZF03049DDB",
+    "name": "한국투자증권(CP)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "119304"
+  },
+  {
+    "code": "KRZF03049EDB",
+    "name": "한국투자증권(CP)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "119304"
+  },
+  {
+    "code": "KR6004021C16",
+    "name": "현대제철136-1",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "22244"
+  },
+  {
+    "code": "KR606590EB63",
+    "name": "현대카드825-4",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2470959"
+  },
+  {
+    "code": "KR606590HC85",
+    "name": "현대카드856-7",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "50350"
+  },
+  {
+    "code": "KR6065903D84",
+    "name": "현대카드879-3",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "238608"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "-2128801",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
