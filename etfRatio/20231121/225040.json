@@ -1,0 +1,50 @@
+[
+  {
+    "code": "143850",
+    "name": "TIGER 미국S&P500선물(H)",
+    "amount": "1710.00",
+    "price": "87748650",
+    "ratio": "",
+    "totalPrice": "86953500"
+  },
+  {
+    "code": "US78462F1030",
+    "name": "SPDR S&P 500 ETF TRUST",
+    "amount": "23.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "13391528"
+  },
+  {
+    "code": "KRYZTRSC4N06",
+    "name": "미국S&P500 TRS(미래에셋증권)",
+    "amount": "-1110150.75",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-1110150"
+  },
+  {
+    "code": "KRYZTRSC4N05",
+    "name": "미국S&P500 TRS(한국투자증권)",
+    "amount": "30591619.63",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "30591619"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "448536623",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "578363120",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
