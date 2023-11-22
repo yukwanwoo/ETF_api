@@ -1,0 +1,442 @@
+[
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "3048.00",
+    "price": "219456000",
+    "ratio": "",
+    "totalPrice": "221894400"
+  },
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "320.00",
+    "price": "41792000",
+    "ratio": "",
+    "totalPrice": "42240000"
+  },
+  {
+    "code": "005935",
+    "name": "삼성전자우",
+    "amount": "489.00",
+    "price": "27775200",
+    "ratio": "",
+    "totalPrice": "28117500"
+  },
+  {
+    "code": "005490",
+    "name": "POSCO홀딩스",
+    "amount": "44.00",
+    "price": "20658000",
+    "ratio": "",
+    "totalPrice": "20856000"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "89.00",
+    "price": "17978000",
+    "ratio": "",
+    "totalPrice": "18200500"
+  },
+  {
+    "code": "006400",
+    "name": "삼성SDI",
+    "amount": "33.00",
+    "price": "15411000",
+    "ratio": "",
+    "totalPrice": "15378000"
+  },
+  {
+    "code": "005380",
+    "name": "현대차",
+    "amount": "83.00",
+    "price": "15155800",
+    "ratio": "",
+    "totalPrice": "15288600"
+  },
+  {
+    "code": "051910",
+    "name": "LG화학",
+    "amount": "28.00",
+    "price": "13944000",
+    "ratio": "",
+    "totalPrice": "14028000"
+  },
+  {
+    "code": "000270",
+    "name": "기아",
+    "amount": "159.00",
+    "price": "13133400",
+    "ratio": "",
+    "totalPrice": "13292400"
+  },
+  {
+    "code": "105560",
+    "name": "KB금융",
+    "amount": "225.00",
+    "price": "12217500",
+    "ratio": "",
+    "totalPrice": "12172500"
+  },
+  {
+    "code": "055550",
+    "name": "신한지주",
+    "amount": "300.00",
+    "price": "11100000",
+    "ratio": "",
+    "totalPrice": "11085000"
+  },
+  {
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "amount": "25.00",
+    "price": "11012500",
+    "ratio": "",
+    "totalPrice": "11175000"
+  },
+  {
+    "code": "068270",
+    "name": "셀트리온",
+    "amount": "63.00",
+    "price": "10735200",
+    "ratio": "",
+    "totalPrice": "10848600"
+  },
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "185.00",
+    "price": "8972500",
+    "ratio": "",
+    "totalPrice": "9111250"
+  },
+  {
+    "code": "005387",
+    "name": "현대차2우B",
+    "amount": "21.00",
+    "price": "2274300",
+    "ratio": "",
+    "totalPrice": "2301600"
+  },
+  {
+    "code": "051915",
+    "name": "LG화학우",
+    "amount": "5.00",
+    "price": "1507500",
+    "ratio": "",
+    "totalPrice": "1527500"
+  },
+  {
+    "code": "HK0000069689",
+    "name": "AIA GROUP LTD",
+    "amount": "6899.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG017191142",
+    "name": "ALIBABA GROUP HOLDING LTD",
+    "amount": "9182.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG040111059",
+    "name": "ANTA SPORTS PRODUCTS LTD",
+    "amount": "740.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG070341048",
+    "name": "BAIDU INC-CLASS A",
+    "amount": "1347.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000001Z5",
+    "name": "BANK OF CHINA LTD-H",
+    "amount": "46175.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000296",
+    "name": "BYD CO LTD-H",
+    "amount": "515.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002882008",
+    "name": "CATHAY FINANCIAL HOLDING CO",
+    "amount": "5661.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000002H1",
+    "name": "CHINA CONSTRUCTION BANK-H",
+    "amount": "58526.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000002M1",
+    "name": "CHINA MERCHANTS BANK-H",
+    "amount": "1963.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002412004",
+    "name": "CHUNGHWA TELECOM CO LTD",
+    "amount": "2257.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG217651051",
+    "name": "CK HUTCHISON HOLDINGS LTD",
+    "amount": "1592.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002891009",
+    "name": "CTBC FINANCIAL HOLDING CO LT",
+    "amount": "11628.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "SG1L01001701",
+    "name": "DBS GROUP HOLDINGS LTD",
+    "amount": "1087.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002308004",
+    "name": "DELTA ELECTRONICS INC",
+    "amount": "1141.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0001301000",
+    "name": "FORMOSA PLASTICS CORP",
+    "amount": "2570.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002881000",
+    "name": "FUBON FINANCIAL HOLDING CO",
+    "amount": "4710.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002317005",
+    "name": "HON HAI PRECISION INDUSTRY",
+    "amount": "7161.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "HK0388045442",
+    "name": "HONG KONG EXCHANGES & CLEAR",
+    "amount": "708.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000003G1",
+    "name": "IND & COMM BK OF CHINA-H",
+    "amount": "42257.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG8208B1014",
+    "name": "JD.COM INC-CLASS A",
+    "amount": "1459.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG532631028",
+    "name": "KUAISHOU TECHNOLOGY",
+    "amount": "1166.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG5496K1242",
+    "name": "LI NING CO LTD",
+    "amount": "1393.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "HK0823032773",
+    "name": "LINK REIT",
+    "amount": "1516.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002454006",
+    "name": "MEDIATEK INC",
+    "amount": "950.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG596691041",
+    "name": "MEITUAN-CLASS B",
+    "amount": "2836.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0001303006",
+    "name": "NAN YA PLASTICS CORP",
+    "amount": "3343.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG6427A1022",
+    "name": "NETEASE INC",
+    "amount": "1087.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "SG1S04926220",
+    "name": "OVERSEA-CHINESE BANKING CORP",
+    "amount": "2403.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000003X6",
+    "name": "PING AN INSURANCE GROUP CO-H",
+    "amount": "3670.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "HK0016000132",
+    "name": "SUN HUNG KAI PROPERTIES",
+    "amount": "895.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002330008",
+    "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+    "amount": "11240.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "HK0669013440",
+    "name": "TECHTRONIC INDUSTRIES CO LTD",
+    "amount": "1089.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG875721634",
+    "name": "TENCENT HOLDINGS LTD",
+    "amount": "3586.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002303005",
+    "name": "UNITED MICROELECTRONICS CORP",
+    "amount": "6905.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "SG1M31001969",
+    "name": "UNITED OVERSEAS BANK LTD",
+    "amount": "916.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG970081173",
+    "name": "WUXI BIOLOGICS CAYMAN INC",
+    "amount": "2110.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG9830T1067",
+    "name": "XIAOMI CORP-CLASS B",
+    "amount": "8599.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "43403397",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "1824112516",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
