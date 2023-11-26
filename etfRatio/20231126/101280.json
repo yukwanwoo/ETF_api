@@ -1,0 +1,826 @@
+[
+  {
+    "code": "JP3122400009",
+    "name": "ADVANTEST CORP",
+    "amount": "50.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3388200002",
+    "name": "AEON",
+    "amount": "63.21",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3119600009",
+    "name": "AJINOMOTO CO INC",
+    "amount": "41.51",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3429800000",
+    "name": "ALL NIPPON AIRWAYS",
+    "amount": "48.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3116000005",
+    "name": "ASAHI GROUP HOLDINGS",
+    "amount": "39.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3111200006",
+    "name": "ASAHI KASEI",
+    "amount": "118.87",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3942400007",
+    "name": "ASTELLAS PHARMA INC",
+    "amount": "154.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3830800003",
+    "name": "BRIDGESTONE",
+    "amount": "51.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3778630008",
+    "name": "Bandai Namco Holdings Inc",
+    "amount": "48.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3242800005",
+    "name": "CANON INC",
+    "amount": "87.74",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3566800003",
+    "name": "CENTRAL JAPAN RAILWAY",
+    "amount": "67.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3519400000",
+    "name": "CHUGAI PHARMACEUTICAL CO LTD",
+    "amount": "54.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3476480003",
+    "name": "DAIICHI LIFE INSURANCE",
+    "amount": "84.91",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3475350009",
+    "name": "DAIICHI SANKYO",
+    "amount": "153.77",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3481800005",
+    "name": "DAIKIN INDUSTRIES",
+    "amount": "20.75",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3505000004",
+    "name": "DAIWA HOUSE INDUSTRY",
+    "amount": "48.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3551500006",
+    "name": "DENSO",
+    "amount": "145.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3548600000",
+    "name": "DISCO",
+    "amount": "8.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3783600004",
+    "name": "EAST JAPAN RAILWAY CO",
+    "amount": "32.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3160400002",
+    "name": "EISAI",
+    "amount": "21.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3386450005",
+    "name": "ENEOS HOLDINGS",
+    "amount": "279.25",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3802400006",
+    "name": "FANUC",
+    "amount": "85.85",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3802300008",
+    "name": "FAST RETAILING",
+    "amount": "8.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3814000000",
+    "name": "FUJI PHOTO Ltd",
+    "amount": "33.02",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3818000006",
+    "name": "FUJITSU",
+    "amount": "16.04",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3788600009",
+    "name": "HITACHI",
+    "amount": "85.85",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3854600008",
+    "name": "HONDA MOTOR",
+    "amount": "428.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3837800006",
+    "name": "HOYA",
+    "amount": "34.91",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3143600009",
+    "name": "ITOCHU",
+    "amount": "124.53",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3183200009",
+    "name": "JAPAN EXCHANGE GROUP INC",
+    "amount": "45.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3752900005",
+    "name": "JAPAN POST HOLDINGS CO LTD",
+    "amount": "212.26",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3726800000",
+    "name": "JAPAN TOBACCO",
+    "amount": "104.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3205800000",
+    "name": "KAO",
+    "amount": "39.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3496400007",
+    "name": "KDDI",
+    "amount": "135.85",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3236200006",
+    "name": "KEYENCE CORP",
+    "amount": "17.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3258000003",
+    "name": "KIRIN HOLDIGNS",
+    "amount": "71.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3304200003",
+    "name": "KOMATSU",
+    "amount": "83.02",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3266400005",
+    "name": "KUBOTA",
+    "amount": "93.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3249600002",
+    "name": "KYOCERA",
+    "amount": "27.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3979200007",
+    "name": "LASERTEC CORP",
+    "amount": "8.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3435750009",
+    "name": "M3 INC",
+    "amount": "35.85",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3877600001",
+    "name": "MARUBENI",
+    "amount": "154.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3898400001",
+    "name": "MITSUBISHI",
+    "amount": "122.64",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3902400005",
+    "name": "MITSUBISHI ELECTRIC",
+    "amount": "197.17",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3899600005",
+    "name": "MITSUBISHI ESTATE",
+    "amount": "113.21",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3900000005",
+    "name": "MITSUBISHI HEAVY INDUSTRIES",
+    "amount": "31.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3902900004",
+    "name": "MITSUBISHI UFJ FINANCIAL GRO",
+    "amount": "1083.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3893600001",
+    "name": "MITSUI",
+    "amount": "139.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3893200000",
+    "name": "MITSUI FUDOSAN",
+    "amount": "80.19",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3885780001",
+    "name": "MIZUHO FINANCIAL GROUP INC",
+    "amount": "233.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3890310000",
+    "name": "MS&AD  INS GR HLDGS",
+    "amount": "38.68",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3914400001",
+    "name": "MURATA MFG CO",
+    "amount": "159.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3897700005",
+    "name": "Mitsubishi Chemical Group Corp",
+    "amount": "128.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3733000008",
+    "name": "NEC",
+    "amount": "23.58",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3734800000",
+    "name": "NIDEC",
+    "amount": "39.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3756600007",
+    "name": "NINTENDO CO LTD",
+    "amount": "111.32",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3381000003",
+    "name": "NIPPON STEEL",
+    "amount": "81.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3735400008",
+    "name": "NIPPON TELEGRAPH & TELEPHONE",
+    "amount": "5241.51",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3753000003",
+    "name": "NIPPON YUSEN",
+    "amount": "50.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3672400003",
+    "name": "NISSAN MOTOR",
+    "amount": "250.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3756100008",
+    "name": "NITORI HOLDINGS CO LTD",
+    "amount": "6.60",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3762600009",
+    "name": "NOMURA HOLDINGS INC",
+    "amount": "290.57",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3201200007",
+    "name": "OLYMPUS",
+    "amount": "108.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3197800000",
+    "name": "OMRON CORP",
+    "amount": "13.21",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3198900007",
+    "name": "ORIENTAL LAND",
+    "amount": "95.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3200450009",
+    "name": "ORIX",
+    "amount": "105.66",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3188220002",
+    "name": "OTSUKA HOLDINGS",
+    "amount": "36.79",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3866800000",
+    "name": "PANASONIC HOLDINGS",
+    "amount": "209.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3970300004",
+    "name": "RECRUIT HOLDINGS CO LTD",
+    "amount": "133.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3500610005",
+    "name": "RESONA HOLDINGS INC",
+    "amount": "201.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3164720009",
+    "name": "Renesas Electornics Corporation",
+    "amount": "116.04",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3421800008",
+    "name": "SECOM",
+    "amount": "17.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3420600003",
+    "name": "SEKISUI HOUSE",
+    "amount": "51.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3422950000",
+    "name": "SEVEN & I HOLDINGS",
+    "amount": "64.15",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3358000002",
+    "name": "SHIMANO INC",
+    "amount": "7.55",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3371200001",
+    "name": "SHIN-ETSU CHEMICAL",
+    "amount": "159.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3347200002",
+    "name": "SHIONOGI & CO LTD",
+    "amount": "22.64",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3351600006",
+    "name": "SHISEIDO",
+    "amount": "36.79",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3162600005",
+    "name": "SMC",
+    "amount": "5.66",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3732000009",
+    "name": "SOFTBANK Co",
+    "amount": "283.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3436100006",
+    "name": "SOFTBANK GROUP",
+    "amount": "86.79",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3165000005",
+    "name": "SOMPO HOLDINGS",
+    "amount": "27.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3435000009",
+    "name": "SONY GROUP",
+    "amount": "124.53",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3814800003",
+    "name": "SUBARU CORP",
+    "amount": "55.66",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3404600003",
+    "name": "SUMITOMO",
+    "amount": "112.26",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3407400005",
+    "name": "SUMITOMO ELECTRIC INDUSTRIES",
+    "amount": "67.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3890350006",
+    "name": "SUMITOMO MITSUI FINANCIAL GR",
+    "amount": "122.64",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3892100003",
+    "name": "SUMITOMO MITSUI TRUST HLDG",
+    "amount": "31.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3409000001",
+    "name": "SUMITOMO REALTY&DEV",
+    "amount": "25.47",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3397200001",
+    "name": "SUZUKI MOTOR",
+    "amount": "32.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3351100007",
+    "name": "SYSMEX CORP",
+    "amount": "15.09",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3463000004",
+    "name": "TAKEDA PHARMACEUTICAL",
+    "amount": "155.66",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3546800008",
+    "name": "TERUMO",
+    "amount": "49.06",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3910660004",
+    "name": "TOKIO MARINE HOLDINGS",
+    "amount": "170.75",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3571400005",
+    "name": "TOKYO ELECTRON",
+    "amount": "36.79",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TPZ3INDEX000",
+    "name": "TOPIX INDX FURT 2023 12",
+    "amount": "0.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3592200004",
+    "name": "TOSHIBA",
+    "amount": "14.15",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3633400001",
+    "name": "TOYOTA MOTOR",
+    "amount": "965.09",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3951600000",
+    "name": "UNICHARM",
+    "amount": "36.79",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3659000008",
+    "name": "WEST JAPAN RAILWAY",
+    "amount": "20.75",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3933800009",
+    "name": "Z Holdings",
+    "amount": "250.94",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "15631749",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "349216081",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
