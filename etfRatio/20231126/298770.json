@@ -1,0 +1,418 @@
+[
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "5018.00",
+    "price": "359790600",
+    "ratio": "",
+    "totalPrice": "363303200"
+  },
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "1003.00",
+    "price": "128384000",
+    "ratio": "",
+    "totalPrice": "130490300"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "281.00",
+    "price": "57745500",
+    "ratio": "",
+    "totalPrice": "57745500"
+  },
+  {
+    "code": "006400",
+    "name": "삼성SDI",
+    "amount": "97.00",
+    "price": "44911000",
+    "ratio": "",
+    "totalPrice": "46075000"
+  },
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "562.00",
+    "price": "28381000",
+    "ratio": "",
+    "totalPrice": "28268600"
+  },
+  {
+    "code": "009150",
+    "name": "삼성전기",
+    "amount": "103.00",
+    "price": "14111000",
+    "ratio": "",
+    "totalPrice": "14234600"
+  },
+  {
+    "code": "259960",
+    "name": "크래프톤",
+    "amount": "61.00",
+    "price": "12535500",
+    "ratio": "",
+    "totalPrice": "12810000"
+  },
+  {
+    "code": "018260",
+    "name": "삼성에스디에스",
+    "amount": "73.00",
+    "price": "11329600",
+    "ratio": "",
+    "totalPrice": "10752900"
+  },
+  {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "amount": "200.00",
+    "price": "10360000",
+    "ratio": "",
+    "totalPrice": "10400000"
+  },
+  {
+    "code": "402340",
+    "name": "SK스퀘어",
+    "amount": "184.00",
+    "price": "8841200",
+    "ratio": "",
+    "totalPrice": "9016000"
+  },
+  {
+    "code": "030200",
+    "name": "KT",
+    "amount": "238.00",
+    "price": "7830200",
+    "ratio": "",
+    "totalPrice": "7889700"
+  },
+  {
+    "code": "036570",
+    "name": "엔씨소프트",
+    "amount": "29.00",
+    "price": "7815500",
+    "ratio": "",
+    "totalPrice": "7772000"
+  },
+  {
+    "code": "352820",
+    "name": "하이브",
+    "amount": "34.00",
+    "price": "7157000",
+    "ratio": "",
+    "totalPrice": "7208000"
+  },
+  {
+    "code": "066970",
+    "name": "엘앤에프",
+    "amount": "47.00",
+    "price": "6782100",
+    "ratio": "",
+    "totalPrice": "6862000"
+  },
+  {
+    "code": "011070",
+    "name": "LG이노텍",
+    "amount": "26.00",
+    "price": "6331000",
+    "ratio": "",
+    "totalPrice": "6318000"
+  },
+  {
+    "code": "034220",
+    "name": "LG디스플레이",
+    "amount": "413.00",
+    "price": "5203800",
+    "ratio": "",
+    "totalPrice": "5389650"
+  },
+  {
+    "code": "TW0002345006",
+    "name": "ACCTON TECH",
+    "amount": "948.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002353000",
+    "name": "ACER INC",
+    "amount": "5666.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003711008",
+    "name": "ASE INDUSTRIAL HOLDINGS",
+    "amount": "6358.97",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002357001",
+    "name": "ASUSTEK COMPUTER",
+    "amount": "1307.69",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002409000",
+    "name": "AU OPTRINICS",
+    "amount": "13323.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002474004",
+    "name": "CATCHER TECHNOLIGY",
+    "amount": "1256.41",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002412004",
+    "name": "CHUNGHWA TELECOM CO LTD",
+    "amount": "7076.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002324001",
+    "name": "COMPAL ELECTRONICS",
+    "amount": "7717.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002360005",
+    "name": "Chroma ATE Inc",
+    "amount": "743.59",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002308004",
+    "name": "DELTA ELECTRONICS",
+    "amount": "3589.74",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0004904008",
+    "name": "FAR EASTONE TELECOM",
+    "amount": "2974.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002376001",
+    "name": "Gigabyte Technology Co Ltd",
+    "amount": "923.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003443008",
+    "name": "Global Unichip Corp",
+    "amount": "153.85",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002317005",
+    "name": "HON HAI PRECISION INDUSTRY",
+    "amount": "22435.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003481008",
+    "name": "INNOLUX CO",
+    "amount": "16903.18",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002356003",
+    "name": "INVENTEC CORP",
+    "amount": "5820.51",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003008009",
+    "name": "LARGAN PRECISION CO LTD",
+    "amount": "182.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002301009",
+    "name": "LITE ON TECHNOLOGY",
+    "amount": "4153.85",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002454006",
+    "name": "MEDIATEK INC",
+    "amount": "2974.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002377009",
+    "name": "MICRO STAR INT CO",
+    "amount": "1333.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003034005",
+    "name": "NOVATEK MICROELECTRONICS LTD",
+    "amount": "1051.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002408002",
+    "name": "Nanya Technology Corp",
+    "amount": "2179.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0004938006",
+    "name": "PEGATRON",
+    "amount": "3820.51",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0006770001",
+    "name": "Powerchip Semiconductor Manufacturing Co",
+    "amount": "5743.59",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002382009",
+    "name": "QUANTA COMPUTER",
+    "amount": "5179.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002379005",
+    "name": "REALTEK SEMICONDUCTOR CORP",
+    "amount": "897.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002347002",
+    "name": "SYNNEX TECHNOLOGY INTL CORP",
+    "amount": "2358.97",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003045001",
+    "name": "TAIWAN MOBILE",
+    "amount": "3205.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002330008",
+    "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+    "amount": "19205.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002303005",
+    "name": "UNITED MICROELECTRONICS",
+    "amount": "21641.03",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003037008",
+    "name": "Unimicron Technology Corp",
+    "amount": "2384.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0006669005",
+    "name": "WIWYNN CORP",
+    "amount": "205.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003231007",
+    "name": "Wistron Corp",
+    "amount": "5384.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002327004",
+    "name": "YAGEO CO",
+    "amount": "616.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "12593873",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "1933529355",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
