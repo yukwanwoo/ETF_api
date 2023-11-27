@@ -1,0 +1,50 @@
+[
+  {
+    "code": "229200",
+    "name": "KODEX 코스닥150",
+    "amount": "9994.00",
+    "price": "126973770",
+    "ratio": "12.83",
+    "totalPrice": "127223620"
+  },
+  {
+    "code": "114800",
+    "name": "KODEX 인버스",
+    "amount": "3750.00",
+    "price": "17250000",
+    "ratio": "1.74",
+    "totalPrice": "17268750"
+  },
+  {
+    "code": "KR4106TC0003",
+    "name": "코스닥150 F 202312",
+    "amount": "67.38",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "859499280"
+  },
+  {
+    "code": "KR4101TC0008",
+    "name": "코스피200 F 202312",
+    "amount": "-11.63",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-973140250"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "845361809",
+    "ratio": "85.43",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "989854179",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
