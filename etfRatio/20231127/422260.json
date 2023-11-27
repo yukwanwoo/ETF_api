@@ -1,0 +1,202 @@
+[
+  {
+    "code": "004370",
+    "name": "농심",
+    "amount": "88.00",
+    "price": "37224000",
+    "ratio": "9.05",
+    "totalPrice": "37356000"
+  },
+  {
+    "code": "008770",
+    "name": "호텔신라",
+    "amount": "559.00",
+    "price": "37117600",
+    "ratio": "9.02",
+    "totalPrice": "37173500"
+  },
+  {
+    "code": "383220",
+    "name": "F&F",
+    "amount": "428.00",
+    "price": "36979200",
+    "ratio": "8.99",
+    "totalPrice": "37578400"
+  },
+  {
+    "code": "005180",
+    "name": "빙그레",
+    "amount": "621.00",
+    "price": "35272800",
+    "ratio": "8.57",
+    "totalPrice": "35955900"
+  },
+  {
+    "code": "034230",
+    "name": "파라다이스",
+    "amount": "2428.00",
+    "price": "33457840",
+    "ratio": "8.13",
+    "totalPrice": "34113400"
+  },
+  {
+    "code": "003230",
+    "name": "삼양식품",
+    "amount": "150.00",
+    "price": "32625000",
+    "ratio": "7.93",
+    "totalPrice": "32475000"
+  },
+  {
+    "code": "007070",
+    "name": "GS리테일",
+    "amount": "734.00",
+    "price": "18386700",
+    "ratio": "4.47",
+    "totalPrice": "18350000"
+  },
+  {
+    "code": "214450",
+    "name": "파마리서치",
+    "amount": "148.00",
+    "price": "16280000",
+    "ratio": "3.96",
+    "totalPrice": "16724000"
+  },
+  {
+    "code": "114840",
+    "name": "아이패밀리에스씨",
+    "amount": "674.00",
+    "price": "16176000",
+    "ratio": "3.93",
+    "totalPrice": "17085900"
+  },
+  {
+    "code": "006730",
+    "name": "서부T&D",
+    "amount": "1995.00",
+    "price": "15022350",
+    "ratio": "3.65",
+    "totalPrice": "15082200"
+  },
+  {
+    "code": "090430",
+    "name": "아모레퍼시픽",
+    "amount": "111.00",
+    "price": "14874000",
+    "ratio": "3.62",
+    "totalPrice": "14430000"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "63.00",
+    "price": "12946500",
+    "ratio": "3.15",
+    "totalPrice": "12946500"
+  },
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "248.00",
+    "price": "12288400",
+    "ratio": "2.99",
+    "totalPrice": "12524000"
+  },
+  {
+    "code": "067160",
+    "name": "아프리카TV",
+    "amount": "188.00",
+    "price": "11919200",
+    "ratio": "2.90",
+    "totalPrice": "12069600"
+  },
+  {
+    "code": "001680",
+    "name": "대상",
+    "amount": "524.00",
+    "price": "11004000",
+    "ratio": "2.67",
+    "totalPrice": "10689600"
+  },
+  {
+    "code": "004170",
+    "name": "신세계",
+    "amount": "60.00",
+    "price": "10242000",
+    "ratio": "2.49",
+    "totalPrice": "10344000"
+  },
+  {
+    "code": "025980",
+    "name": "아난티",
+    "amount": "1235.00",
+    "price": "8484450",
+    "ratio": "2.06",
+    "totalPrice": "8410350"
+  },
+  {
+    "code": "033780",
+    "name": "KT&G",
+    "amount": "93.00",
+    "price": "8407200",
+    "ratio": "2.04",
+    "totalPrice": "8425800"
+  },
+  {
+    "code": "080160",
+    "name": "모두투어",
+    "amount": "526.00",
+    "price": "8400220",
+    "ratio": "2.04",
+    "totalPrice": "8721080"
+  },
+  {
+    "code": "271560",
+    "name": "오리온",
+    "amount": "70.00",
+    "price": "8302000",
+    "ratio": "2.02",
+    "totalPrice": "8302000"
+  },
+  {
+    "code": "298540",
+    "name": "더네이쳐홀딩스",
+    "amount": "445.00",
+    "price": "8005550",
+    "ratio": "1.95",
+    "totalPrice": "8201350"
+  },
+  {
+    "code": "036620",
+    "name": "감성코퍼레이션",
+    "amount": "1665.00",
+    "price": "6093900",
+    "ratio": "1.48",
+    "totalPrice": "6277050"
+  },
+  {
+    "code": "035760",
+    "name": "CJ ENM",
+    "amount": "54.00",
+    "price": "4077000",
+    "ratio": "0.99",
+    "totalPrice": "4185000"
+  },
+  {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "amount": "40.00",
+    "price": "3832000",
+    "ratio": "0.93",
+    "totalPrice": "3884000"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "3958579",
+    "ratio": "0.96",
+    "totalPrice": ""
+  }
+]
