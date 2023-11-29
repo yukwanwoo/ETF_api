@@ -1,0 +1,322 @@
+[
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "284.17",
+    "price": "20602325",
+    "ratio": "20.35",
+    "totalPrice": "20659159"
+  },
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "67.50",
+    "price": "8727750",
+    "ratio": "8.62",
+    "totalPrice": "8869500"
+  },
+  {
+    "code": "006400",
+    "name": "삼성SDI",
+    "amount": "18.33",
+    "price": "8486790",
+    "ratio": "8.38",
+    "totalPrice": "8340150"
+  },
+  {
+    "code": "009150",
+    "name": "삼성전기",
+    "amount": "35.83",
+    "price": "5245512",
+    "ratio": "5.18",
+    "totalPrice": "5159520"
+  },
+  {
+    "code": "096770",
+    "name": "SK이노베이션",
+    "amount": "27.50",
+    "price": "3883000",
+    "ratio": "3.84",
+    "totalPrice": "3885750"
+  },
+  {
+    "code": "000100",
+    "name": "유한양행",
+    "amount": "47.50",
+    "price": "2973500",
+    "ratio": "2.94",
+    "totalPrice": "2983000"
+  },
+  {
+    "code": "067310",
+    "name": "하나마이크론",
+    "amount": "101.67",
+    "price": "2958597",
+    "ratio": "2.92",
+    "totalPrice": "3019599"
+  },
+  {
+    "code": "196170",
+    "name": "알테오젠",
+    "amount": "26.67",
+    "price": "2194941",
+    "ratio": "2.17",
+    "totalPrice": "2106930"
+  },
+  {
+    "code": "222800",
+    "name": "심텍",
+    "amount": "55.83",
+    "price": "2177370",
+    "ratio": "2.15",
+    "totalPrice": "2230408"
+  },
+  {
+    "code": "128940",
+    "name": "한미약품",
+    "amount": "6.67",
+    "price": "2041020",
+    "ratio": "2.02",
+    "totalPrice": "2061030"
+  },
+  {
+    "code": "090460",
+    "name": "비에이치",
+    "amount": "95.00",
+    "price": "2018750",
+    "ratio": "1.99",
+    "totalPrice": "2009250"
+  },
+  {
+    "code": "036930",
+    "name": "주성엔지니어링",
+    "amount": "58.33",
+    "price": "2012385",
+    "ratio": "1.99",
+    "totalPrice": "2050299"
+  },
+  {
+    "code": "084370",
+    "name": "유진테크",
+    "amount": "46.67",
+    "price": "2002143",
+    "ratio": "1.98",
+    "totalPrice": "2006810"
+  },
+  {
+    "code": "039030",
+    "name": "이오테크닉스",
+    "amount": "12.50",
+    "price": "1998750",
+    "ratio": "1.97",
+    "totalPrice": "2028750"
+  },
+  {
+    "code": "005070",
+    "name": "코스모신소재",
+    "amount": "12.50",
+    "price": "1993750",
+    "ratio": "1.97",
+    "totalPrice": "1978750"
+  },
+  {
+    "code": "396270",
+    "name": "넥스트칩",
+    "amount": "105.00",
+    "price": "1981350",
+    "ratio": "1.96",
+    "totalPrice": "1997100"
+  },
+  {
+    "code": "131970",
+    "name": "두산테스나",
+    "amount": "33.33",
+    "price": "1979802",
+    "ratio": "1.96",
+    "totalPrice": "2029797"
+  },
+  {
+    "code": "011070",
+    "name": "LG이노텍",
+    "amount": "8.33",
+    "price": "1970045",
+    "ratio": "1.95",
+    "totalPrice": "1978375"
+  },
+  {
+    "code": "079370",
+    "name": "제우스",
+    "amount": "45.83",
+    "price": "1872156",
+    "ratio": "1.85",
+    "totalPrice": "1913402"
+  },
+  {
+    "code": "087010",
+    "name": "펩트론",
+    "amount": "56.67",
+    "price": "1836108",
+    "ratio": "1.81",
+    "totalPrice": "1816273"
+  },
+  {
+    "code": "007660",
+    "name": "이수페타시스",
+    "amount": "50.83",
+    "price": "1514734",
+    "ratio": "1.50",
+    "totalPrice": "1542690"
+  },
+  {
+    "code": "095340",
+    "name": "ISC",
+    "amount": "18.33",
+    "price": "1495728",
+    "ratio": "1.48",
+    "totalPrice": "1493895"
+  },
+  {
+    "code": "042700",
+    "name": "한미반도체",
+    "amount": "24.17",
+    "price": "1491289",
+    "ratio": "1.47",
+    "totalPrice": "1488872"
+  },
+  {
+    "code": "034220",
+    "name": "LG디스플레이",
+    "amount": "113.33",
+    "price": "1400759",
+    "ratio": "1.38",
+    "totalPrice": "1438157"
+  },
+  {
+    "code": "403870",
+    "name": "HPSP",
+    "amount": "26.67",
+    "price": "1138809",
+    "ratio": "1.12",
+    "totalPrice": "1097470"
+  },
+  {
+    "code": "322510",
+    "name": "제이엘케이",
+    "amount": "45.00",
+    "price": "1095750",
+    "ratio": "1.08",
+    "totalPrice": "949500"
+  },
+  {
+    "code": "353200",
+    "name": "대덕전자",
+    "amount": "39.17",
+    "price": "1057590",
+    "ratio": "1.04",
+    "totalPrice": "1077175"
+  },
+  {
+    "code": "370090",
+    "name": "퓨런티어",
+    "amount": "29.17",
+    "price": "1044286",
+    "ratio": "1.03",
+    "totalPrice": "1028242"
+  },
+  {
+    "code": "066970",
+    "name": "엘앤에프",
+    "amount": "6.67",
+    "price": "1043188",
+    "ratio": "1.03",
+    "totalPrice": "970485"
+  },
+  {
+    "code": "036540",
+    "name": "SFA반도체",
+    "amount": "189.17",
+    "price": "1000709",
+    "ratio": "0.99",
+    "totalPrice": "1021518"
+  },
+  {
+    "code": "131290",
+    "name": "티에스이",
+    "amount": "20.00",
+    "price": "997000",
+    "ratio": "0.98",
+    "totalPrice": "1016000"
+  },
+  {
+    "code": "213420",
+    "name": "덕산네오룩스",
+    "amount": "20.83",
+    "price": "988384",
+    "ratio": "0.98",
+    "totalPrice": "977968"
+  },
+  {
+    "code": "074600",
+    "name": "원익QnC",
+    "amount": "35.83",
+    "price": "979950",
+    "ratio": "0.97",
+    "totalPrice": "1001448"
+  },
+  {
+    "code": "315640",
+    "name": "딥노이드",
+    "amount": "40.00",
+    "price": "976000",
+    "ratio": "0.96",
+    "totalPrice": "948000"
+  },
+  {
+    "code": "166090",
+    "name": "하나머티리얼즈",
+    "amount": "20.83",
+    "price": "961304",
+    "ratio": "0.95",
+    "totalPrice": "983176"
+  },
+  {
+    "code": "278280",
+    "name": "천보",
+    "amount": "9.17",
+    "price": "961016",
+    "ratio": "0.95",
+    "totalPrice": "954597"
+  },
+  {
+    "code": "272290",
+    "name": "이녹스첨단소재",
+    "amount": "29.17",
+    "price": "950942",
+    "ratio": "0.94",
+    "totalPrice": "962610"
+  },
+  {
+    "code": "247540",
+    "name": "에코프로비엠",
+    "amount": "3.33",
+    "price": "824175",
+    "ratio": "0.81",
+    "totalPrice": "814185"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "2350099",
+    "ratio": "2.32",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "101239939",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
