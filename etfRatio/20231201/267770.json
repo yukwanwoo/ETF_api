@@ -1,0 +1,50 @@
+[
+  {
+    "code": "102110",
+    "name": "TIGER 200",
+    "amount": "10000.00",
+    "price": "336600000",
+    "ratio": "",
+    "totalPrice": "339800000"
+  },
+  {
+    "code": "123320",
+    "name": "TIGER 레버리지",
+    "amount": "2422.00",
+    "price": "38316040",
+    "ratio": "",
+    "totalPrice": "39006310"
+  },
+  {
+    "code": "252400",
+    "name": "KBSTAR 200선물레버리지",
+    "amount": "1563.00",
+    "price": "23202735",
+    "ratio": "",
+    "totalPrice": "23570040"
+  },
+  {
+    "code": "KR4101TC0008",
+    "name": "코스피200 F 202312",
+    "amount": "24.39",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "2067967125"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "864148556",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "1266524906",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
