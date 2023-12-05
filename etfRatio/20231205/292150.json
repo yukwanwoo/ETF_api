@@ -1,0 +1,90 @@
+[
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "2014.00",
+    "price": "144403800",
+    "ratio": "26.50",
+    "totalPrice": "146216400"
+  },
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "867.00",
+    "price": "109675500",
+    "ratio": "20.13",
+    "totalPrice": "113663700"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "217.00",
+    "price": "46329500",
+    "ratio": "8.50",
+    "totalPrice": "45678500"
+  },
+  {
+    "code": "005490",
+    "name": "POSCO홀딩스",
+    "amount": "93.00",
+    "price": "43942500",
+    "ratio": "8.06",
+    "totalPrice": "44175000"
+  },
+  {
+    "code": "005380",
+    "name": "현대차",
+    "amount": "221.00",
+    "price": "40001000",
+    "ratio": "7.34",
+    "totalPrice": "40133600"
+  },
+  {
+    "code": "006400",
+    "name": "삼성SDI",
+    "amount": "81.00",
+    "price": "35842500",
+    "ratio": "6.58",
+    "totalPrice": "35599500"
+  },
+  {
+    "code": "051910",
+    "name": "LG화학",
+    "amount": "75.00",
+    "price": "35550000",
+    "ratio": "6.52",
+    "totalPrice": "35475000"
+  },
+  {
+    "code": "000270",
+    "name": "기아",
+    "amount": "401.00",
+    "price": "33724100",
+    "ratio": "6.19",
+    "totalPrice": "33724100"
+  },
+  {
+    "code": "068270",
+    "name": "셀트리온",
+    "amount": "179.00",
+    "price": "29051700",
+    "ratio": "5.33",
+    "totalPrice": "29105400"
+  },
+  {
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "amount": "56.00",
+    "price": "24220000",
+    "ratio": "4.44",
+    "totalPrice": "24080000"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "2143554",
+    "ratio": "0.39",
+    "totalPrice": ""
+  }
+]
