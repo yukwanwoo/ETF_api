@@ -1,0 +1,354 @@
+[
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "82.00",
+    "price": "10340200",
+    "ratio": "",
+    "totalPrice": "10323800"
+  },
+  {
+    "code": "454910",
+    "name": "두산로보틱스",
+    "amount": "79.00",
+    "price": "6564900",
+    "ratio": "",
+    "totalPrice": "6454300"
+  },
+  {
+    "code": "058470",
+    "name": "리노공업",
+    "amount": "24.00",
+    "price": "4836000",
+    "ratio": "",
+    "totalPrice": "4908000"
+  },
+  {
+    "code": "328130",
+    "name": "루닛",
+    "amount": "57.00",
+    "price": "4440300",
+    "ratio": "",
+    "totalPrice": "4480200"
+  },
+  {
+    "code": "042700",
+    "name": "한미반도체",
+    "amount": "61.00",
+    "price": "3550200",
+    "ratio": "",
+    "totalPrice": "3525800"
+  },
+  {
+    "code": "094360",
+    "name": "칩스앤미디어",
+    "amount": "99.00",
+    "price": "2900700",
+    "ratio": "",
+    "totalPrice": "2856150"
+  },
+  {
+    "code": "384470",
+    "name": "코어라인소프트",
+    "amount": "134.00",
+    "price": "2854200",
+    "ratio": "",
+    "totalPrice": "3015000"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "13.00",
+    "price": "2788500",
+    "ratio": "",
+    "totalPrice": "2769000"
+  },
+  {
+    "code": "108860",
+    "name": "셀바스AI",
+    "amount": "130.00",
+    "price": "2522000",
+    "ratio": "",
+    "totalPrice": "2538900"
+  },
+  {
+    "code": "394280",
+    "name": "오픈엣지테크놀로지",
+    "amount": "122.00",
+    "price": "2421700",
+    "ratio": "",
+    "totalPrice": "2368020"
+  },
+  {
+    "code": "067310",
+    "name": "하나마이크론",
+    "amount": "71.00",
+    "price": "1924100",
+    "ratio": "",
+    "totalPrice": "1902800"
+  },
+  {
+    "code": "399720",
+    "name": "가온칩스",
+    "amount": "39.00",
+    "price": "1795950",
+    "ratio": "",
+    "totalPrice": "1805700"
+  },
+  {
+    "code": "US00724F1012",
+    "name": "ADOBE INC",
+    "amount": "9.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0079031078",
+    "name": "ADVANCED MICRO DEVICES",
+    "amount": "69.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US02079K1079",
+    "name": "ALPHABET INC-CL C",
+    "amount": "46.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0231351067",
+    "name": "AMAZON.COM INC",
+    "amount": "28.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG037AX1015",
+    "name": "AMBARELLA INC",
+    "amount": "41.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0420682058",
+    "name": "ARM HOLDINGS PLC",
+    "amount": "84.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0567521085",
+    "name": "BAIDU INC - SPON ADR",
+    "amount": "16.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US11135F1012",
+    "name": "BROADCOM INC",
+    "amount": "3.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US12468P1049",
+    "name": "C3.AI INC-A",
+    "amount": "73.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US24703L2025",
+    "name": "DELL TECHNOLOGIES -C",
+    "amount": "74.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4581401001",
+    "name": "INTEL CORP",
+    "amount": "151.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US46222L1089",
+    "name": "IONQ INC",
+    "amount": "286.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US58733R1023",
+    "name": "MERCADOLIBRE INC",
+    "amount": "2.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US30303M1027",
+    "name": "META PLATFORMS INC-CLASS A",
+    "amount": "34.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5949181045",
+    "name": "MICROSOFT CORP",
+    "amount": "34.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US60741F1049",
+    "name": "MOBILEYE GLOBAL INC-A",
+    "amount": "67.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US60937P1066",
+    "name": "MONGODB INC",
+    "amount": "6.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US67066G1040",
+    "name": "NVIDIA CORP",
+    "amount": "41.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US69608A1088",
+    "name": "PALANTIR TECHNOLOGIES INC-A",
+    "amount": "314.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7223041028",
+    "name": "PDD HOLDINGS INC",
+    "amount": "60.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7475251036",
+    "name": "QUALCOMM INC",
+    "amount": "29.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US79466L3024",
+    "name": "SALESFORCE INC",
+    "amount": "22.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US81762P1021",
+    "name": "SERVICENOW INC",
+    "amount": "10.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8334451098",
+    "name": "SNOWFLAKE INC-CLASS A",
+    "amount": "29.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US86800U1043",
+    "name": "SUPER MICRO COMPUTER INC",
+    "amount": "25.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8740391003",
+    "name": "TAIWAN SEMICONDUCTOR-SP ADR",
+    "amount": "26.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US88160R1014",
+    "name": "TESLA INC",
+    "amount": "20.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US90364P1057",
+    "name": "UIPATH INC - CLASS A",
+    "amount": "245.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92537N1081",
+    "name": "VERTIV HOLDINGS CO-A",
+    "amount": "61.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98138H1014",
+    "name": "WORKDAY INC-CLASS A",
+    "amount": "20.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "1912670",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "269437691",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
