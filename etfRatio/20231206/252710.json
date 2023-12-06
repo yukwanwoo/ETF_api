@@ -1,0 +1,34 @@
+[
+  {
+    "code": "123310",
+    "name": "TIGER 인버스",
+    "amount": "12275.00",
+    "price": "63216250",
+    "ratio": "",
+    "totalPrice": "63645875"
+  },
+  {
+    "code": "KR4101TC0008",
+    "name": "코스피200 F 202312",
+    "amount": "-5.87",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-488163875"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "212603066",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "276248941",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
