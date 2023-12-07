@@ -1,0 +1,90 @@
+[
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "226.00",
+    "price": "47460000",
+    "ratio": "21.38",
+    "totalPrice": "48251000"
+  },
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "775.00",
+    "price": "39060000",
+    "ratio": "17.60",
+    "totalPrice": "39137500"
+  },
+  {
+    "code": "030200",
+    "name": "KT",
+    "amount": "717.00",
+    "price": "24628950",
+    "ratio": "11.10",
+    "totalPrice": "24700650"
+  },
+  {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "amount": "483.00",
+    "price": "24125850",
+    "ratio": "10.87",
+    "totalPrice": "24681300"
+  },
+  {
+    "code": "259960",
+    "name": "크래프톤",
+    "amount": "115.00",
+    "price": "24035000",
+    "ratio": "10.83",
+    "totalPrice": "24380000"
+  },
+  {
+    "code": "352820",
+    "name": "하이브",
+    "amount": "89.00",
+    "price": "20381000",
+    "ratio": "9.18",
+    "totalPrice": "20336500"
+  },
+  {
+    "code": "036570",
+    "name": "엔씨소프트",
+    "amount": "60.00",
+    "price": "15300000",
+    "ratio": "6.89",
+    "totalPrice": "15900000"
+  },
+  {
+    "code": "251270",
+    "name": "넷마블",
+    "amount": "206.00",
+    "price": "11680200",
+    "ratio": "5.26",
+    "totalPrice": "11453600"
+  },
+  {
+    "code": "032640",
+    "name": "LG유플러스",
+    "amount": "894.00",
+    "price": "9252900",
+    "ratio": "4.17",
+    "totalPrice": "9306540"
+  },
+  {
+    "code": "030000",
+    "name": "제일기획",
+    "amount": "221.00",
+    "price": "4431050",
+    "ratio": "2.00",
+    "totalPrice": "4453150"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "1587845",
+    "ratio": "0.72",
+    "totalPrice": ""
+  }
+]
