@@ -1,0 +1,1602 @@
+[
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "8981.00",
+    "price": "652020600",
+    "ratio": "31.03",
+    "totalPrice": "642141500"
+  },
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "1068.00",
+    "price": "137238000",
+    "ratio": "6.53",
+    "totalPrice": "134140800"
+  },
+  {
+    "code": "005490",
+    "name": "POSCO홀딩스",
+    "amount": "129.00",
+    "price": "59017500",
+    "ratio": "2.81",
+    "totalPrice": "57663000"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "254.00",
+    "price": "54864000",
+    "ratio": "2.61",
+    "totalPrice": "53975000"
+  },
+  {
+    "code": "005380",
+    "name": "현대차",
+    "amount": "266.00",
+    "price": "49077000",
+    "ratio": "2.34",
+    "totalPrice": "48571600"
+  },
+  {
+    "code": "006400",
+    "name": "삼성SDI",
+    "amount": "98.00",
+    "price": "44100000",
+    "ratio": "2.10",
+    "totalPrice": "43463000"
+  },
+  {
+    "code": "051910",
+    "name": "LG화학",
+    "amount": "87.00",
+    "price": "41716500",
+    "ratio": "1.99",
+    "totalPrice": "40759500"
+  },
+  {
+    "code": "000270",
+    "name": "기아",
+    "amount": "475.00",
+    "price": "41087500",
+    "ratio": "1.96",
+    "totalPrice": "40422500"
+  },
+  {
+    "code": "068270",
+    "name": "셀트리온",
+    "amount": "215.00",
+    "price": "35152500",
+    "ratio": "1.67",
+    "totalPrice": "33884000"
+  },
+  {
+    "code": "105560",
+    "name": "KB금융",
+    "amount": "653.00",
+    "price": "34021300",
+    "ratio": "1.62",
+    "totalPrice": "33564200"
+  },
+  {
+    "code": "055550",
+    "name": "신한지주",
+    "amount": "845.00",
+    "price": "30800250",
+    "ratio": "1.47",
+    "totalPrice": "30715750"
+  },
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "600.00",
+    "price": "30540000",
+    "ratio": "1.45",
+    "totalPrice": "30300000"
+  },
+  {
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "amount": "67.00",
+    "price": "28843500",
+    "ratio": "1.37",
+    "totalPrice": "28575500"
+  },
+  {
+    "code": "012330",
+    "name": "현대모비스",
+    "amount": "122.00",
+    "price": "27511000",
+    "ratio": "1.31",
+    "totalPrice": "27389000"
+  },
+  {
+    "code": "028260",
+    "name": "삼성물산",
+    "amount": "187.00",
+    "price": "22814000",
+    "ratio": "1.09",
+    "totalPrice": "22608300"
+  },
+  {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "amount": "30.00",
+    "price": "21240000",
+    "ratio": "1.01",
+    "totalPrice": "21270000"
+  },
+  {
+    "code": "086790",
+    "name": "하나금융지주",
+    "amount": "502.00",
+    "price": "20807900",
+    "ratio": "0.99",
+    "totalPrice": "20657300"
+  },
+  {
+    "code": "066570",
+    "name": "LG전자",
+    "amount": "206.00",
+    "price": "19508200",
+    "ratio": "0.93",
+    "totalPrice": "19631800"
+  },
+  {
+    "code": "033780",
+    "name": "KT&G",
+    "amount": "199.00",
+    "price": "18049300",
+    "ratio": "0.86",
+    "totalPrice": "18168700"
+  },
+  {
+    "code": "003670",
+    "name": "포스코퓨처엠",
+    "amount": "52.00",
+    "price": "17342000",
+    "ratio": "0.83",
+    "totalPrice": "17394000"
+  },
+  {
+    "code": "316140",
+    "name": "우리금융지주",
+    "amount": "1318.00",
+    "price": "16883580",
+    "ratio": "0.80",
+    "totalPrice": "16870400"
+  },
+  {
+    "code": "323410",
+    "name": "카카오뱅크",
+    "amount": "645.00",
+    "price": "16770000",
+    "ratio": "0.80",
+    "totalPrice": "16673250"
+  },
+  {
+    "code": "009150",
+    "name": "삼성전기",
+    "amount": "105.00",
+    "price": "15708000",
+    "ratio": "0.75",
+    "totalPrice": "15508500"
+  },
+  {
+    "code": "000810",
+    "name": "삼성화재",
+    "amount": "60.00",
+    "price": "15180000",
+    "ratio": "0.72",
+    "totalPrice": "15360000"
+  },
+  {
+    "code": "030200",
+    "name": "KT",
+    "amount": "428.00",
+    "price": "14808800",
+    "ratio": "0.70",
+    "totalPrice": "14744600"
+  },
+  {
+    "code": "096770",
+    "name": "SK이노베이션",
+    "amount": "108.00",
+    "price": "14515200",
+    "ratio": "0.69",
+    "totalPrice": "14482800"
+  },
+  {
+    "code": "003550",
+    "name": "LG",
+    "amount": "177.00",
+    "price": "14496300",
+    "ratio": "0.69",
+    "totalPrice": "14460900"
+  },
+  {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "amount": "288.00",
+    "price": "14428800",
+    "ratio": "0.69",
+    "totalPrice": "14457600"
+  },
+  {
+    "code": "259960",
+    "name": "크래프톤",
+    "amount": "67.00",
+    "price": "13936000",
+    "ratio": "0.66",
+    "totalPrice": "14237500"
+  },
+  {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "amount": "817.00",
+    "price": "12900430",
+    "ratio": "0.61",
+    "totalPrice": "12982130"
+  },
+  {
+    "code": "352820",
+    "name": "하이브",
+    "amount": "53.00",
+    "price": "12243000",
+    "ratio": "0.58",
+    "totalPrice": "12110500"
+  },
+  {
+    "code": "018260",
+    "name": "삼성에스디에스",
+    "amount": "72.00",
+    "price": "11822400",
+    "ratio": "0.56",
+    "totalPrice": "11757600"
+  },
+  {
+    "code": "015760",
+    "name": "한국전력",
+    "amount": "599.00",
+    "price": "11680500",
+    "ratio": "0.56",
+    "totalPrice": "11770350"
+  },
+  {
+    "code": "034730",
+    "name": "SK",
+    "amount": "68.00",
+    "price": "11526000",
+    "ratio": "0.55",
+    "totalPrice": "11539600"
+  },
+  {
+    "code": "138040",
+    "name": "메리츠금융지주",
+    "amount": "194.00",
+    "price": "11329600",
+    "ratio": "0.54",
+    "totalPrice": "11368400"
+  },
+  {
+    "code": "032830",
+    "name": "삼성생명",
+    "amount": "160.00",
+    "price": "11008000",
+    "ratio": "0.52",
+    "totalPrice": "11008000"
+  },
+  {
+    "code": "003490",
+    "name": "대한항공",
+    "amount": "484.00",
+    "price": "10962600",
+    "ratio": "0.52",
+    "totalPrice": "10914200"
+  },
+  {
+    "code": "010130",
+    "name": "고려아연",
+    "amount": "21.00",
+    "price": "10500000",
+    "ratio": "0.50",
+    "totalPrice": "10962000"
+  },
+  {
+    "code": "010140",
+    "name": "삼성중공업",
+    "amount": "1257.00",
+    "price": "9942870",
+    "ratio": "0.47",
+    "totalPrice": "9930300"
+  },
+  {
+    "code": "009540",
+    "name": "HD한국조선해양",
+    "amount": "89.00",
+    "price": "9772200",
+    "ratio": "0.47",
+    "totalPrice": "9745500"
+  },
+  {
+    "code": "402340",
+    "name": "SK스퀘어",
+    "amount": "186.00",
+    "price": "9262800",
+    "ratio": "0.44",
+    "totalPrice": "9104700"
+  },
+  {
+    "code": "011200",
+    "name": "HMM",
+    "amount": "559.00",
+    "price": "8787480",
+    "ratio": "0.42",
+    "totalPrice": "8748350"
+  },
+  {
+    "code": "012450",
+    "name": "한화에어로스페이스",
+    "amount": "66.00",
+    "price": "8725200",
+    "ratio": "0.42",
+    "totalPrice": "8804400"
+  },
+  {
+    "code": "036570",
+    "name": "엔씨소프트",
+    "amount": "36.00",
+    "price": "8442000",
+    "ratio": "0.40",
+    "totalPrice": "9414000"
+  },
+  {
+    "code": "028050",
+    "name": "삼성엔지니어링",
+    "amount": "299.00",
+    "price": "7504900",
+    "ratio": "0.36",
+    "totalPrice": "7504900"
+  },
+  {
+    "code": "090430",
+    "name": "아모레퍼시픽",
+    "amount": "59.00",
+    "price": "7422200",
+    "ratio": "0.35",
+    "totalPrice": "7410400"
+  },
+  {
+    "code": "251270",
+    "name": "넷마블",
+    "amount": "123.00",
+    "price": "7195500",
+    "ratio": "0.34",
+    "totalPrice": "7232400"
+  },
+  {
+    "code": "000100",
+    "name": "유한양행",
+    "amount": "109.00",
+    "price": "7194000",
+    "ratio": "0.34",
+    "totalPrice": "7139500"
+  },
+  {
+    "code": "005830",
+    "name": "DB손해보험",
+    "amount": "84.00",
+    "price": "7106400",
+    "ratio": "0.34",
+    "totalPrice": "7030800"
+  },
+  {
+    "code": "009830",
+    "name": "한화솔루션",
+    "amount": "206.00",
+    "price": "6478700",
+    "ratio": "0.31",
+    "totalPrice": "6499300"
+  },
+  {
+    "code": "011070",
+    "name": "LG이노텍",
+    "amount": "27.00",
+    "price": "6399000",
+    "ratio": "0.30",
+    "totalPrice": "6385500"
+  },
+  {
+    "code": "161390",
+    "name": "한국타이어앤테크놀로지",
+    "amount": "137.00",
+    "price": "6377350",
+    "ratio": "0.30",
+    "totalPrice": "6247200"
+  },
+  {
+    "code": "047810",
+    "name": "한국항공우주",
+    "amount": "134.00",
+    "price": "6304700",
+    "ratio": "0.30",
+    "totalPrice": "6277900"
+  },
+  {
+    "code": "377300",
+    "name": "카카오페이",
+    "amount": "130.00",
+    "price": "6272500",
+    "ratio": "0.30",
+    "totalPrice": "6019000"
+  },
+  {
+    "code": "086280",
+    "name": "현대글로비스",
+    "amount": "35.00",
+    "price": "6153000",
+    "ratio": "0.29",
+    "totalPrice": "6125000"
+  },
+  {
+    "code": "024110",
+    "name": "기업은행",
+    "amount": "516.00",
+    "price": "6104280",
+    "ratio": "0.29",
+    "totalPrice": "6104280"
+  },
+  {
+    "code": "011170",
+    "name": "롯데케미칼",
+    "amount": "38.00",
+    "price": "6091400",
+    "ratio": "0.29",
+    "totalPrice": "6178800"
+  },
+  {
+    "code": "001570",
+    "name": "금양",
+    "amount": "52.00",
+    "price": "5865600",
+    "ratio": "0.28",
+    "totalPrice": "5839600"
+  },
+  {
+    "code": "051900",
+    "name": "LG생활건강",
+    "amount": "18.00",
+    "price": "5778000",
+    "ratio": "0.28",
+    "totalPrice": "5715000"
+  },
+  {
+    "code": "021240",
+    "name": "코웨이",
+    "amount": "107.00",
+    "price": "5671000",
+    "ratio": "0.27",
+    "totalPrice": "5745900"
+  },
+  {
+    "code": "004020",
+    "name": "현대제철",
+    "amount": "160.00",
+    "price": "5536000",
+    "ratio": "0.26",
+    "totalPrice": "5560000"
+  },
+  {
+    "code": "032640",
+    "name": "LG유플러스",
+    "amount": "532.00",
+    "price": "5495560",
+    "ratio": "0.26",
+    "totalPrice": "5490240"
+  },
+  {
+    "code": "034220",
+    "name": "LG디스플레이",
+    "amount": "429.00",
+    "price": "5341050",
+    "ratio": "0.25",
+    "totalPrice": "5268120"
+  },
+  {
+    "code": "267250",
+    "name": "HD현대",
+    "amount": "86.00",
+    "price": "5246000",
+    "ratio": "0.25",
+    "totalPrice": "5263200"
+  },
+  {
+    "code": "010950",
+    "name": "S-Oil",
+    "amount": "79.00",
+    "price": "5229800",
+    "ratio": "0.25",
+    "totalPrice": "5221900"
+  },
+  {
+    "code": "000720",
+    "name": "현대건설",
+    "amount": "140.00",
+    "price": "5061000",
+    "ratio": "0.24",
+    "totalPrice": "5082000"
+  },
+  {
+    "code": "047050",
+    "name": "포스코인터내셔널",
+    "amount": "87.00",
+    "price": "4932900",
+    "ratio": "0.23",
+    "totalPrice": "4924200"
+  },
+  {
+    "code": "180640",
+    "name": "한진칼",
+    "amount": "89.00",
+    "price": "4761500",
+    "ratio": "0.23",
+    "totalPrice": "4770400"
+  },
+  {
+    "code": "071050",
+    "name": "한국금융지주",
+    "amount": "77.00",
+    "price": "4743200",
+    "ratio": "0.23",
+    "totalPrice": "4712400"
+  },
+  {
+    "code": "097950",
+    "name": "CJ제일제당",
+    "amount": "15.00",
+    "price": "4717500",
+    "ratio": "0.22",
+    "totalPrice": "4725000"
+  },
+  {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "amount": "52.00",
+    "price": "4664400",
+    "ratio": "0.22",
+    "totalPrice": "4685200"
+  },
+  {
+    "code": "271560",
+    "name": "오리온",
+    "amount": "41.00",
+    "price": "4587900",
+    "ratio": "0.22",
+    "totalPrice": "4587900"
+  },
+  {
+    "code": "016360",
+    "name": "삼성증권",
+    "amount": "116.00",
+    "price": "4587800",
+    "ratio": "0.22",
+    "totalPrice": "4587800"
+  },
+  {
+    "code": "128940",
+    "name": "한미약품",
+    "amount": "14.00",
+    "price": "4585000",
+    "ratio": "0.22",
+    "totalPrice": "4585000"
+  },
+  {
+    "code": "361610",
+    "name": "SK아이이테크놀로지",
+    "amount": "49.00",
+    "price": "4218900",
+    "ratio": "0.20",
+    "totalPrice": "4214000"
+  },
+  {
+    "code": "329180",
+    "name": "HD현대중공업",
+    "amount": "32.00",
+    "price": "4032000",
+    "ratio": "0.19",
+    "totalPrice": "4012800"
+  },
+  {
+    "code": "011780",
+    "name": "금호석유",
+    "amount": "32.00",
+    "price": "4019200",
+    "ratio": "0.19",
+    "totalPrice": "4073600"
+  },
+  {
+    "code": "000990",
+    "name": "DB하이텍",
+    "amount": "67.00",
+    "price": "3973100",
+    "ratio": "0.19",
+    "totalPrice": "4013300"
+  },
+  {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "amount": "553.00",
+    "price": "3965010",
+    "ratio": "0.19",
+    "totalPrice": "3953950"
+  },
+  {
+    "code": "064350",
+    "name": "현대로템",
+    "amount": "139.00",
+    "price": "3961500",
+    "ratio": "0.19",
+    "totalPrice": "4037950"
+  },
+  {
+    "code": "035250",
+    "name": "강원랜드",
+    "amount": "240.00",
+    "price": "3861600",
+    "ratio": "0.18",
+    "totalPrice": "3859200"
+  },
+  {
+    "code": "008770",
+    "name": "호텔신라",
+    "amount": "58.00",
+    "price": "3741000",
+    "ratio": "0.18",
+    "totalPrice": "3735200"
+  },
+  {
+    "code": "241560",
+    "name": "두산밥캣",
+    "amount": "86.00",
+    "price": "3685100",
+    "ratio": "0.18",
+    "totalPrice": "3642100"
+  },
+  {
+    "code": "138930",
+    "name": "BNK금융지주",
+    "amount": "509.00",
+    "price": "3629170",
+    "ratio": "0.17",
+    "totalPrice": "3613900"
+  },
+  {
+    "code": "001450",
+    "name": "현대해상",
+    "amount": "114.00",
+    "price": "3619500",
+    "ratio": "0.17",
+    "totalPrice": "3619500"
+  },
+  {
+    "code": "078930",
+    "name": "GS",
+    "amount": "85.00",
+    "price": "3544500",
+    "ratio": "0.17",
+    "totalPrice": "3561500"
+  },
+  {
+    "code": "014680",
+    "name": "한솔케미칼",
+    "amount": "17.00",
+    "price": "3544500",
+    "ratio": "0.17",
+    "totalPrice": "3527500"
+  },
+  {
+    "code": "018880",
+    "name": "한온시스템",
+    "amount": "508.00",
+    "price": "3489960",
+    "ratio": "0.17",
+    "totalPrice": "3479800"
+  },
+  {
+    "code": "010620",
+    "name": "현대미포조선",
+    "amount": "43.00",
+    "price": "3452900",
+    "ratio": "0.16",
+    "totalPrice": "3435700"
+  },
+  {
+    "code": "042660",
+    "name": "한화오션",
+    "amount": "133.00",
+    "price": "3424750",
+    "ratio": "0.16",
+    "totalPrice": "3418100"
+  },
+  {
+    "code": "011790",
+    "name": "SKC",
+    "amount": "37.00",
+    "price": "3385500",
+    "ratio": "0.16",
+    "totalPrice": "3341100"
+  },
+  {
+    "code": "081660",
+    "name": "휠라홀딩스",
+    "amount": "86.00",
+    "price": "3263700",
+    "ratio": "0.16",
+    "totalPrice": "3293800"
+  },
+  {
+    "code": "175330",
+    "name": "JB금융지주",
+    "amount": "312.00",
+    "price": "3254160",
+    "ratio": "0.15",
+    "totalPrice": "3235440"
+  },
+  {
+    "code": "302440",
+    "name": "SK바이오사이언스",
+    "amount": "41.00",
+    "price": "2857700",
+    "ratio": "0.14",
+    "totalPrice": "2853600"
+  },
+  {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "amount": "30.00",
+    "price": "2814000",
+    "ratio": "0.13",
+    "totalPrice": "2835000"
+  },
+  {
+    "code": "006260",
+    "name": "LS",
+    "amount": "33.00",
+    "price": "2785200",
+    "ratio": "0.13",
+    "totalPrice": "2824800"
+  },
+  {
+    "code": "139480",
+    "name": "이마트",
+    "amount": "38.00",
+    "price": "2777800",
+    "ratio": "0.13",
+    "totalPrice": "2800600"
+  },
+  {
+    "code": "012750",
+    "name": "에스원",
+    "amount": "46.00",
+    "price": "2732400",
+    "ratio": "0.13",
+    "totalPrice": "2691000"
+  },
+  {
+    "code": "005940",
+    "name": "NH투자증권",
+    "amount": "259.00",
+    "price": "2716910",
+    "ratio": "0.13",
+    "totalPrice": "2724680"
+  },
+  {
+    "code": "030000",
+    "name": "제일기획",
+    "amount": "131.00",
+    "price": "2633100",
+    "ratio": "0.13",
+    "totalPrice": "2616070"
+  },
+  {
+    "code": "001040",
+    "name": "CJ",
+    "amount": "26.00",
+    "price": "2605200",
+    "ratio": "0.12",
+    "totalPrice": "2548000"
+  },
+  {
+    "code": "000120",
+    "name": "CJ대한통운",
+    "amount": "21.00",
+    "price": "2528400",
+    "ratio": "0.12",
+    "totalPrice": "2425500"
+  },
+  {
+    "code": "039490",
+    "name": "키움증권",
+    "amount": "26.00",
+    "price": "2438800",
+    "ratio": "0.12",
+    "totalPrice": "2379000"
+  },
+  {
+    "code": "112610",
+    "name": "씨에스윈드",
+    "amount": "46.00",
+    "price": "2415000",
+    "ratio": "0.11",
+    "totalPrice": "2401200"
+  },
+  {
+    "code": "004370",
+    "name": "농심",
+    "amount": "6.00",
+    "price": "2412000",
+    "ratio": "0.11",
+    "totalPrice": "2418000"
+  },
+  {
+    "code": "383220",
+    "name": "F&F",
+    "amount": "30.00",
+    "price": "2391000",
+    "ratio": "0.11",
+    "totalPrice": "2412000"
+  },
+  {
+    "code": "139130",
+    "name": "DGB금융지주",
+    "amount": "277.00",
+    "price": "2332340",
+    "ratio": "0.11",
+    "totalPrice": "2332340"
+  },
+  {
+    "code": "009420",
+    "name": "한올바이오파마",
+    "amount": "68.00",
+    "price": "2325600",
+    "ratio": "0.11",
+    "totalPrice": "2349400"
+  },
+  {
+    "code": "017800",
+    "name": "현대엘리베이",
+    "amount": "52.00",
+    "price": "2311400",
+    "ratio": "0.11",
+    "totalPrice": "2319200"
+  },
+  {
+    "code": "079550",
+    "name": "LIG넥스원",
+    "amount": "23.00",
+    "price": "2274700",
+    "ratio": "0.11",
+    "totalPrice": "2260900"
+  },
+  {
+    "code": "004170",
+    "name": "신세계",
+    "amount": "13.00",
+    "price": "2250300",
+    "ratio": "0.11",
+    "totalPrice": "2246400"
+  },
+  {
+    "code": "375500",
+    "name": "DL이앤씨",
+    "amount": "57.00",
+    "price": "2203050",
+    "ratio": "0.10",
+    "totalPrice": "2203050"
+  },
+  {
+    "code": "204320",
+    "name": "HL만도",
+    "amount": "62.00",
+    "price": "2201000",
+    "ratio": "0.10",
+    "totalPrice": "2197900"
+  },
+  {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "amount": "30.00",
+    "price": "2097000",
+    "ratio": "0.10",
+    "totalPrice": "2121000"
+  },
+  {
+    "code": "282330",
+    "name": "BGF리테일",
+    "amount": "15.00",
+    "price": "2058000",
+    "ratio": "0.10",
+    "totalPrice": "2055000"
+  },
+  {
+    "code": "008930",
+    "name": "한미사이언스",
+    "amount": "55.00",
+    "price": "2046000",
+    "ratio": "0.10",
+    "totalPrice": "2062500"
+  },
+  {
+    "code": "000880",
+    "name": "한화",
+    "amount": "79.00",
+    "price": "2002650",
+    "ratio": "0.10",
+    "totalPrice": "2002650"
+  },
+  {
+    "code": "006360",
+    "name": "GS건설",
+    "amount": "122.00",
+    "price": "1941020",
+    "ratio": "0.09",
+    "totalPrice": "1941020"
+  },
+  {
+    "code": "185750",
+    "name": "종근당",
+    "amount": "15.00",
+    "price": "1930500",
+    "ratio": "0.09",
+    "totalPrice": "1926000"
+  },
+  {
+    "code": "192820",
+    "name": "코스맥스",
+    "amount": "16.00",
+    "price": "1921600",
+    "ratio": "0.09",
+    "totalPrice": "1921600"
+  },
+  {
+    "code": "007070",
+    "name": "GS리테일",
+    "amount": "80.00",
+    "price": "1912000",
+    "ratio": "0.09",
+    "totalPrice": "1888000"
+  },
+  {
+    "code": "298050",
+    "name": "효성첨단소재",
+    "amount": "5.00",
+    "price": "1900000",
+    "ratio": "0.09",
+    "totalPrice": "1857500"
+  },
+  {
+    "code": "111770",
+    "name": "영원무역",
+    "amount": "41.00",
+    "price": "1886000",
+    "ratio": "0.09",
+    "totalPrice": "1890100"
+  },
+  {
+    "code": "028670",
+    "name": "팬오션",
+    "amount": "428.00",
+    "price": "1853240",
+    "ratio": "0.09",
+    "totalPrice": "1868220"
+  },
+  {
+    "code": "298020",
+    "name": "효성티앤씨",
+    "amount": "5.00",
+    "price": "1847500",
+    "ratio": "0.09",
+    "totalPrice": "1870000"
+  },
+  {
+    "code": "272210",
+    "name": "한화시스템",
+    "amount": "115.00",
+    "price": "1840000",
+    "ratio": "0.09",
+    "totalPrice": "1842300"
+  },
+  {
+    "code": "011210",
+    "name": "현대위아",
+    "amount": "30.00",
+    "price": "1797000",
+    "ratio": "0.09",
+    "totalPrice": "1791000"
+  },
+  {
+    "code": "042670",
+    "name": "HD현대인프라코어",
+    "amount": "228.00",
+    "price": "1737360",
+    "ratio": "0.08",
+    "totalPrice": "1748760"
+  },
+  {
+    "code": "002380",
+    "name": "KCC",
+    "amount": "8.00",
+    "price": "1736000",
+    "ratio": "0.08",
+    "totalPrice": "1740000"
+  },
+  {
+    "code": "005420",
+    "name": "코스모화학",
+    "amount": "48.00",
+    "price": "1735200",
+    "ratio": "0.08",
+    "totalPrice": "1696800"
+  },
+  {
+    "code": "088350",
+    "name": "한화생명",
+    "amount": "629.00",
+    "price": "1698300",
+    "ratio": "0.08",
+    "totalPrice": "1695155"
+  },
+  {
+    "code": "047040",
+    "name": "대우건설",
+    "amount": "380.00",
+    "price": "1685300",
+    "ratio": "0.08",
+    "totalPrice": "1685300"
+  },
+  {
+    "code": "029780",
+    "name": "삼성카드",
+    "amount": "51.00",
+    "price": "1680450",
+    "ratio": "0.08",
+    "totalPrice": "1680450"
+  },
+  {
+    "code": "004000",
+    "name": "롯데정밀화학",
+    "amount": "28.00",
+    "price": "1677200",
+    "ratio": "0.08",
+    "totalPrice": "1657600"
+  },
+  {
+    "code": "020150",
+    "name": "롯데에너지머티리얼즈",
+    "amount": "39.00",
+    "price": "1673100",
+    "ratio": "0.08",
+    "totalPrice": "1665300"
+  },
+  {
+    "code": "001440",
+    "name": "대한전선",
+    "amount": "142.00",
+    "price": "1657140",
+    "ratio": "0.08",
+    "totalPrice": "1674180"
+  },
+  {
+    "code": "001120",
+    "name": "LX인터내셔널",
+    "amount": "54.00",
+    "price": "1628100",
+    "ratio": "0.08",
+    "totalPrice": "1609200"
+  },
+  {
+    "code": "336260",
+    "name": "두산퓨얼셀",
+    "amount": "76.00",
+    "price": "1626400",
+    "ratio": "0.08",
+    "totalPrice": "1641600"
+  },
+  {
+    "code": "052690",
+    "name": "한전기술",
+    "amount": "25.00",
+    "price": "1600000",
+    "ratio": "0.08",
+    "totalPrice": "1615000"
+  },
+  {
+    "code": "036460",
+    "name": "한국가스공사",
+    "amount": "62.00",
+    "price": "1587200",
+    "ratio": "0.08",
+    "totalPrice": "1605800"
+  },
+  {
+    "code": "161890",
+    "name": "한국콜마",
+    "amount": "31.00",
+    "price": "1584100",
+    "ratio": "0.08",
+    "totalPrice": "1584100"
+  },
+  {
+    "code": "073240",
+    "name": "금호타이어",
+    "amount": "301.00",
+    "price": "1562190",
+    "ratio": "0.07",
+    "totalPrice": "1562190"
+  },
+  {
+    "code": "051600",
+    "name": "한전KPS",
+    "amount": "42.00",
+    "price": "1486800",
+    "ratio": "0.07",
+    "totalPrice": "1507800"
+  },
+  {
+    "code": "120110",
+    "name": "코오롱인더",
+    "amount": "35.00",
+    "price": "1473500",
+    "ratio": "0.07",
+    "totalPrice": "1468250"
+  },
+  {
+    "code": "023530",
+    "name": "롯데쇼핑",
+    "amount": "19.00",
+    "price": "1445900",
+    "ratio": "0.07",
+    "totalPrice": "1449700"
+  },
+  {
+    "code": "003230",
+    "name": "삼양식품",
+    "amount": "7.00",
+    "price": "1428000",
+    "ratio": "0.07",
+    "totalPrice": "1456000"
+  },
+  {
+    "code": "069960",
+    "name": "현대백화점",
+    "amount": "27.00",
+    "price": "1374300",
+    "ratio": "0.07",
+    "totalPrice": "1371600"
+  },
+  {
+    "code": "002790",
+    "name": "아모레G",
+    "amount": "50.00",
+    "price": "1350000",
+    "ratio": "0.06",
+    "totalPrice": "1345000"
+  },
+  {
+    "code": "000080",
+    "name": "하이트진로",
+    "amount": "59.00",
+    "price": "1345200",
+    "ratio": "0.06",
+    "totalPrice": "1354050"
+  },
+  {
+    "code": "004990",
+    "name": "롯데지주",
+    "amount": "46.00",
+    "price": "1283400",
+    "ratio": "0.06",
+    "totalPrice": "1290300"
+  },
+  {
+    "code": "000150",
+    "name": "두산",
+    "amount": "14.00",
+    "price": "1267000",
+    "ratio": "0.06",
+    "totalPrice": "1250200"
+  },
+  {
+    "code": "103140",
+    "name": "풍산",
+    "amount": "32.00",
+    "price": "1230400",
+    "ratio": "0.06",
+    "totalPrice": "1228800"
+  },
+  {
+    "code": "006280",
+    "name": "녹십자",
+    "amount": "10.00",
+    "price": "1214000",
+    "ratio": "0.06",
+    "totalPrice": "1213000"
+  },
+  {
+    "code": "003410",
+    "name": "쌍용C&E",
+    "amount": "202.00",
+    "price": "1207960",
+    "ratio": "0.06",
+    "totalPrice": "1216040"
+  },
+  {
+    "code": "001740",
+    "name": "SK네트웍스",
+    "amount": "216.00",
+    "price": "1205280",
+    "ratio": "0.06",
+    "totalPrice": "1203120"
+  },
+  {
+    "code": "004800",
+    "name": "효성",
+    "amount": "17.00",
+    "price": "1173000",
+    "ratio": "0.06",
+    "totalPrice": "1174700"
+  },
+  {
+    "code": "285130",
+    "name": "SK케미칼",
+    "amount": "18.00",
+    "price": "1170000",
+    "ratio": "0.06",
+    "totalPrice": "1180800"
+  },
+  {
+    "code": "007310",
+    "name": "오뚜기",
+    "amount": "3.00",
+    "price": "1165500",
+    "ratio": "0.06",
+    "totalPrice": "1165500"
+  },
+  {
+    "code": "006650",
+    "name": "대한유화",
+    "amount": "7.00",
+    "price": "1154300",
+    "ratio": "0.05",
+    "totalPrice": "1171100"
+  },
+  {
+    "code": "294870",
+    "name": "HDC현대산업개발",
+    "amount": "72.00",
+    "price": "1136880",
+    "ratio": "0.05",
+    "totalPrice": "1144800"
+  },
+  {
+    "code": "000210",
+    "name": "DL",
+    "amount": "23.00",
+    "price": "1124700",
+    "ratio": "0.05",
+    "totalPrice": "1135050"
+  },
+  {
+    "code": "039130",
+    "name": "하나투어",
+    "amount": "21.00",
+    "price": "1108800",
+    "ratio": "0.05",
+    "totalPrice": "1106700"
+  },
+  {
+    "code": "026960",
+    "name": "동서",
+    "amount": "59.00",
+    "price": "1095040",
+    "ratio": "0.05",
+    "totalPrice": "1101530"
+  },
+  {
+    "code": "137310",
+    "name": "에스디바이오센서",
+    "amount": "85.00",
+    "price": "1083750",
+    "ratio": "0.05",
+    "totalPrice": "1103300"
+  },
+  {
+    "code": "093370",
+    "name": "후성",
+    "amount": "92.00",
+    "price": "1074560",
+    "ratio": "0.05",
+    "totalPrice": "1078240"
+  },
+  {
+    "code": "005300",
+    "name": "롯데칠성",
+    "amount": "7.00",
+    "price": "1038100",
+    "ratio": "0.05",
+    "totalPrice": "1047200"
+  },
+  {
+    "code": "020560",
+    "name": "아시아나항공",
+    "amount": "95.00",
+    "price": "1024100",
+    "ratio": "0.05",
+    "totalPrice": "1033600"
+  },
+  {
+    "code": "000240",
+    "name": "한국앤컴퍼니",
+    "amount": "45.00",
+    "price": "992250",
+    "ratio": "0.05",
+    "totalPrice": "994500"
+  },
+  {
+    "code": "069620",
+    "name": "대웅제약",
+    "amount": "9.00",
+    "price": "983700",
+    "ratio": "0.05",
+    "totalPrice": "987300"
+  },
+  {
+    "code": "009900",
+    "name": "명신산업",
+    "amount": "52.00",
+    "price": "938080",
+    "ratio": "0.04",
+    "totalPrice": "936000"
+  },
+  {
+    "code": "005850",
+    "name": "에스엘",
+    "amount": "30.00",
+    "price": "925500",
+    "ratio": "0.04",
+    "totalPrice": "915000"
+  },
+  {
+    "code": "069260",
+    "name": "TKG휴켐스",
+    "amount": "41.00",
+    "price": "893800",
+    "ratio": "0.04",
+    "totalPrice": "889700"
+  },
+  {
+    "code": "019170",
+    "name": "신풍제약",
+    "amount": "66.00",
+    "price": "883740",
+    "ratio": "0.04",
+    "totalPrice": "891000"
+  },
+  {
+    "code": "032350",
+    "name": "롯데관광개발",
+    "amount": "90.00",
+    "price": "864000",
+    "ratio": "0.04",
+    "totalPrice": "864900"
+  },
+  {
+    "code": "004490",
+    "name": "세방전지",
+    "amount": "15.00",
+    "price": "858000",
+    "ratio": "0.04",
+    "totalPrice": "843000"
+  },
+  {
+    "code": "009240",
+    "name": "한샘",
+    "amount": "16.00",
+    "price": "814400",
+    "ratio": "0.04",
+    "totalPrice": "828800"
+  },
+  {
+    "code": "192080",
+    "name": "더블유게임즈",
+    "amount": "17.00",
+    "price": "791350",
+    "ratio": "0.04",
+    "totalPrice": "796450"
+  },
+  {
+    "code": "178920",
+    "name": "PI첨단소재",
+    "amount": "26.00",
+    "price": "782600",
+    "ratio": "0.04",
+    "totalPrice": "783900"
+  },
+  {
+    "code": "114090",
+    "name": "GKL",
+    "amount": "58.00",
+    "price": "763280",
+    "ratio": "0.04",
+    "totalPrice": "762700"
+  },
+  {
+    "code": "010780",
+    "name": "아이에스동서",
+    "amount": "27.00",
+    "price": "745200",
+    "ratio": "0.04",
+    "totalPrice": "743850"
+  },
+  {
+    "code": "001680",
+    "name": "대상",
+    "amount": "36.00",
+    "price": "739800",
+    "ratio": "0.04",
+    "totalPrice": "738000"
+  },
+  {
+    "code": "105630",
+    "name": "한세실업",
+    "amount": "32.00",
+    "price": "675200",
+    "ratio": "0.03",
+    "totalPrice": "675200"
+  },
+  {
+    "code": "003090",
+    "name": "대웅",
+    "amount": "37.00",
+    "price": "674880",
+    "ratio": "0.03",
+    "totalPrice": "670810"
+  },
+  {
+    "code": "008730",
+    "name": "율촌화학",
+    "amount": "20.00",
+    "price": "664000",
+    "ratio": "0.03",
+    "totalPrice": "668000"
+  },
+  {
+    "code": "016380",
+    "name": "KG스틸",
+    "amount": "74.00",
+    "price": "646760",
+    "ratio": "0.03",
+    "totalPrice": "652680"
+  },
+  {
+    "code": "005250",
+    "name": "녹십자홀딩스",
+    "amount": "42.00",
+    "price": "639660",
+    "ratio": "0.03",
+    "totalPrice": "637980"
+  },
+  {
+    "code": "001800",
+    "name": "오리온홀딩스",
+    "amount": "39.00",
+    "price": "597870",
+    "ratio": "0.03",
+    "totalPrice": "596310"
+  },
+  {
+    "code": "057050",
+    "name": "현대홈쇼핑",
+    "amount": "13.00",
+    "price": "593450",
+    "ratio": "0.03",
+    "totalPrice": "592150"
+  },
+  {
+    "code": "003850",
+    "name": "보령",
+    "amount": "53.00",
+    "price": "529470",
+    "ratio": "0.03",
+    "totalPrice": "535830"
+  },
+  {
+    "code": "000670",
+    "name": "영풍",
+    "amount": "1.00",
+    "price": "526000",
+    "ratio": "0.03",
+    "totalPrice": "538000"
+  },
+  {
+    "code": "031430",
+    "name": "신세계인터내셔날",
+    "amount": "31.00",
+    "price": "523590",
+    "ratio": "0.02",
+    "totalPrice": "521110"
+  },
+  {
+    "code": "280360",
+    "name": "롯데웰푸드",
+    "amount": "4.00",
+    "price": "520000",
+    "ratio": "0.02",
+    "totalPrice": "520000"
+  },
+  {
+    "code": "271940",
+    "name": "일진하이솔루스",
+    "amount": "21.00",
+    "price": "509250",
+    "ratio": "0.02",
+    "totalPrice": "507150"
+  },
+  {
+    "code": "020000",
+    "name": "한섬",
+    "amount": "26.00",
+    "price": "508820",
+    "ratio": "0.02",
+    "totalPrice": "514540"
+  },
+  {
+    "code": "300720",
+    "name": "한일시멘트",
+    "amount": "30.00",
+    "price": "382800",
+    "ratio": "0.02",
+    "totalPrice": "384300"
+  },
+  {
+    "code": "014820",
+    "name": "동원시스템즈",
+    "amount": "10.00",
+    "price": "350000",
+    "ratio": "0.02",
+    "totalPrice": "344500"
+  },
+  {
+    "code": "013890",
+    "name": "지누스",
+    "amount": "22.00",
+    "price": "340340",
+    "ratio": "0.02",
+    "totalPrice": "339020"
+  },
+  {
+    "code": "284740",
+    "name": "쿠쿠홈시스",
+    "amount": "13.00",
+    "price": "299000",
+    "ratio": "0.01",
+    "totalPrice": "301600"
+  },
+  {
+    "code": "381970",
+    "name": "케이카",
+    "amount": "26.00",
+    "price": "279500",
+    "ratio": "0.01",
+    "totalPrice": "278200"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "22411595",
+    "ratio": "1.07",
+    "totalPrice": ""
+  }
+]
