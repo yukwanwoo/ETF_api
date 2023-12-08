@@ -1,0 +1,354 @@
+[
+  {
+    "code": "068270",
+    "name": "셀트리온",
+    "amount": "183.00",
+    "price": "30103500",
+    "ratio": "17.47",
+    "totalPrice": "28840800"
+  },
+  {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "amount": "25.00",
+    "price": "17625000",
+    "ratio": "10.23",
+    "totalPrice": "17725000"
+  },
+  {
+    "code": "033780",
+    "name": "KT&G",
+    "amount": "166.00",
+    "price": "15039600",
+    "ratio": "8.73",
+    "totalPrice": "15155800"
+  },
+  {
+    "code": "030200",
+    "name": "KT",
+    "amount": "365.00",
+    "price": "12592500",
+    "ratio": "7.31",
+    "totalPrice": "12574250"
+  },
+  {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "amount": "246.00",
+    "price": "12287700",
+    "ratio": "7.13",
+    "totalPrice": "12349200"
+  },
+  {
+    "code": "015760",
+    "name": "한국전력",
+    "amount": "512.00",
+    "price": "9978880",
+    "ratio": "5.79",
+    "totalPrice": "10060800"
+  },
+  {
+    "code": "090430",
+    "name": "아모레퍼시픽",
+    "amount": "50.00",
+    "price": "6225000",
+    "ratio": "3.61",
+    "totalPrice": "6280000"
+  },
+  {
+    "code": "000100",
+    "name": "유한양행",
+    "amount": "94.00",
+    "price": "6194600",
+    "ratio": "3.59",
+    "totalPrice": "6157000"
+  },
+  {
+    "code": "051900",
+    "name": "LG생활건강",
+    "amount": "15.00",
+    "price": "4800000",
+    "ratio": "2.78",
+    "totalPrice": "4762500"
+  },
+  {
+    "code": "032640",
+    "name": "LG유플러스",
+    "amount": "455.00",
+    "price": "4700150",
+    "ratio": "2.73",
+    "totalPrice": "4695600"
+  },
+  {
+    "code": "097950",
+    "name": "CJ제일제당",
+    "amount": "13.00",
+    "price": "4069000",
+    "ratio": "2.36",
+    "totalPrice": "4095000"
+  },
+  {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "amount": "45.00",
+    "price": "4018500",
+    "ratio": "2.33",
+    "totalPrice": "4054500"
+  },
+  {
+    "code": "128940",
+    "name": "한미약품",
+    "amount": "12.00",
+    "price": "3918000",
+    "ratio": "2.27",
+    "totalPrice": "3930000"
+  },
+  {
+    "code": "271560",
+    "name": "오리온",
+    "amount": "35.00",
+    "price": "3916500",
+    "ratio": "2.27",
+    "totalPrice": "3916500"
+  },
+  {
+    "code": "302440",
+    "name": "SK바이오사이언스",
+    "amount": "35.00",
+    "price": "2443000",
+    "ratio": "1.42",
+    "totalPrice": "2436000"
+  },
+  {
+    "code": "139480",
+    "name": "이마트",
+    "amount": "33.00",
+    "price": "2412300",
+    "ratio": "1.40",
+    "totalPrice": "2432100"
+  },
+  {
+    "code": "001040",
+    "name": "CJ",
+    "amount": "22.00",
+    "price": "2202200",
+    "ratio": "1.28",
+    "totalPrice": "2156000"
+  },
+  {
+    "code": "004370",
+    "name": "농심",
+    "amount": "5.00",
+    "price": "2005000",
+    "ratio": "1.16",
+    "totalPrice": "2015000"
+  },
+  {
+    "code": "009420",
+    "name": "한올바이오파마",
+    "amount": "58.00",
+    "price": "1977800",
+    "ratio": "1.15",
+    "totalPrice": "2003900"
+  },
+  {
+    "code": "282330",
+    "name": "BGF리테일",
+    "amount": "13.00",
+    "price": "1781000",
+    "ratio": "1.03",
+    "totalPrice": "1781000"
+  },
+  {
+    "code": "008930",
+    "name": "한미사이언스",
+    "amount": "47.00",
+    "price": "1746050",
+    "ratio": "1.01",
+    "totalPrice": "1762500"
+  },
+  {
+    "code": "185750",
+    "name": "종근당",
+    "amount": "13.00",
+    "price": "1664000",
+    "ratio": "0.97",
+    "totalPrice": "1669200"
+  },
+  {
+    "code": "007070",
+    "name": "GS리테일",
+    "amount": "68.00",
+    "price": "1618400",
+    "ratio": "0.94",
+    "totalPrice": "1604800"
+  },
+  {
+    "code": "192820",
+    "name": "코스맥스",
+    "amount": "13.00",
+    "price": "1560000",
+    "ratio": "0.91",
+    "totalPrice": "1561300"
+  },
+  {
+    "code": "161890",
+    "name": "한국콜마",
+    "amount": "27.00",
+    "price": "1374300",
+    "ratio": "0.80",
+    "totalPrice": "1379700"
+  },
+  {
+    "code": "036460",
+    "name": "한국가스공사",
+    "amount": "53.00",
+    "price": "1359450",
+    "ratio": "0.79",
+    "totalPrice": "1372700"
+  },
+  {
+    "code": "003230",
+    "name": "삼양식품",
+    "amount": "6.00",
+    "price": "1218000",
+    "ratio": "0.71",
+    "totalPrice": "1248000"
+  },
+  {
+    "code": "002790",
+    "name": "아모레G",
+    "amount": "43.00",
+    "price": "1152400",
+    "ratio": "0.67",
+    "totalPrice": "1156700"
+  },
+  {
+    "code": "000080",
+    "name": "하이트진로",
+    "amount": "50.00",
+    "price": "1142500",
+    "ratio": "0.66",
+    "totalPrice": "1147500"
+  },
+  {
+    "code": "006280",
+    "name": "녹십자",
+    "amount": "9.00",
+    "price": "1090800",
+    "ratio": "0.63",
+    "totalPrice": "1091700"
+  },
+  {
+    "code": "004990",
+    "name": "롯데지주",
+    "amount": "39.00",
+    "price": "1090050",
+    "ratio": "0.63",
+    "totalPrice": "1093950"
+  },
+  {
+    "code": "026960",
+    "name": "동서",
+    "amount": "50.00",
+    "price": "921500",
+    "ratio": "0.53",
+    "totalPrice": "933500"
+  },
+  {
+    "code": "005300",
+    "name": "롯데칠성",
+    "amount": "6.00",
+    "price": "889200",
+    "ratio": "0.52",
+    "totalPrice": "897600"
+  },
+  {
+    "code": "137310",
+    "name": "에스디바이오센서",
+    "amount": "61.00",
+    "price": "778360",
+    "ratio": "0.45",
+    "totalPrice": "791780"
+  },
+  {
+    "code": "007310",
+    "name": "오뚜기",
+    "amount": "2.00",
+    "price": "775000",
+    "ratio": "0.45",
+    "totalPrice": "777000"
+  },
+  {
+    "code": "069620",
+    "name": "대웅제약",
+    "amount": "7.00",
+    "price": "769300",
+    "ratio": "0.45",
+    "totalPrice": "767900"
+  },
+  {
+    "code": "019170",
+    "name": "신풍제약",
+    "amount": "56.00",
+    "price": "750400",
+    "ratio": "0.44",
+    "totalPrice": "756000"
+  },
+  {
+    "code": "001680",
+    "name": "대상",
+    "amount": "31.00",
+    "price": "640150",
+    "ratio": "0.37",
+    "totalPrice": "635500"
+  },
+  {
+    "code": "003090",
+    "name": "대웅",
+    "amount": "31.00",
+    "price": "570710",
+    "ratio": "0.33",
+    "totalPrice": "562030"
+  },
+  {
+    "code": "005250",
+    "name": "녹십자홀딩스",
+    "amount": "36.00",
+    "price": "546480",
+    "ratio": "0.32",
+    "totalPrice": "546840"
+  },
+  {
+    "code": "001800",
+    "name": "오리온홀딩스",
+    "amount": "34.00",
+    "price": "520880",
+    "ratio": "0.30",
+    "totalPrice": "519860"
+  },
+  {
+    "code": "003850",
+    "name": "보령",
+    "amount": "45.00",
+    "price": "450000",
+    "ratio": "0.26",
+    "totalPrice": "454950"
+  },
+  {
+    "code": "280360",
+    "name": "롯데웰푸드",
+    "amount": "3.00",
+    "price": "389700",
+    "ratio": "0.23",
+    "totalPrice": "390000"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "1044240",
+    "ratio": "0.61",
+    "totalPrice": ""
+  }
+]
