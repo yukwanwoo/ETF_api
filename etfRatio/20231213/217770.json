@@ -1,0 +1,42 @@
+[
+  {
+    "code": "CLG4",
+    "name": "WTI CRUDE FUTURE  Feb24",
+    "amount": "-0.61",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-57358202"
+  },
+  {
+    "code": "CLF4",
+    "name": "WTI CRUDE FUTURE Jan24",
+    "amount": "-1.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-103085928"
+  },
+  {
+    "code": "KR4175TC0009",
+    "name": "미국달러 F 202312",
+    "amount": "-4.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-59143500"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "160874903",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "160874903",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
