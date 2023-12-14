@@ -1,0 +1,34 @@
+[
+  {
+    "code": "KR4101TC0008",
+    "name": "코스피200 F 202312",
+    "amount": "-1.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-126375000"
+  },
+  {
+    "code": "KR4101V30005",
+    "name": "코스피200 F 202403",
+    "amount": "-3.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-331800000"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "458234553",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "458234553",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
