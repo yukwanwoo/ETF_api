@@ -1,0 +1,42 @@
+[
+  {
+    "code": "138230",
+    "name": "KOSEF 미국달러선물",
+    "amount": "1748.00",
+    "price": "25144980",
+    "ratio": "",
+    "totalPrice": "25608200"
+  },
+  {
+    "code": "KR4175TC0009",
+    "name": "미국달러 F 202312",
+    "amount": "11.19",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "147618480"
+  },
+  {
+    "code": "KR4175V10001",
+    "name": "미국달러 F 202401",
+    "amount": "5.69",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "74960060"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "98475796",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "124083996",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
