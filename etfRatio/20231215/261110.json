@@ -1,0 +1,42 @@
+[
+  {
+    "code": "USDZZ0000001",
+    "name": "[USD] 예금",
+    "amount": "10000.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "12954000"
+  },
+  {
+    "code": "KR4175TC0009",
+    "name": "미국달러 F 202312",
+    "amount": "64.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "838511220"
+  },
+  {
+    "code": "KR4175V10001",
+    "name": "미국달러 F 202401",
+    "amount": "129.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "1675859500"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "1250140830",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "1263094830",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
