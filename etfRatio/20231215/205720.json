@@ -1,0 +1,34 @@
+[
+  {
+    "code": "SWAP00000002",
+    "name": "스왑(KB증권)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "18398463"
+  },
+  {
+    "code": "SWAP00000005",
+    "name": "스왑(미래에셋증권)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "292745527"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "1475288",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "312619278",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
