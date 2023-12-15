@@ -1,0 +1,218 @@
+[
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "1338.00",
+    "price": "299712000",
+    "ratio": "23.55",
+    "totalPrice": "298374000"
+  },
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "5436.00",
+    "price": "297349200",
+    "ratio": "23.37",
+    "totalPrice": "295174800"
+  },
+  {
+    "code": "259960",
+    "name": "크래프톤",
+    "amount": "627.00",
+    "price": "130729500",
+    "ratio": "10.27",
+    "totalPrice": "131670000"
+  },
+  {
+    "code": "352820",
+    "name": "하이브",
+    "amount": "389.00",
+    "price": "92387500",
+    "ratio": "7.26",
+    "totalPrice": "90637000"
+  },
+  {
+    "code": "036570",
+    "name": "엔씨소프트",
+    "amount": "396.00",
+    "price": "91080000",
+    "ratio": "7.16",
+    "totalPrice": "90486000"
+  },
+  {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "amount": "566.00",
+    "price": "52468200",
+    "ratio": "4.12",
+    "totalPrice": "52241800"
+  },
+  {
+    "code": "251270",
+    "name": "넷마블",
+    "amount": "584.00",
+    "price": "31010400",
+    "ratio": "2.44",
+    "totalPrice": "31944800"
+  },
+  {
+    "code": "030000",
+    "name": "제일기획",
+    "amount": "1466.00",
+    "price": "29466600",
+    "ratio": "2.32",
+    "totalPrice": "29393300"
+  },
+  {
+    "code": "263750",
+    "name": "펄어비스",
+    "amount": "710.00",
+    "price": "27761000",
+    "ratio": "2.18",
+    "totalPrice": "27903000"
+  },
+  {
+    "code": "112040",
+    "name": "위메이드",
+    "amount": "409.00",
+    "price": "27075800",
+    "ratio": "2.13",
+    "totalPrice": "28548200"
+  },
+  {
+    "code": "041510",
+    "name": "에스엠",
+    "amount": "294.00",
+    "price": "25166400",
+    "ratio": "1.98",
+    "totalPrice": "24725400"
+  },
+  {
+    "code": "293490",
+    "name": "카카오게임즈",
+    "amount": "841.00",
+    "price": "22286500",
+    "ratio": "1.75",
+    "totalPrice": "22538800"
+  },
+  {
+    "code": "035760",
+    "name": "CJ ENM",
+    "amount": "242.00",
+    "price": "17932200",
+    "ratio": "1.41",
+    "totalPrice": "18150000"
+  },
+  {
+    "code": "122870",
+    "name": "와이지엔터테인먼트",
+    "amount": "302.00",
+    "price": "15764400",
+    "ratio": "1.24",
+    "totalPrice": "15673800"
+  },
+  {
+    "code": "253450",
+    "name": "스튜디오드래곤",
+    "amount": "287.00",
+    "price": "15096200",
+    "ratio": "1.19",
+    "totalPrice": "15153600"
+  },
+  {
+    "code": "214320",
+    "name": "이노션",
+    "amount": "595.00",
+    "price": "13447000",
+    "ratio": "1.06",
+    "totalPrice": "13328000"
+  },
+  {
+    "code": "067160",
+    "name": "아프리카TV",
+    "amount": "176.00",
+    "price": "13147200",
+    "ratio": "1.03",
+    "totalPrice": "12971200"
+  },
+  {
+    "code": "079160",
+    "name": "CJ CGV",
+    "amount": "1586.00",
+    "price": "8960900",
+    "ratio": "0.70",
+    "totalPrice": "8945040"
+  },
+  {
+    "code": "078340",
+    "name": "컴투스",
+    "amount": "170.00",
+    "price": "8721000",
+    "ratio": "0.69",
+    "totalPrice": "8772000"
+  },
+  {
+    "code": "194480",
+    "name": "데브시스터즈",
+    "amount": "163.00",
+    "price": "7978850",
+    "ratio": "0.63",
+    "totalPrice": "8092950"
+  },
+  {
+    "code": "181710",
+    "name": "NHN",
+    "amount": "334.00",
+    "price": "7965900",
+    "ratio": "0.63",
+    "totalPrice": "7949200"
+  },
+  {
+    "code": "225570",
+    "name": "넥슨게임즈",
+    "amount": "489.00",
+    "price": "7735980",
+    "ratio": "0.61",
+    "totalPrice": "7902240"
+  },
+  {
+    "code": "069080",
+    "name": "웹젠",
+    "amount": "423.00",
+    "price": "7614000",
+    "ratio": "0.60",
+    "totalPrice": "7013340"
+  },
+  {
+    "code": "095660",
+    "name": "네오위즈",
+    "amount": "262.00",
+    "price": "7191900",
+    "ratio": "0.57",
+    "totalPrice": "7362200"
+  },
+  {
+    "code": "034120",
+    "name": "SBS",
+    "amount": "237.00",
+    "price": "7062600",
+    "ratio": "0.55",
+    "totalPrice": "6564900"
+  },
+  {
+    "code": "119860",
+    "name": "커넥트웨이브",
+    "amount": "338.00",
+    "price": "4640740",
+    "ratio": "0.36",
+    "totalPrice": "4647500"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "2850783",
+    "ratio": "0.22",
+    "totalPrice": ""
+  }
+]
