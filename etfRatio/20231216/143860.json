@@ -1,0 +1,618 @@
+[
+  {
+    "code": "068270",
+    "name": "셀트리온",
+    "amount": "1013.00",
+    "price": "172311300",
+    "ratio": "31.00",
+    "totalPrice": "185885500"
+  },
+  {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "amount": "95.00",
+    "price": "66785000",
+    "ratio": "12.01",
+    "totalPrice": "66310000"
+  },
+  {
+    "code": "028300",
+    "name": "HLB",
+    "amount": "690.00",
+    "price": "30049500",
+    "ratio": "5.41",
+    "totalPrice": "27910500"
+  },
+  {
+    "code": "000100",
+    "name": "유한양행",
+    "amount": "349.00",
+    "price": "22336000",
+    "ratio": "4.02",
+    "totalPrice": "22405800"
+  },
+  {
+    "code": "196170",
+    "name": "알테오젠",
+    "amount": "239.00",
+    "price": "16204200",
+    "ratio": "2.91",
+    "totalPrice": "16586600"
+  },
+  {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "amount": "166.00",
+    "price": "15238800",
+    "ratio": "2.74",
+    "totalPrice": "15072800"
+  },
+  {
+    "code": "128940",
+    "name": "한미약품",
+    "amount": "45.00",
+    "price": "14782500",
+    "ratio": "2.66",
+    "totalPrice": "14985000"
+  },
+  {
+    "code": "328130",
+    "name": "루닛",
+    "amount": "137.00",
+    "price": "11699800",
+    "ratio": "2.10",
+    "totalPrice": "12302600"
+  },
+  {
+    "code": "068760",
+    "name": "셀트리온제약",
+    "amount": "108.00",
+    "price": "9504000",
+    "ratio": "1.71",
+    "totalPrice": "9882000"
+  },
+  {
+    "code": "302440",
+    "name": "SK바이오사이언스",
+    "amount": "130.00",
+    "price": "8983000",
+    "ratio": "1.62",
+    "totalPrice": "8996000"
+  },
+  {
+    "code": "009420",
+    "name": "한올바이오파마",
+    "amount": "216.00",
+    "price": "7236000",
+    "ratio": "1.30",
+    "totalPrice": "7462800"
+  },
+  {
+    "code": "086900",
+    "name": "메디톡스",
+    "amount": "32.00",
+    "price": "7168000",
+    "ratio": "1.29",
+    "totalPrice": "7216000"
+  },
+  {
+    "code": "141080",
+    "name": "레고켐바이오",
+    "amount": "145.00",
+    "price": "6699000",
+    "ratio": "1.21",
+    "totalPrice": "7105000"
+  },
+  {
+    "code": "008930",
+    "name": "한미사이언스",
+    "amount": "174.00",
+    "price": "6281400",
+    "ratio": "1.13",
+    "totalPrice": "6455400"
+  },
+  {
+    "code": "185750",
+    "name": "종근당",
+    "amount": "47.00",
+    "price": "5931400",
+    "ratio": "1.07",
+    "totalPrice": "5969000"
+  },
+  {
+    "code": "067630",
+    "name": "HLB생명과학",
+    "amount": "519.00",
+    "price": "5755710",
+    "ratio": "1.04",
+    "totalPrice": "5620770"
+  },
+  {
+    "code": "145020",
+    "name": "휴젤",
+    "amount": "38.00",
+    "price": "5700000",
+    "ratio": "1.03",
+    "totalPrice": "5924200"
+  },
+  {
+    "code": "000250",
+    "name": "삼천당제약",
+    "amount": "84.00",
+    "price": "5619600",
+    "ratio": "1.01",
+    "totalPrice": "5661600"
+  },
+  {
+    "code": "140410",
+    "name": "메지온",
+    "amount": "145.00",
+    "price": "5154750",
+    "ratio": "0.93",
+    "totalPrice": "5154750"
+  },
+  {
+    "code": "096530",
+    "name": "씨젠",
+    "amount": "218.00",
+    "price": "4894100",
+    "ratio": "0.88",
+    "totalPrice": "5003100"
+  },
+  {
+    "code": "145720",
+    "name": "덴티움",
+    "amount": "40.00",
+    "price": "4780000",
+    "ratio": "0.86",
+    "totalPrice": "4904000"
+  },
+  {
+    "code": "039200",
+    "name": "오스코텍",
+    "amount": "198.00",
+    "price": "4088700",
+    "ratio": "0.74",
+    "totalPrice": "4068900"
+  },
+  {
+    "code": "085660",
+    "name": "차바이오텍",
+    "amount": "246.00",
+    "price": "4083600",
+    "ratio": "0.73",
+    "totalPrice": "4036860"
+  },
+  {
+    "code": "298380",
+    "name": "에이비엘바이오",
+    "amount": "198.00",
+    "price": "4009500",
+    "ratio": "0.72",
+    "totalPrice": "4118400"
+  },
+  {
+    "code": "064550",
+    "name": "바이오니아",
+    "amount": "133.00",
+    "price": "4003300",
+    "ratio": "0.72",
+    "totalPrice": "4049850"
+  },
+  {
+    "code": "006280",
+    "name": "녹십자",
+    "amount": "33.00",
+    "price": "3996300",
+    "ratio": "0.72",
+    "totalPrice": "4035900"
+  },
+  {
+    "code": "214450",
+    "name": "파마리서치",
+    "amount": "37.00",
+    "price": "3903500",
+    "ratio": "0.70",
+    "totalPrice": "3984900"
+  },
+  {
+    "code": "214150",
+    "name": "클래시스",
+    "amount": "102.00",
+    "price": "3870900",
+    "ratio": "0.70",
+    "totalPrice": "4090200"
+  },
+  {
+    "code": "237690",
+    "name": "에스티팜",
+    "amount": "58.00",
+    "price": "3601800",
+    "ratio": "0.65",
+    "totalPrice": "3642400"
+  },
+  {
+    "code": "195940",
+    "name": "HK이노엔",
+    "amount": "88.00",
+    "price": "3528800",
+    "ratio": "0.63",
+    "totalPrice": "3630000"
+  },
+  {
+    "code": "215600",
+    "name": "신라젠",
+    "amount": "512.00",
+    "price": "3317760",
+    "ratio": "0.60",
+    "totalPrice": "3266560"
+  },
+  {
+    "code": "099190",
+    "name": "아이센스",
+    "amount": "127.00",
+    "price": "3232150",
+    "ratio": "0.58",
+    "totalPrice": "3073400"
+  },
+  {
+    "code": "287410",
+    "name": "제이시스메디칼",
+    "amount": "306.00",
+    "price": "3136500",
+    "ratio": "0.56",
+    "totalPrice": "3243600"
+  },
+  {
+    "code": "069620",
+    "name": "대웅제약",
+    "amount": "27.00",
+    "price": "2943000",
+    "ratio": "0.53",
+    "totalPrice": "2943000"
+  },
+  {
+    "code": "214370",
+    "name": "케어젠",
+    "amount": "95.00",
+    "price": "2850000",
+    "ratio": "0.51",
+    "totalPrice": "2873750"
+  },
+  {
+    "code": "019170",
+    "name": "신풍제약",
+    "amount": "209.00",
+    "price": "2746260",
+    "ratio": "0.49",
+    "totalPrice": "2821500"
+  },
+  {
+    "code": "290650",
+    "name": "엘앤씨바이오",
+    "amount": "91.00",
+    "price": "2698150",
+    "ratio": "0.49",
+    "totalPrice": "2811900"
+  },
+  {
+    "code": "182400",
+    "name": "엔케이맥스",
+    "amount": "206.00",
+    "price": "2696540",
+    "ratio": "0.49",
+    "totalPrice": "2778940"
+  },
+  {
+    "code": "199800",
+    "name": "툴젠",
+    "amount": "40.00",
+    "price": "2672000",
+    "ratio": "0.48",
+    "totalPrice": "2632000"
+  },
+  {
+    "code": "358570",
+    "name": "지아이이노베이션",
+    "amount": "119.00",
+    "price": "2659650",
+    "ratio": "0.48",
+    "totalPrice": "2558500"
+  },
+  {
+    "code": "137310",
+    "name": "에스디바이오센서",
+    "amount": "219.00",
+    "price": "2588580",
+    "ratio": "0.47",
+    "totalPrice": "2665230"
+  },
+  {
+    "code": "001060",
+    "name": "JW중외제약",
+    "amount": "72.00",
+    "price": "2426400",
+    "ratio": "0.44",
+    "totalPrice": "2343600"
+  },
+  {
+    "code": "336570",
+    "name": "원텍",
+    "amount": "251.00",
+    "price": "2329280",
+    "ratio": "0.42",
+    "totalPrice": "2512510"
+  },
+  {
+    "code": "007390",
+    "name": "네이처셀",
+    "amount": "308.00",
+    "price": "2300760",
+    "ratio": "0.41",
+    "totalPrice": "2383920"
+  },
+  {
+    "code": "310210",
+    "name": "보로노이",
+    "amount": "55.00",
+    "price": "2241250",
+    "ratio": "0.40",
+    "totalPrice": "2255000"
+  },
+  {
+    "code": "086450",
+    "name": "동국제약",
+    "amount": "143.00",
+    "price": "2223650",
+    "ratio": "0.40",
+    "totalPrice": "2182180"
+  },
+  {
+    "code": "047920",
+    "name": "HLB제약",
+    "amount": "157.00",
+    "price": "2160320",
+    "ratio": "0.39",
+    "totalPrice": "2139910"
+  },
+  {
+    "code": "003090",
+    "name": "대웅",
+    "amount": "116.00",
+    "price": "2093800",
+    "ratio": "0.38",
+    "totalPrice": "2070600"
+  },
+  {
+    "code": "005250",
+    "name": "녹십자홀딩스",
+    "amount": "134.00",
+    "price": "2051540",
+    "ratio": "0.37",
+    "totalPrice": "2097100"
+  },
+  {
+    "code": "095700",
+    "name": "제넥신",
+    "amount": "217.00",
+    "price": "2002910",
+    "ratio": "0.36",
+    "totalPrice": "2050650"
+  },
+  {
+    "code": "323990",
+    "name": "박셀바이오",
+    "amount": "106.00",
+    "price": "1985380",
+    "ratio": "0.36",
+    "totalPrice": "1950400"
+  },
+  {
+    "code": "092040",
+    "name": "아미코젠",
+    "amount": "276.00",
+    "price": "1898880",
+    "ratio": "0.34",
+    "totalPrice": "1932000"
+  },
+  {
+    "code": "005690",
+    "name": "파미셀",
+    "amount": "331.00",
+    "price": "1837050",
+    "ratio": "0.33",
+    "totalPrice": "1767540"
+  },
+  {
+    "code": "003850",
+    "name": "보령",
+    "amount": "167.00",
+    "price": "1831990",
+    "ratio": "0.33",
+    "totalPrice": "1868730"
+  },
+  {
+    "code": "335890",
+    "name": "비올",
+    "amount": "219.00",
+    "price": "1780470",
+    "ratio": "0.32",
+    "totalPrice": "1911870"
+  },
+  {
+    "code": "144510",
+    "name": "지씨셀",
+    "amount": "51.00",
+    "price": "1716150",
+    "ratio": "0.31",
+    "totalPrice": "1700850"
+  },
+  {
+    "code": "249420",
+    "name": "일동제약",
+    "amount": "101.00",
+    "price": "1626100",
+    "ratio": "0.29",
+    "totalPrice": "1606910"
+  },
+  {
+    "code": "119610",
+    "name": "인터로조",
+    "amount": "49.00",
+    "price": "1597400",
+    "ratio": "0.29",
+    "totalPrice": "1619450"
+  },
+  {
+    "code": "115450",
+    "name": "HLB테라퓨틱스",
+    "amount": "392.00",
+    "price": "1562120",
+    "ratio": "0.28",
+    "totalPrice": "1522920"
+  },
+  {
+    "code": "099430",
+    "name": "바이오플러스",
+    "amount": "236.00",
+    "price": "1557600",
+    "ratio": "0.28",
+    "totalPrice": "1545800"
+  },
+  {
+    "code": "243070",
+    "name": "휴온스",
+    "amount": "41.00",
+    "price": "1551850",
+    "ratio": "0.28",
+    "totalPrice": "1570300"
+  },
+  {
+    "code": "041830",
+    "name": "인바디",
+    "amount": "58.00",
+    "price": "1452900",
+    "ratio": "0.26",
+    "totalPrice": "1423900"
+  },
+  {
+    "code": "228670",
+    "name": "레이",
+    "amount": "66.00",
+    "price": "1428900",
+    "ratio": "0.26",
+    "totalPrice": "1435500"
+  },
+  {
+    "code": "043150",
+    "name": "바텍",
+    "amount": "42.00",
+    "price": "1365000",
+    "ratio": "0.25",
+    "totalPrice": "1379700"
+  },
+  {
+    "code": "033270",
+    "name": "유나이티드제약",
+    "amount": "54.00",
+    "price": "1306800",
+    "ratio": "0.24",
+    "totalPrice": "1314900"
+  },
+  {
+    "code": "268600",
+    "name": "셀리버리",
+    "amount": "185.00",
+    "price": "1235800",
+    "ratio": "0.22",
+    "totalPrice": "1235800"
+  },
+  {
+    "code": "039840",
+    "name": "디오",
+    "amount": "56.00",
+    "price": "1206800",
+    "ratio": "0.22",
+    "totalPrice": "1187200"
+  },
+  {
+    "code": "216080",
+    "name": "제테마",
+    "amount": "78.00",
+    "price": "1202760",
+    "ratio": "0.22",
+    "totalPrice": "1211340"
+  },
+  {
+    "code": "011000",
+    "name": "진원생명과학",
+    "amount": "438.00",
+    "price": "1195740",
+    "ratio": "0.22",
+    "totalPrice": "1206690"
+  },
+  {
+    "code": "340570",
+    "name": "티앤엘",
+    "amount": "26.00",
+    "price": "1107600",
+    "ratio": "0.20",
+    "totalPrice": "1121900"
+  },
+  {
+    "code": "003520",
+    "name": "영진약품",
+    "amount": "533.00",
+    "price": "1079325",
+    "ratio": "0.19",
+    "totalPrice": "1087320"
+  },
+  {
+    "code": "041960",
+    "name": "코미팜",
+    "amount": "261.00",
+    "price": "1016595",
+    "ratio": "0.18",
+    "totalPrice": "1054440"
+  },
+  {
+    "code": "235980",
+    "name": "메드팩토",
+    "amount": "134.00",
+    "price": "935320",
+    "ratio": "0.17",
+    "totalPrice": "915220"
+  },
+  {
+    "code": "377740",
+    "name": "바이오노트",
+    "amount": "198.00",
+    "price": "834570",
+    "ratio": "0.15",
+    "totalPrice": "830610"
+  },
+  {
+    "code": "294090",
+    "name": "이오플로우",
+    "amount": "153.00",
+    "price": "636480",
+    "ratio": "0.11",
+    "totalPrice": "634950"
+  },
+  {
+    "code": "179290",
+    "name": "엠아이텍",
+    "amount": "92.00",
+    "price": "589720",
+    "ratio": "0.11",
+    "totalPrice": "590640"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "806141",
+    "ratio": "0.15",
+    "totalPrice": ""
+  }
+]
