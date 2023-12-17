@@ -1,0 +1,90 @@
+[
+  {
+    "code": "000880",
+    "name": "한화",
+    "amount": "3260.00",
+    "price": "83293000",
+    "ratio": "21.00",
+    "totalPrice": "83130000"
+  },
+  {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "amount": "1069.00",
+    "price": "78037000",
+    "ratio": "19.67",
+    "totalPrice": "76540400"
+  },
+  {
+    "code": "009830",
+    "name": "한화솔루션",
+    "amount": "2069.00",
+    "price": "72311550",
+    "ratio": "18.23",
+    "totalPrice": "67035600"
+  },
+  {
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "amount": "85.00",
+    "price": "35870000",
+    "ratio": "9.04",
+    "totalPrice": "35912500"
+  },
+  {
+    "code": "051910",
+    "name": "LG화학",
+    "amount": "68.00",
+    "price": "33524000",
+    "ratio": "8.45",
+    "totalPrice": "31552000"
+  },
+  {
+    "code": "006400",
+    "name": "삼성SDI",
+    "amount": "69.00",
+    "price": "31222500",
+    "ratio": "7.87",
+    "totalPrice": "30946500"
+  },
+  {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "amount": "262.00",
+    "price": "25702200",
+    "ratio": "6.48",
+    "totalPrice": "25335400"
+  },
+  {
+    "code": "322000",
+    "name": "HD현대에너지솔루션",
+    "amount": "599.00",
+    "price": "16232900",
+    "ratio": "4.09",
+    "totalPrice": "16322750"
+  },
+  {
+    "code": "066970",
+    "name": "엘앤에프",
+    "amount": "82.00",
+    "price": "15268400",
+    "ratio": "3.85",
+    "totalPrice": "15317600"
+  },
+  {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "amount": "60.00",
+    "price": "4920000",
+    "ratio": "1.24",
+    "totalPrice": "4932000"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "307485",
+    "ratio": "0.08",
+    "totalPrice": ""
+  }
+]
