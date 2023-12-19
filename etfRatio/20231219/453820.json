@@ -1,0 +1,42 @@
+[
+  {
+    "code": "SWAP00000008",
+    "name": "스왑(신한투자증권)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "8495769"
+  },
+  {
+    "code": "SWAP00000011",
+    "name": "스왑(키움증권)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "7443134"
+  },
+  {
+    "code": "SWAP00000014",
+    "name": "스왑(하나금융투자)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "33983980"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "612504603",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "662427486",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
