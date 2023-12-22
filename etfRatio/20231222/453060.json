@@ -1,0 +1,34 @@
+[
+  {
+    "code": "KRYZTRSD3D02",
+    "name": "스왑(미래에셋증권)_230313",
+    "amount": "59975835.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "59975835"
+  },
+  {
+    "code": "KRYZTRSD3D01",
+    "name": "스왑(키움증권)_230313",
+    "amount": "42793010.64",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "42793010"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "73833",
+    "ratio": "100.00",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "102842678",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
