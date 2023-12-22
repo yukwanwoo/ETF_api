@@ -1,0 +1,90 @@
+[
+  {
+    "code": "000270",
+    "name": "기아",
+    "amount": "945.00",
+    "price": "91003500",
+    "ratio": "10.66",
+    "totalPrice": "90153000"
+  },
+  {
+    "code": "005380",
+    "name": "현대차",
+    "amount": "446.00",
+    "price": "88754000",
+    "ratio": "10.40",
+    "totalPrice": "88620200"
+  },
+  {
+    "code": "051910",
+    "name": "LG화학",
+    "amount": "178.00",
+    "price": "87665000",
+    "ratio": "10.27",
+    "totalPrice": "88110000"
+  },
+  {
+    "code": "005490",
+    "name": "POSCO홀딩스",
+    "amount": "179.00",
+    "price": "86546500",
+    "ratio": "10.14",
+    "totalPrice": "87083500"
+  },
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "1127.00",
+    "price": "85088500",
+    "ratio": "9.97",
+    "totalPrice": "84525000"
+  },
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "603.00",
+    "price": "84902400",
+    "ratio": "9.95",
+    "totalPrice": "84721500"
+  },
+  {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "amount": "118.00",
+    "price": "84134000",
+    "ratio": "9.86",
+    "totalPrice": "84016000"
+  },
+  {
+    "code": "006400",
+    "name": "삼성SDI",
+    "amount": "184.00",
+    "price": "83168000",
+    "ratio": "9.74",
+    "totalPrice": "82984000"
+  },
+  {
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "amount": "195.00",
+    "price": "81997500",
+    "ratio": "9.61",
+    "totalPrice": "82485000"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "369.00",
+    "price": "80073000",
+    "ratio": "9.38",
+    "totalPrice": "79888500"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "334795",
+    "ratio": "0.04",
+    "totalPrice": ""
+  }
+]
