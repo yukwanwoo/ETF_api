@@ -1,0 +1,330 @@
+[
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "457.00",
+    "price": "64254200",
+    "ratio": "",
+    "totalPrice": "64208500"
+  },
+  {
+    "code": "042700",
+    "name": "한미반도체",
+    "amount": "561.00",
+    "price": "32874600",
+    "ratio": "",
+    "totalPrice": "33211200"
+  },
+  {
+    "code": "170920",
+    "name": "엘티씨",
+    "amount": "1606.00",
+    "price": "25985080",
+    "ratio": "",
+    "totalPrice": "27061100"
+  },
+  {
+    "code": "014680",
+    "name": "한솔케미칼",
+    "amount": "95.00",
+    "price": "21232500",
+    "ratio": "",
+    "totalPrice": "21280000"
+  },
+  {
+    "code": "357780",
+    "name": "솔브레인",
+    "amount": "63.00",
+    "price": "18742500",
+    "ratio": "",
+    "totalPrice": "18553500"
+  },
+  {
+    "code": "098460",
+    "name": "고영",
+    "amount": "1038.00",
+    "price": "17531820",
+    "ratio": "",
+    "totalPrice": "17625240"
+  },
+  {
+    "code": "425040",
+    "name": "티이엠씨",
+    "amount": "305.00",
+    "price": "15250000",
+    "ratio": "",
+    "totalPrice": "14274000"
+  },
+  {
+    "code": "239890",
+    "name": "피엔에이치테크",
+    "amount": "476.00",
+    "price": "11590600",
+    "ratio": "",
+    "totalPrice": "11638200"
+  },
+  {
+    "code": "079370",
+    "name": "제우스",
+    "amount": "221.00",
+    "price": "9867650",
+    "ratio": "",
+    "totalPrice": "9856600"
+  },
+  {
+    "code": "009150",
+    "name": "삼성전기",
+    "amount": "64.00",
+    "price": "9683200",
+    "ratio": "",
+    "totalPrice": "9612800"
+  },
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "121.00",
+    "price": "9183900",
+    "ratio": "",
+    "totalPrice": "9075000"
+  },
+  {
+    "code": "036930",
+    "name": "주성엔지니어링",
+    "amount": "259.00",
+    "price": "8521100",
+    "ratio": "",
+    "totalPrice": "8689450"
+  },
+  {
+    "code": "399720",
+    "name": "가온칩스",
+    "amount": "144.00",
+    "price": "8323200",
+    "ratio": "",
+    "totalPrice": "6948000"
+  },
+  {
+    "code": "064760",
+    "name": "티씨케이",
+    "amount": "65.00",
+    "price": "7273500",
+    "ratio": "",
+    "totalPrice": "7241000"
+  },
+  {
+    "code": "353200",
+    "name": "대덕전자",
+    "amount": "255.00",
+    "price": "6910500",
+    "ratio": "",
+    "totalPrice": "6872250"
+  },
+  {
+    "code": "005290",
+    "name": "동진쎄미켐",
+    "amount": "175.00",
+    "price": "6597500",
+    "ratio": "",
+    "totalPrice": "6571250"
+  },
+  {
+    "code": "067310",
+    "name": "하나마이크론",
+    "amount": "45.00",
+    "price": "1287000",
+    "ratio": "",
+    "totalPrice": "1320750"
+  },
+  {
+    "code": "TW0002345006",
+    "name": "ACCTON TECH",
+    "amount": "1000.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3122400009",
+    "name": "ADVANTEST CORP",
+    "amount": "638.46",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003711008",
+    "name": "ASE INDUSTRIAL HOLDINGS",
+    "amount": "2923.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG022421088",
+    "name": "Alchip Technologies Ltd",
+    "amount": "230.77",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3548600000",
+    "name": "DISCO",
+    "amount": "115.38",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003443008",
+    "name": "Global Unichip Corp",
+    "amount": "230.77",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3837800006",
+    "name": "HOYA",
+    "amount": "100.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3148800000",
+    "name": "IBIDEN",
+    "amount": "107.69",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002449006",
+    "name": "King Yuan Electronics Co Ltd",
+    "amount": "4461.54",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3979200007",
+    "name": "LASERTEC CORP",
+    "amount": "84.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002454006",
+    "name": "MEDIATEK INC",
+    "amount": "615.38",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002382009",
+    "name": "QUANTA COMPUTER",
+    "amount": "1769.23",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3164720009",
+    "name": "Renesas Electornics Corporation",
+    "amount": "807.69",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3494600004",
+    "name": "SCREEN Holdings Co Ltd",
+    "amount": "107.69",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3371200001",
+    "name": "SHIN-ETSU CHEMICAL",
+    "amount": "276.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002330008",
+    "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+    "amount": "769.23",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3571400005",
+    "name": "TOKYO ELECTRON",
+    "amount": "176.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3555700008",
+    "name": "Towa Corp",
+    "amount": "246.15",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003044004",
+    "name": "Tripod Technology Corp",
+    "amount": "1384.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003037008",
+    "name": "Unimicron Technology Corp",
+    "amount": "1615.38",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0006669005",
+    "name": "WIWYNN CORP",
+    "amount": "153.85",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KR4111V10006",
+    "name": "삼성전자   F 202401 (  10)",
+    "amount": "23.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "17333080"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "37626135",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "722895728",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
