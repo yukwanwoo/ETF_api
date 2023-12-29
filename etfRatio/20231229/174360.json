@@ -1,0 +1,818 @@
+[
+  {
+    "code": "CNE1000010N2",
+    "name": "37 INTERACTIVE ENTERTAINME-A",
+    "amount": "1281.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100003MM9",
+    "name": "ADVANCED MICRO-FABRICATION-A",
+    "amount": "358.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000000JW1",
+    "name": "AECC AVIATION POWER CO-A",
+    "amount": "1100.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000GR6",
+    "name": "AIER EYE HOSPITAL GROUP CO-A",
+    "amount": "3852.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000000T0",
+    "name": "ALUMINUM CORP OF CHINA LTD-A",
+    "amount": "6544.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000019V8",
+    "name": "ANHUI CONCH CEMENT CO LTD-A",
+    "amount": "1983.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000015R4",
+    "name": "BAOSHAN IRON & STEEL CO-A",
+    "amount": "7303.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100003PM2",
+    "name": "BEIJING KINGSOFT OFFICE SO-A",
+    "amount": "192.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000CS3",
+    "name": "BEIJING ORIENTAL YUHONG-A",
+    "amount": "1664.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100003RV9",
+    "name": "BEIJING-SHANGHAI HIGH SPE-A",
+    "amount": "20286.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000016L5",
+    "name": "BOE TECHNOLOGY GROUP CO LT-A",
+    "amount": "30938.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001526",
+    "name": "BYD CO LTD -A",
+    "amount": "750.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000007J8",
+    "name": "CHANGCHUN HIGH & NEW TECH-A",
+    "amount": "267.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000000YM1",
+    "name": "CHINA JUSHI CO LTD -A",
+    "amount": "1986.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001B33",
+    "name": "CHINA MERCHANTS BANK-A",
+    "amount": "10224.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100002FC6",
+    "name": "CHINA MERCHANTS SHEKOU IND-A",
+    "amount": "2992.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000055G1",
+    "name": "CHINA MOBILE LTD-A",
+    "amount": "744.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000022N7",
+    "name": "CHINA NATIONAL NUCLEAR POW-A",
+    "amount": "7803.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000000T18",
+    "name": "CHINA NORTHERN RARE EARTH -A",
+    "amount": "2089.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000018G1",
+    "name": "CHINA PETROLEUM & CHEMICAL-A",
+    "amount": "15715.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000866",
+    "name": "CHINA RAILWAY GROUP LTD-A",
+    "amount": "8483.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000767",
+    "name": "CHINA SHENHUA ENERGY CO-A",
+    "amount": "2725.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000F46",
+    "name": "CHINA STATE CONSTRUCTION -A",
+    "amount": "17310.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100004QG0",
+    "name": "CHINA TELECOM CORP LTD-DM -A",
+    "amount": "12825.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000051F2",
+    "name": "CHINA THREE GORGES RENEWAB-A",
+    "amount": "11817.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000G29",
+    "name": "CHINA TOURISM GROUP DUTY F-A",
+    "amount": "806.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001CS2",
+    "name": "CHINA UNITED NETWORK-A",
+    "amount": "15766.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000000T2",
+    "name": "CHINA VANKE CO LTD -A",
+    "amount": "5624.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001G87",
+    "name": "CHINA YANGTZE POWER CO LTD-A",
+    "amount": "8087.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000V20",
+    "name": "CHONGQING ZHIFEI BIOLOGICA-A",
+    "amount": "990.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001DB6",
+    "name": "CITIC SECURITIES CO-A",
+    "amount": "8064.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001NR0",
+    "name": "CMOC GROUP LTD-A",
+    "amount": "5833.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100003662",
+    "name": "CONTEMPORARY AMPEREX TECHN-A",
+    "amount": "2181.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000601",
+    "name": "COSCO SHIPPING HOLDINGS CO-A",
+    "amount": "5267.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000CP9",
+    "name": "CRRC CORP LTD-A",
+    "amount": "10055.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000GS4",
+    "name": "EVE ENERGY CO LTD-A",
+    "amount": "1014.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001KK2",
+    "name": "FOCUS MEDIA INFORMATION TE-A",
+    "amount": "8348.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000SF6",
+    "name": "GANFENG LITHIUM GROUP CO L-A",
+    "amount": "933.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000030S9",
+    "name": "GIGADEVICE SEMICONDUCTO-CL A",
+    "amount": "550.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000PH8",
+    "name": "GLODON CO LTD-A",
+    "amount": "1099.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000BP1",
+    "name": "GOERTEK INC -A",
+    "amount": "1978.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000001D4",
+    "name": "GREE ELECTRIC APPLIANCES I-A",
+    "amount": "3720.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001RG4",
+    "name": "GUANGZHOU TINCI MATERIALS -A",
+    "amount": "956.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000000CG9",
+    "name": "HAIER SMART HOME CO LTD-A",
+    "amount": "3129.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000PM8",
+    "name": "HANGZHOU HIKVISION DIGITAL-A",
+    "amount": "3083.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001KV8",
+    "name": "HANGZHOU TIGERMED CONSULTI-A",
+    "amount": "433.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000018V0",
+    "name": "HENGLI PETROCHEMICAL CO L-A",
+    "amount": "1747.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001GD5",
+    "name": "HUNDSUN TECHNOLOGIES INC-A",
+    "amount": "1256.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000B81",
+    "name": "IFLYTEK CO LTD - A",
+    "amount": "1531.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001P37",
+    "name": "IND & COMM BK OF CHINA-A",
+    "amount": "28953.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000017H1",
+    "name": "INNER MONGOLIA BAOTOU STE-A",
+    "amount": "18772.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000012K6",
+    "name": "JIANGSU EASTERN SHENGHONG -A",
+    "amount": "2186.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000014W7",
+    "name": "JIANGSU HENGRUI PHARMACEUT-A",
+    "amount": "3688.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000018R8",
+    "name": "KWEICHOW MOUTAI CO LTD-A",
+    "amount": "466.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000015M3",
+    "name": "LB GROUP CO LTD-A",
+    "amount": "1378.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001FR6",
+    "name": "LONGI GREEN ENERGY TECHNOL-A",
+    "amount": "5006.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000TP3",
+    "name": "LUXSHARE PRECISION INDUSTR-A",
+    "amount": "4134.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001Y83",
+    "name": "MANGO EXCELLENT MEDIA CO L-A",
+    "amount": "617.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001QQ5",
+    "name": "MIDEA GROUP CO LTD-A",
+    "amount": "4061.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100003MN7",
+    "name": "MONTAGE TECHNOLOGY CO LTD-A",
+    "amount": "753.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001RQ3",
+    "name": "MUYUAN FOODS CO LTD-A",
+    "amount": "4540.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001G38",
+    "name": "NARI TECHNOLOGY CO LTD-A",
+    "amount": "3317.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000ML7",
+    "name": "NAURA TECHNOLOGY GROUP CO-A",
+    "amount": "219.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100003LF5",
+    "name": "NINGXIA BAOFENG ENERGY GRO-A",
+    "amount": "1817.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000007Q1",
+    "name": "PETROCHINA CO LTD-A",
+    "amount": "9361.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001R84",
+    "name": "PING AN INSURANCE GROUP CO-A",
+    "amount": "8890.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001ND1",
+    "name": "POLY DEVELOPMENTS AND HOLD-A",
+    "amount": "5930.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000000SW2",
+    "name": "QINGHAI SALT LAKE INDUSTRY-A",
+    "amount": "4486.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000W60",
+    "name": "RONGSHENG PETROCHEMICAL CO-A",
+    "amount": "2508.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000L63",
+    "name": "S F HOLDING CO LTD-A",
+    "amount": "2022.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001F70",
+    "name": "SANY HEAVY INDUSTRY CO LTD-A",
+    "amount": "4906.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001B07",
+    "name": "SATELLITE CHEMICAL CO LTD-A",
+    "amount": "1390.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000041W8",
+    "name": "SEMICONDUCTOR MANUFACTURIN-A",
+    "amount": "1631.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001T64",
+    "name": "SHAANXI COAL INDUSTRY CO L-A",
+    "amount": "3203.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001FR7",
+    "name": "SHANDONG GOLD MINING CO LT-A",
+    "amount": "1492.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001BM7",
+    "name": "SHANDONG HUALU HENGSHENG-A",
+    "amount": "1228.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000V46",
+    "name": "SHENZHEN INOVANCE TECHNOLO-A",
+    "amount": "1764.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100003G67",
+    "name": "SHENZHEN MINDRAY BIO-MEDIC-A",
+    "amount": "500.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000018M7",
+    "name": "SUNGROW POWER SUPPLY CO LT-A",
+    "amount": "858.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000000RB8",
+    "name": "TBEA CO LTD-A",
+    "amount": "4176.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001GL8",
+    "name": "TCL TECHNOLOGY GROUP CORP-A",
+    "amount": "15517.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000000B8",
+    "name": "TCL ZHONGHUAN RENEWABLE EN-A",
+    "amount": "2670.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000T32",
+    "name": "TIANQI LITHIUM CORP-A",
+    "amount": "856.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001GS3",
+    "name": "TONGWEI CO LTD-A",
+    "amount": "2233.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100003ZR0",
+    "name": "TRINA SOLAR CO LTD-A",
+    "amount": "900.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001M14",
+    "name": "UNIGROUP GUOXIN MICROELECT-A",
+    "amount": "561.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000010T1",
+    "name": "UNISPLENDOUR CORP LTD-A",
+    "amount": "1889.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000WN2",
+    "name": "WALVAX BIOTECHNOLOGY CO-A",
+    "amount": "1328.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000016J9",
+    "name": "WANHUA CHEMICAL GROUP CO -A",
+    "amount": "1556.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000000D4",
+    "name": "WEICHAI POWER CO LTD-A",
+    "amount": "4483.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100002XM8",
+    "name": "WILL SEMICONDUCTOR CO LTD-A",
+    "amount": "604.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000000M72",
+    "name": "WINGTECH TECHNOLOGY CO LTD-A",
+    "amount": "719.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000031K4",
+    "name": "WUXI APPTEC CO LTD-A",
+    "amount": "1695.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE0000017Y6",
+    "name": "YONYOU NETWORK TECHNOLOGY-A",
+    "amount": "1694.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100002BR3",
+    "name": "YUNNAN ENERGY NEW MATERIAL-A",
+    "amount": "483.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000001F21",
+    "name": "ZHANGZHOU PIENTZEHUANG PHA-A",
+    "amount": "250.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001VW3",
+    "name": "ZHEJIANG HUAYOU COBALT CO -A",
+    "amount": "1131.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001CY9",
+    "name": "ZHONGJI INNOLIGHT CO LTD-A",
+    "amount": "531.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000B24",
+    "name": "ZIJIN MINING GROUP CO LTD-A",
+    "amount": "13604.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE000000TK5",
+    "name": "ZTE CORP-A",
+    "amount": "2633.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "4310064",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "1436931803",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
