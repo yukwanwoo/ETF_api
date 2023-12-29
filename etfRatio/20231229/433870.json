@@ -1,0 +1,82 @@
+[
+  {
+    "code": "429760",
+    "name": "ARIRANG 미국S&P500",
+    "amount": "2294.00",
+    "price": "26851270",
+    "ratio": "",
+    "totalPrice": "26816860"
+  },
+  {
+    "code": "289670",
+    "name": "ARIRANG 국채선물10년",
+    "amount": "410.00",
+    "price": "21973950",
+    "ratio": "",
+    "totalPrice": "21873500"
+  },
+  {
+    "code": "251350",
+    "name": "KODEX 선진국MSCI World",
+    "amount": "364.00",
+    "price": "8635900",
+    "ratio": "",
+    "totalPrice": "8637720"
+  },
+  {
+    "code": "148070",
+    "name": "KOSEF 국고채10년",
+    "amount": "52.00",
+    "price": "5849480",
+    "ratio": "",
+    "totalPrice": "5812560"
+  },
+  {
+    "code": "US46434G1031",
+    "name": "ISHARES CORE MSCI EMERGING",
+    "amount": "183.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4642881175",
+    "name": "ISHARES INTERNATIONAL TREASU",
+    "amount": "85.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4642882819",
+    "name": "ISHARES JP MORGAN USD EMERGI",
+    "amount": "48.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4642863926",
+    "name": "ISHARES MSCI WORLD ETF",
+    "amount": "158.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "1270770",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "113522454",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
