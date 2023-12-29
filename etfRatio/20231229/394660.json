@@ -1,0 +1,650 @@
+[
+  {
+    "code": "000270",
+    "name": "기아",
+    "amount": "31.00",
+    "price": "3100000",
+    "ratio": "",
+    "totalPrice": "3007000"
+  },
+  {
+    "code": "005380",
+    "name": "현대차",
+    "amount": "13.00",
+    "price": "2645500",
+    "ratio": "",
+    "totalPrice": "2580500"
+  },
+  {
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "amount": "4.00",
+    "price": "1710000",
+    "ratio": "",
+    "totalPrice": "1684000"
+  },
+  {
+    "code": "KYG0097V1086",
+    "name": "ADVANCED ENERGY SOLUTION HOL",
+    "amount": "55.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0126531013",
+    "name": "ALBEMARLE CORP",
+    "amount": "8.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "AU0000193666",
+    "name": "ALLKEM LTD",
+    "amount": "166.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US02079K3059",
+    "name": "ALPHABET INC-CL A",
+    "amount": "46.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG037AX1015",
+    "name": "AMBARELLA INC",
+    "amount": "16.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0240611030",
+    "name": "AMERICAN AXLE & MFG HOLDINGS",
+    "amount": "150.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "LU0569974404",
+    "name": "APERAM",
+    "amount": "37.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0378331005",
+    "name": "APPLE INC",
+    "amount": "31.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JE00B783TY65",
+    "name": "APTIV PLC",
+    "amount": "19.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US01741R1023",
+    "name": "ATI INC",
+    "amount": "42.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0567521085",
+    "name": "BAIDU INC - SPON ADR",
+    "amount": "16.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA0585861085",
+    "name": "BALLARD POWER SYSTEMS INC",
+    "amount": "227.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA09228F1036",
+    "name": "BLACKBERRY LTD",
+    "amount": "357.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0937121079",
+    "name": "BLOOM ENERGY CORP- A",
+    "amount": "59.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1270551013",
+    "name": "CABOT CORP",
+    "amount": "19.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1572101053",
+    "name": "CEVA INC",
+    "amount": "44.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US19247G1076",
+    "name": "COHERENT CORP",
+    "amount": "35.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "DE0005439004",
+    "name": "CONTINENTAL AG",
+    "amount": "21.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3551500006",
+    "name": "DENSO CORP",
+    "amount": "34.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US29275Y1029",
+    "name": "ENERSYS",
+    "amount": "17.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3453708600",
+    "name": "FORD MOTOR CO",
+    "amount": "183.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "FR0000121147",
+    "name": "FORVIA",
+    "amount": "72.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000031W9",
+    "name": "GANFENG LITHIUM GROUP CO L-H",
+    "amount": "168.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG3777B1032",
+    "name": "GEELY AUTOMOBILE HOLDINGS LT",
+    "amount": "957.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US37045V1008",
+    "name": "GENERAL MOTORS CO",
+    "amount": "65.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US37253A1034",
+    "name": "GENTHERM INC",
+    "amount": "19.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US37954Y6243",
+    "name": "GLOBAL X AUTONOMOUS&ELEC-ETF",
+    "amount": "1218.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3385820000",
+    "name": "GS YUASA CORP",
+    "amount": "80.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3788600009",
+    "name": "HITACHI LTD",
+    "amount": "45.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3854600008",
+    "name": "HONDA MOTOR CO LTD",
+    "amount": "85.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4385161066",
+    "name": "HONEYWELL INTERNATIONAL INC",
+    "amount": "19.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4491721050",
+    "name": "HYSTER-YALE MATERIALS",
+    "amount": "43.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "AU000000IGO4",
+    "name": "IGO LTD",
+    "amount": "148.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US45569U1016",
+    "name": "INDIE SEMICONDUCTOR INC-A",
+    "amount": "190.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "DE0006231004",
+    "name": "INFINEON TECHNOLOGIES AG",
+    "amount": "67.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "IL0011745804",
+    "name": "INNOVIZ TECHNOLOGIES LTD",
+    "amount": "276.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4581401001",
+    "name": "INTEL CORP",
+    "amount": "133.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US45073V1089",
+    "name": "ITT INC",
+    "amount": "17.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "GB00BZ4BQC70",
+    "name": "JOHNSON MATTHEY PLC",
+    "amount": "54.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5218652049",
+    "name": "LEAR CORP",
+    "amount": "11.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US53814L1089",
+    "name": "LIVENT CORP",
+    "amount": "59.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5494981039",
+    "name": "LUCID GROUP INC",
+    "amount": "169.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5504241051",
+    "name": "LUMINAR TECHNOLOGIES INC",
+    "amount": "233.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA5503721063",
+    "name": "LUNDIN MINING CORP",
+    "amount": "194.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5949181045",
+    "name": "MICROSOFT CORP",
+    "amount": "12.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US59516C1062",
+    "name": "MICROVAST HOLDINGS INC",
+    "amount": "742.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5949603048",
+    "name": "MICROVISION INC",
+    "amount": "521.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG6501M1050",
+    "name": "NEXTEER AUTOMOTIVE GROUP LTD",
+    "amount": "1775.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6541101050",
+    "name": "NIKOLA CORP",
+    "amount": "531.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US62914V1061",
+    "name": "NIO INC - ADR",
+    "amount": "145.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3672400003",
+    "name": "NISSAN MOTOR CO LTD",
+    "amount": "441.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US67066G1040",
+    "name": "NVIDIA CORP",
+    "amount": "25.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0009538784",
+    "name": "NXP SEMICONDUCTORS NV",
+    "amount": "13.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6821891057",
+    "name": "ON SEMICONDUCTOR",
+    "amount": "30.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3866800000",
+    "name": "PANASONIC HOLDINGS CORP",
+    "amount": "196.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US72016P1057",
+    "name": "PIEDMONT LITHIUM INC",
+    "amount": "22.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "AU000000PLS0",
+    "name": "PILBARA MINERALS LTD",
+    "amount": "522.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US72919P2020",
+    "name": "PLUG POWER INC",
+    "amount": "90.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7475251036",
+    "name": "QUALCOMM INC",
+    "amount": "34.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US74767V1098",
+    "name": "QUANTUMSCAPE CORP",
+    "amount": "178.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8336351056",
+    "name": "QUIMICA Y MINERA CHIL-SP ADR",
+    "amount": "19.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "FR0000131906",
+    "name": "RENAULT SA",
+    "amount": "36.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA8536061010",
+    "name": "STANDARD LITHIUM LTD",
+    "amount": "338.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL00150001Q9",
+    "name": "STELLANTIS NV",
+    "amount": "130.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0000226223",
+    "name": "STMICROELECTRONICS NV",
+    "amount": "47.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US88160R1014",
+    "name": "TESLA INC",
+    "amount": "34.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0013332471",
+    "name": "TOMTOM NV",
+    "amount": "183.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3633400001",
+    "name": "TOYOTA MOTOR CORP",
+    "amount": "292.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92839U2069",
+    "name": "VISTEON CORP",
+    "amount": "10.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "DE0007664039",
+    "name": "VOLKSWAGEN AG-PREF",
+    "amount": "13.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9297401088",
+    "name": "WABTEC CORP",
+    "amount": "17.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98422D1054",
+    "name": "XPENG INC - ADR",
+    "amount": "144.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRYZTRSC7J01",
+    "name": "글로벌자율주행&전기차 TRS 1",
+    "amount": "-771050.46",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-771050"
+  },
+  {
+    "code": "KRYZTRSC7K04",
+    "name": "글로벌자율주행&전기차 TRS 2",
+    "amount": "-2288924.39",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-2288924"
+  },
+  {
+    "code": "KRYZTRSC7K06",
+    "name": "글로벌자율주행&전기차 TRS 4",
+    "amount": "-227523.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-227523"
+  },
+  {
+    "code": "KRYZTRSCCS01",
+    "name": "글로벌자율주행&전기차 TRS 5",
+    "amount": "-15968808.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-15968808"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "200254666",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "421997914",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
