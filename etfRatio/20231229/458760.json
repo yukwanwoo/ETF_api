@@ -1,0 +1,834 @@
+[
+  {
+    "code": "US3369011032",
+    "name": "1ST SOURCE CORP",
+    "amount": "1.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US88579Y1010",
+    "name": "3M CO",
+    "amount": "63.51",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US00287Y1091",
+    "name": "ABBVIE INC",
+    "amount": "102.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US00751Y1064",
+    "name": "ADVANCE AUTO PARTS INC",
+    "amount": "6.84",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0200021014",
+    "name": "ALLSTATE CORP",
+    "amount": "30.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US02209S1033",
+    "name": "ALTRIA GROUP INC",
+    "amount": "204.21",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JE00BJ1F3079",
+    "name": "AMCOR PLC",
+    "amount": "169.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0311621009",
+    "name": "AMGEN INC",
+    "amount": "53.54",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US04316A1088",
+    "name": "ARTISAN PARTNERS ASSET MA -A",
+    "amount": "7.88",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0530151036",
+    "name": "AUTOMATIC DATA PROCESSING",
+    "amount": "47.41",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0625401098",
+    "name": "BANK OF HAWAII CORP",
+    "amount": "4.57",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US06417N1037",
+    "name": "BANK OZK",
+    "amount": "12.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US06652V2088",
+    "name": "BANNER CORPORATION",
+    "amount": "3.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0865161014",
+    "name": "BEST BUY CO INC",
+    "amount": "22.35",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US09247X1019",
+    "name": "BLACKROCK INC",
+    "amount": "16.17",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US09260D1072",
+    "name": "BLACKSTONE INC",
+    "amount": "81.65",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US11135F1012",
+    "name": "BROADCOM INC",
+    "amount": "15.17",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1184401065",
+    "name": "BUCKLE INC/THE",
+    "amount": "3.42",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1462291097",
+    "name": "CARTERS INC",
+    "amount": "4.29",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1491501045",
+    "name": "CATHAY GENERAL BANCORP",
+    "amount": "8.35",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1547604090",
+    "name": "CENTRAL PACIFIC FINANCIAL CO",
+    "amount": "3.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1667641005",
+    "name": "CHEVRON CORP",
+    "amount": "98.75",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US17275R1023",
+    "name": "CISCO SYSTEMS INC",
+    "amount": "295.61",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1778351056",
+    "name": "CITY HOLDING CO",
+    "amount": "1.73",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US18539C1053",
+    "name": "CLEARWAY ENERGY INC-A",
+    "amount": "3.98",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1912161007",
+    "name": "COCA-COLA CO/THE",
+    "amount": "244.71",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US19247A1007",
+    "name": "COHEN & STEERS INC",
+    "amount": "2.94",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2003401070",
+    "name": "COMERICA INC",
+    "amount": "15.16",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1270971039",
+    "name": "COTERRA ENERGY INC",
+    "amount": "87.15",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US22410J1060",
+    "name": "CRACKER BARREL OLD COUNTRY",
+    "amount": "2.55",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1266001056",
+    "name": "CVB FINANCIAL CORP",
+    "amount": "15.23",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2371941053",
+    "name": "DARDEN RESTAURANTS INC",
+    "amount": "13.91",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2933891028",
+    "name": "ENNIS INC",
+    "amount": "2.97",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US26875P1012",
+    "name": "EOG RESOURCES INC",
+    "amount": "67.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2976021046",
+    "name": "ETHAN ALLEN INTERIORS INC",
+    "amount": "2.63",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3119001044",
+    "name": "FASTENAL CO",
+    "amount": "65.74",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3131483063",
+    "name": "FEDERAL AGRIC MTG CORP-CL C",
+    "amount": "1.07",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US31620R3030",
+    "name": "FIDELITY NATIONAL FINANCIAL",
+    "amount": "29.78",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3167731005",
+    "name": "FIFTH THIRD BANCORP",
+    "amount": "78.34",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US31847R1023",
+    "name": "FIRST AMERICAN FINANCIAL",
+    "amount": "11.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3198291078",
+    "name": "FIRST COMMONWEALTH FINL CORP",
+    "amount": "11.78",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3453708600",
+    "name": "FORD MOTOR CO",
+    "amount": "452.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4016171054",
+    "name": "GUESS? INC",
+    "amount": "3.15",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0936711052",
+    "name": "H&R BLOCK INC",
+    "amount": "17.52",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4104952043",
+    "name": "HANMI FINANCIAL CORPORATION",
+    "amount": "3.51",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US42722X1063",
+    "name": "HERITAGE FINANCIAL CORP",
+    "amount": "4.03",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4370761029",
+    "name": "HOME DEPOT INC",
+    "amount": "45.78",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4461501045",
+    "name": "HUNTINGTON BANCSHARES INC",
+    "amount": "166.58",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4470111075",
+    "name": "HUNTSMAN CORP",
+    "amount": "19.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4523081093",
+    "name": "ILLINOIS TOOL WORKS",
+    "amount": "31.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4590441030",
+    "name": "INTERNATIONAL BANCSHARES CRP",
+    "amount": "6.14",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4601461035",
+    "name": "INTERNATIONAL PAPER CO",
+    "amount": "39.81",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4606901001",
+    "name": "INTERPUBLIC GROUP OF COS INC",
+    "amount": "44.29",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JE00BYPZJM29",
+    "name": "JANUS HENDERSON GROUP PLC",
+    "amount": "15.25",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4878361082",
+    "name": "KELLANOVA",
+    "amount": "30.31",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4932671088",
+    "name": "KEYCORP",
+    "amount": "107.68",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4937321010",
+    "name": "KFORCE INC",
+    "amount": "2.18",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4943681035",
+    "name": "KIMBERLY-CLARK CORP",
+    "amount": "38.91",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "BMG540501027",
+    "name": "LAZARD LTD-CL A",
+    "amount": "12.98",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5246601075",
+    "name": "LEGGETT & PLATT INC",
+    "amount": "15.32",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5398301094",
+    "name": "LOCKHEED MARTIN CORP",
+    "amount": "25.79",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0009434992",
+    "name": "LYONDELLBASELL INDU-CL A",
+    "amount": "29.46",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US55261F1049",
+    "name": "M & T BANK CORP",
+    "amount": "19.09",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5526761086",
+    "name": "MDC HOLDINGS INC",
+    "amount": "6.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US58933Y1055",
+    "name": "MERCK & CO. INC.",
+    "amount": "140.78",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5535301064",
+    "name": "MSC INDUSTRIAL DIRECT CO-A",
+    "amount": "5.45",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6516391066",
+    "name": "NEWMONT CORP",
+    "amount": "131.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6658591044",
+    "name": "NORTHERN TRUST CORP",
+    "amount": "23.82",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6673401039",
+    "name": "NORTHWEST BANCSHARES INC",
+    "amount": "14.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6293775085",
+    "name": "NRG ENERGY INC",
+    "amount": "26.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "PR67103X1020",
+    "name": "OFG BANCORP",
+    "amount": "5.42",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6826801036",
+    "name": "ONEOK INC",
+    "amount": "66.69",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6951561090",
+    "name": "PACKAGING CORP OF AMERICA",
+    "amount": "10.35",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92556H2067",
+    "name": "PARAMOUNT GLOBAL-CLASS B",
+    "amount": "55.54",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7043261079",
+    "name": "PAYCHEX INC",
+    "amount": "36.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7134481081",
+    "name": "PEPSICO INC",
+    "amount": "85.18",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7170811035",
+    "name": "PFIZER INC",
+    "amount": "472.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US74052F1084",
+    "name": "PREMIER FINANCIAL CORP",
+    "amount": "4.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7502361014",
+    "name": "RADIAN GROUP INC",
+    "amount": "18.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7591EP1005",
+    "name": "REGIONS FINANCIAL CORP",
+    "amount": "107.97",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7703231032",
+    "name": "ROBERT HALF INC",
+    "amount": "12.32",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7838591011",
+    "name": "S & T BANCORP INC",
+    "amount": "4.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8085247976",
+    "name": "SCHWAB US DVD EQUITY ETF",
+    "amount": "51.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8330341012",
+    "name": "SNAP-ON INC",
+    "amount": "6.09",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "SPXF4C4720",
+    "name": "SPX US 01/19/24 C4720 INDEX",
+    "amount": "-0.32",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-4071036"
+  },
+  {
+    "code": "US8603721015",
+    "name": "STEWART INFORMATION SERVICES",
+    "amount": "3.15",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8641591081",
+    "name": "STURM RUGER & CO INC",
+    "amount": "2.04",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US87161C5013",
+    "name": "SYNOVUS FINANCIAL CORP",
+    "amount": "16.82",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US74144T1088",
+    "name": "T ROWE PRICE GROUP INC",
+    "amount": "25.81",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8825081040",
+    "name": "TEXAS INSTRUMENTS INC",
+    "amount": "92.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9024941034",
+    "name": "TYSON FOODS INC-CL A",
+    "amount": "32.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9113121068",
+    "name": "UNITED PARCEL SERVICE-CL B",
+    "amount": "83.22",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US91529Y1064",
+    "name": "UNUM GROUP",
+    "amount": "21.16",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9029733048",
+    "name": "US BANCORP",
+    "amount": "178.74",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US91913Y1001",
+    "name": "VALERO ENERGY CORP",
+    "amount": "40.65",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92343V1044",
+    "name": "VERIZON COMMUNICATIONS INC",
+    "amount": "378.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9426222009",
+    "name": "WATSCO INC",
+    "amount": "3.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US95058W1009",
+    "name": "WENDYS CO/THE",
+    "amount": "19.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9598021098",
+    "name": "WESTERN UNION CO",
+    "amount": "43.09",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9633201069",
+    "name": "WHIRLPOOL CORP",
+    "amount": "6.31",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9699041011",
+    "name": "WILLIAMS-SONOMA INC",
+    "amount": "7.39",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9897011071",
+    "name": "ZIONS BANCORP NA",
+    "amount": "17.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "-829053",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "496055893",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
