@@ -1,0 +1,538 @@
+[
+  {
+    "code": "IE00B4BNMY34",
+    "name": "ACCENTURE PLC-CL A",
+    "amount": "25.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0079031078",
+    "name": "ADVANCED MICRO DEVICES",
+    "amount": "66.81",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0320951017",
+    "name": "AMPHENOL CORP-CL A",
+    "amount": "24.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0326541051",
+    "name": "ANALOG DEVICES",
+    "amount": "20.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US03662Q1058",
+    "name": "ANSYS INC",
+    "amount": "3.57",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0378331005",
+    "name": "APPLE Inc",
+    "amount": "432.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0382221051",
+    "name": "APPLIED MATERIALS INC",
+    "amount": "34.57",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0404131064",
+    "name": "ARISTA NETWORKS",
+    "amount": "10.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0527691069",
+    "name": "AUTODESK Inc",
+    "amount": "8.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US00724F1012",
+    "name": "Adobe Inc",
+    "amount": "18.81",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US00971T1016",
+    "name": "Akamai Technologies Inc",
+    "amount": "6.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US11135F1012",
+    "name": "BROADCOM LTD",
+    "amount": "17.52",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US12514G1085",
+    "name": "CDW CORP/DE",
+    "amount": "5.52",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US17275R1023",
+    "name": "CISCO SYSTEMS INC",
+    "amount": "167.52",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1924461023",
+    "name": "COGNIZANT TECH SOLUTIONS-A",
+    "amount": "20.71",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2193501051",
+    "name": "CORNING INC",
+    "amount": "31.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1273871087",
+    "name": "Cadence Design Systems Inc",
+    "amount": "11.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US29414B1044",
+    "name": "EPAM SYSTEMS",
+    "amount": "2.38",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US29355A1079",
+    "name": "Enphase Energy Inc",
+    "amount": "5.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3156161024",
+    "name": "F5 INC",
+    "amount": "2.48",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3032501047",
+    "name": "FAIR ISAAC CORP",
+    "amount": "1.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3364331070",
+    "name": "FIRST SOLAR INC",
+    "amount": "4.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US34959E1091",
+    "name": "FORTINET INC",
+    "amount": "26.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3666511072",
+    "name": "GARTNER INC",
+    "amount": "3.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US42824C1099",
+    "name": "HEWLETT PACKARD ENTERPRIS",
+    "amount": "53.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US40434L1052",
+    "name": "HP INC",
+    "amount": "35.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4581401001",
+    "name": "INTEL Corp",
+    "amount": "174.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4592001014",
+    "name": "INTL BUSINESS MACHINES CORP",
+    "amount": "37.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4612021034",
+    "name": "INTUIT INC",
+    "amount": "11.57",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US48203R1041",
+    "name": "JUNIPER NETWORKS INC",
+    "amount": "13.19",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4663131039",
+    "name": "Jabil Inc",
+    "amount": "5.29",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US49338L1035",
+    "name": "KEYSIGHT TECH",
+    "amount": "7.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4824801009",
+    "name": "KLA Corp",
+    "amount": "5.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5128071082",
+    "name": "LAM RESEARCH",
+    "amount": "5.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5950171042",
+    "name": "MICROCHIP TECHNOLOGY INC",
+    "amount": "22.38",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5951121038",
+    "name": "MICRON TECH",
+    "amount": "45.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5949181045",
+    "name": "MICROSOFT",
+    "amount": "226.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6098391054",
+    "name": "MONOLITHIC POWER SYSTEMS INC",
+    "amount": "2.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6200763075",
+    "name": "MOTOROLA SOLUTIONS INC",
+    "amount": "6.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US64110D1046",
+    "name": "NETAPP INC",
+    "amount": "8.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6687711084",
+    "name": "NORTONLIFELOCK INC",
+    "amount": "23.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US67066G1040",
+    "name": "NVIDIA Corp",
+    "amount": "34.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0009538784",
+    "name": "NXP SEMICONDUCTORS NV",
+    "amount": "10.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6821891057",
+    "name": "ON SEMICONDUCTOR",
+    "amount": "17.81",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US68389X1054",
+    "name": "ORACLE",
+    "amount": "65.71",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6974351057",
+    "name": "PALO ALTO NETWORKS INC",
+    "amount": "12.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US69370C1009",
+    "name": "PTC INC",
+    "amount": "4.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US74736K1016",
+    "name": "QORVO INC",
+    "amount": "4.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7475251036",
+    "name": "QUALCOMM Inc",
+    "amount": "46.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7766961061",
+    "name": "ROPER TECHNOLOGIES INC",
+    "amount": "4.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US79466L3024",
+    "name": "SALESFORCE INC",
+    "amount": "40.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "IE00BKVD2N49",
+    "name": "SEAGATE TECHNOLOGY",
+    "amount": "8.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US81762P1021",
+    "name": "SERVICENOW INC",
+    "amount": "8.48",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US83088M1027",
+    "name": "SKYWORKS SOLUTIONS INC",
+    "amount": "6.57",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8716071076",
+    "name": "SYNOPSYS INC",
+    "amount": "6.29",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CH0102993182",
+    "name": "TE CONNECTIVITY LTD",
+    "amount": "12.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US81369Y8030",
+    "name": "TECHNOLOGY SELECT SECT SPDR",
+    "amount": "211.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8793601050",
+    "name": "TELEDYNE TECHNOLOGIES INC",
+    "amount": "1.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8807701029",
+    "name": "TERADYNE INC",
+    "amount": "6.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8825081040",
+    "name": "TEXAS INSTRUMENTS",
+    "amount": "37.57",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8962391004",
+    "name": "TRIMBLE NAVIGATION LTD",
+    "amount": "10.29",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9022521051",
+    "name": "TYLER TECHNOLOGIES INC",
+    "amount": "1.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92343E1029",
+    "name": "VeriSign Inc",
+    "amount": "3.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9581021055",
+    "name": "WESTERN DIGITAL",
+    "amount": "13.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9892071054",
+    "name": "ZEBRA TECHNOLOGIES",
+    "amount": "2.14",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "3475635",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "549299794",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
