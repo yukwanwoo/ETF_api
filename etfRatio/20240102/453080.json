@@ -1,0 +1,826 @@
+[
+  {
+    "code": "US00724F1012",
+    "name": "ADOBE INC",
+    "amount": "38.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0079031078",
+    "name": "ADVANCED MICRO DEVICES",
+    "amount": "135.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0090661010",
+    "name": "AIRBNB INC-CLASS A",
+    "amount": "36.41",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US02079K3059",
+    "name": "ALPHABET INC-CL A",
+    "amount": "191.87",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US02079K1079",
+    "name": "ALPHABET INC-CL C",
+    "amount": "185.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0231351067",
+    "name": "AMAZON.COM INC",
+    "amount": "335.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0255371017",
+    "name": "AMERICAN ELECTRIC POWER",
+    "amount": "44.04",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0311621009",
+    "name": "AMGEN INC",
+    "amount": "44.82",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0326541051",
+    "name": "ANALOG DEVICES INC",
+    "amount": "41.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US03662Q1058",
+    "name": "ANSYS INC",
+    "amount": "7.27",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0378331005",
+    "name": "APPLE INC",
+    "amount": "504.25",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0382221051",
+    "name": "APPLIED MATERIALS INC",
+    "amount": "70.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "USN070592100",
+    "name": "ASML HOLDING NV-NY REG SHS",
+    "amount": "7.35",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0463531089",
+    "name": "ASTRAZENECA PLC-SPONS ADR",
+    "amount": "48.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0494681010",
+    "name": "ATLASSIAN CORP-CL A",
+    "amount": "12.98",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0527691069",
+    "name": "AUTODESK INC",
+    "amount": "17.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0530151036",
+    "name": "AUTOMATIC DATA PROCESSING",
+    "amount": "34.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US05722G1004",
+    "name": "BAKER HUGHES CO",
+    "amount": "84.26",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US09062X1037",
+    "name": "BIOGEN INC",
+    "amount": "12.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US09857L1089",
+    "name": "BOOKING HOLDINGS INC",
+    "amount": "2.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US11135F1012",
+    "name": "BROADCOM INC",
+    "amount": "39.12",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1273871087",
+    "name": "CADENCE DESIGN SYS INC",
+    "amount": "22.78",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US12514G1085",
+    "name": "CDW CORP/DE",
+    "amount": "11.22",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US16119P1084",
+    "name": "CHARTER COMMUNICATIONS INC-A",
+    "amount": "12.39",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1729081059",
+    "name": "CINTAS CORP",
+    "amount": "8.53",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US17275R1023",
+    "name": "CISCO SYSTEMS INC",
+    "amount": "340.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "GB00BDCPN049",
+    "name": "COCA-COLA EUROPACIFIC PARTNE",
+    "amount": "38.25",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1924461023",
+    "name": "COGNIZANT TECH SOLUTIONS-A",
+    "amount": "41.99",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US20030N1019",
+    "name": "COMCAST CORP-CLASS A",
+    "amount": "336.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US21037T1097",
+    "name": "CONSTELLATION ENERGY",
+    "amount": "26.75",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2172041061",
+    "name": "COPART INC",
+    "amount": "80.41",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US22160N1090",
+    "name": "COSTAR GROUP INC",
+    "amount": "34.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US22160K1051",
+    "name": "COSTCO WHOLESALE CORP",
+    "amount": "37.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US22788C1053",
+    "name": "CROWDSTRIKE HOLDINGS INC - A",
+    "amount": "19.06",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1264081035",
+    "name": "CSX CORP",
+    "amount": "165.48",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US23804L1035",
+    "name": "DATADOG INC - CLASS A",
+    "amount": "25.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2521311074",
+    "name": "DEXCOM INC",
+    "amount": "32.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US25278X1090",
+    "name": "DIAMONDBACK ENERGY INC",
+    "amount": "14.99",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2567461080",
+    "name": "DOLLAR TREE INC",
+    "amount": "18.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US25809K1051",
+    "name": "DOORDASH INC - A",
+    "amount": "31.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2855121099",
+    "name": "ELECTRONIC ARTS INC",
+    "amount": "22.54",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US30161N1019",
+    "name": "EXELON CORP",
+    "amount": "83.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3119001044",
+    "name": "FASTENAL CO",
+    "amount": "47.85",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US34959E1091",
+    "name": "FORTINET INC",
+    "amount": "64.31",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US36266G1076",
+    "name": "GE HEALTHCARE TECHNOLOGY",
+    "amount": "38.12",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3755581036",
+    "name": "GILEAD SCIENCES INC",
+    "amount": "104.35",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG393871085",
+    "name": "GLOBALFOUNDRIES INC",
+    "amount": "45.87",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4385161066",
+    "name": "HONEYWELL INTERNATIONAL INC",
+    "amount": "55.21",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US45168D1046",
+    "name": "IDEXX LABORATORIES INC",
+    "amount": "6.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4523271090",
+    "name": "ILLUMINA INC",
+    "amount": "13.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4581401001",
+    "name": "INTEL CORP",
+    "amount": "353.06",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4612021034",
+    "name": "INTUIT INC",
+    "amount": "23.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US46120E6023",
+    "name": "INTUITIVE SURGICAL INC",
+    "amount": "29.48",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US49271V1008",
+    "name": "KEURIG DR PEPPER INC",
+    "amount": "117.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4824801009",
+    "name": "KLA CORP",
+    "amount": "11.38",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5007541064",
+    "name": "KRAFT HEINZ CO/THE",
+    "amount": "102.71",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5128071082",
+    "name": "LAM RESEARCH CORP",
+    "amount": "11.04",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5500211090",
+    "name": "LULULEMON ATHLETICA INC",
+    "amount": "10.17",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5719032022",
+    "name": "MARRIOTT INTERNATIONAL -CL A",
+    "amount": "24.59",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5738741041",
+    "name": "MARVELL TECHNOLOGY INC",
+    "amount": "72.25",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US58733R1023",
+    "name": "MERCADOLIBRE INC",
+    "amount": "4.23",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US30303M1027",
+    "name": "META PLATFORMS INC-CLASS A",
+    "amount": "114.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5950171042",
+    "name": "MICROCHIP TECHNOLOGY INC",
+    "amount": "45.31",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5951121038",
+    "name": "MICRON TECHNOLOGY INC",
+    "amount": "92.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5949181045",
+    "name": "MICROSOFT CORP",
+    "amount": "240.97",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US60770K1079",
+    "name": "MODERNA INC",
+    "amount": "31.93",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6092071058",
+    "name": "MONDELEZ INTERNATIONAL INC-A",
+    "amount": "113.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US60937P1066",
+    "name": "MONGODB INC",
+    "amount": "5.97",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US61174X1090",
+    "name": "MONSTER BEVERAGE CORP",
+    "amount": "87.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US64110L1061",
+    "name": "NETFLIX INC",
+    "amount": "36.65",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US67066G1040",
+    "name": "NVIDIA CORP",
+    "amount": "80.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0009538784",
+    "name": "NXP SEMICONDUCTORS NV",
+    "amount": "21.59",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6795801009",
+    "name": "OLD DOMINION FREIGHT LINE",
+    "amount": "9.14",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6821891057",
+    "name": "ON SEMICONDUCTOR",
+    "amount": "36.07",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US67103H1077",
+    "name": "OREILLY AUTOMOTIVE INC",
+    "amount": "4.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6937181088",
+    "name": "PACCAR INC",
+    "amount": "43.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6974351057",
+    "name": "PALO ALTO NETWORKS INC",
+    "amount": "26.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7043261079",
+    "name": "PAYCHEX INC",
+    "amount": "30.25",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US70450Y1038",
+    "name": "PAYPAL HOLDINGS INC",
+    "amount": "90.29",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7223041028",
+    "name": "PDD HOLDINGS INC",
+    "amount": "55.93",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7134481081",
+    "name": "PEPSICO INC",
+    "amount": "115.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7475251036",
+    "name": "QUALCOMM INC",
+    "amount": "93.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US75886F1075",
+    "name": "REGENERON PHARMACEUTICALS",
+    "amount": "8.97",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7766961061",
+    "name": "ROPER TECHNOLOGIES INC",
+    "amount": "8.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7782961038",
+    "name": "ROSS STORES INC",
+    "amount": "28.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US82968B1035",
+    "name": "SIRIUS XM HOLDINGS INC",
+    "amount": "321.48",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8486371045",
+    "name": "SPLUNK INC",
+    "amount": "14.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8552441094",
+    "name": "STARBUCKS CORP",
+    "amount": "95.19",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8716071076",
+    "name": "SYNOPSYS INC",
+    "amount": "12.74",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8725901040",
+    "name": "T-MOBILE US INC",
+    "amount": "96.85",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8740541094",
+    "name": "TAKE-TWO INTERACTIVE SOFTWRE",
+    "amount": "14.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US88160R1014",
+    "name": "TESLA INC",
+    "amount": "156.01",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8825081040",
+    "name": "TEXAS INSTRUMENTS INC",
+    "amount": "76.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US88339J1051",
+    "name": "TRADE DESK INC/THE -CLASS A",
+    "amount": "37.37",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92345Y1064",
+    "name": "VERISK ANALYTICS INC",
+    "amount": "12.14",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92532F1003",
+    "name": "VERTEX PHARMACEUTICALS INC",
+    "amount": "21.58",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9314271084",
+    "name": "WALGREENS BOOTS ALLIANCE INC",
+    "amount": "72.35",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9344231041",
+    "name": "WARNER BROS DISCOVERY INC",
+    "amount": "204.21",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98138H1014",
+    "name": "WORKDAY INC-CLASS A",
+    "amount": "17.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98389B1008",
+    "name": "XCEL ENERGY INC",
+    "amount": "46.21",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98980G1022",
+    "name": "ZSCALER INC",
+    "amount": "12.42",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "30259840",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "1392915765",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
