@@ -1,0 +1,42 @@
+[
+  {
+    "code": "US74347B4251",
+    "name": "PROSHARES SHORT S&P500",
+    "amount": "1008.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "ESH4",
+    "name": "S&P500 EMINI FUT MAR24",
+    "amount": "-0.61",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-189941469"
+  },
+  {
+    "code": "KR4175V10001",
+    "name": "미국달러 F 202401",
+    "amount": "-3.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "-45055500"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "155885623",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "172672693",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
