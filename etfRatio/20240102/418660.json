@@ -1,0 +1,74 @@
+[
+  {
+    "code": "NQH4",
+    "name": "NASDAQ 100 E-MINI MAR 24",
+    "amount": "0.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "57308852"
+  },
+  {
+    "code": "USDZZ0000001",
+    "name": "[USD] 예금",
+    "amount": "42700.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "54997600"
+  },
+  {
+    "code": "KRYZTRSC7B12",
+    "name": "미국나스닥100 TRS 1",
+    "amount": "24405435.81",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "24405435"
+  },
+  {
+    "code": "KRYZTRSCAY04",
+    "name": "미국나스닥100 TRS 2",
+    "amount": "66409380.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "66409380"
+  },
+  {
+    "code": "KRYZTRSDB301",
+    "name": "미국나스닥100 TRS 231103-01",
+    "amount": "12174184.59",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "12174184"
+  },
+  {
+    "code": "KRYZTRSCBM01",
+    "name": "미국나스닥100 TRS 3",
+    "amount": "33837488.31",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "33837488"
+  },
+  {
+    "code": "KRYZTRSCCN01",
+    "name": "미국나스닥100 TRS 4",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "512023240",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "703847327",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
