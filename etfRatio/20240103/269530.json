@@ -1,0 +1,634 @@
+[
+  {
+    "code": "FR0010340141",
+    "name": "ADP",
+    "amount": "93.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "ES0105046009",
+    "name": "AENA SME SA",
+    "amount": "159.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0255371017",
+    "name": "AMERICAN ELECTRIC POWER",
+    "amount": "108.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0304201033",
+    "name": "AMERICAN WATER WORKS CO INC",
+    "amount": "40.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000001X0",
+    "name": "ANHUI EXPRESSWAY CO LTD-H",
+    "amount": "709.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US03676B1026",
+    "name": "ANTERO MIDSTREAM CORP",
+    "amount": "105.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "AU0000013559",
+    "name": "ATLAS ARTERIA",
+    "amount": "2669.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NZAIAE0002S6",
+    "name": "AUCKLAND INTL AIRPORT LTD",
+    "amount": "3092.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000221",
+    "name": "BEIJING CAPITAL INTL AIRPO-H",
+    "amount": "4079.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US15234Q2075",
+    "name": "CENTRAIS ELETRICAS BR-SP ADR",
+    "amount": "217.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100001T80",
+    "name": "CGN POWER CO LTD-H",
+    "amount": "2229.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US16411R2085",
+    "name": "CHENIERE ENERGY INC",
+    "amount": "74.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "BMG2109G1033",
+    "name": "CHINA GAS HOLDINGS LTD",
+    "amount": "617.60",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000HD4",
+    "name": "CHINA LONGYUAN POWER GROUP-H",
+    "amount": "702.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "HK0144000764",
+    "name": "CHINA MERCHANTS PORT HOLDING",
+    "amount": "3021.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "BMG2113B1081",
+    "name": "CHINA RESOURCES GAS GROUP LT",
+    "amount": "189.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "HK0836012952",
+    "name": "CHINA RESOURCES POWER HOLDIN",
+    "amount": "374.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2044096012",
+    "name": "CIA ENERGETICA DE-SPON ADR",
+    "amount": "308.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US20441B7047",
+    "name": "CIA PARANAENSE DE ENER-ADR",
+    "amount": "19.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US20441A1025",
+    "name": "CIA SANEAMENTO BASICO DE-ADR",
+    "amount": "71.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US20441B6056",
+    "name": "COMPANHIA PARANAENSE DE ENER",
+    "amount": "77.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2091151041",
+    "name": "CONSOLIDATED EDISON INC",
+    "amount": "72.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US21037T1097",
+    "name": "CONSTELLATION ENERGY",
+    "amount": "67.60",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "LU1756447840",
+    "name": "CORP AMERICA AIRPORTS SA",
+    "amount": "69.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "BMG8114Z1014",
+    "name": "COSCO SHIPPING INTERNATIONAL",
+    "amount": "1003.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "BMG2442N1048",
+    "name": "COSCO SHIPPING PORTS LTD",
+    "amount": "3468.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "AU0000120628",
+    "name": "DALRYMPLE BAY INFRASTRUCTURE",
+    "amount": "596.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US25746U1097",
+    "name": "DOMINION ENERGY INC",
+    "amount": "175.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US23345M1071",
+    "name": "DT MIDSTREAM INC",
+    "amount": "29.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US26441C2044",
+    "name": "DUKE ENERGY CORP",
+    "amount": "162.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "DE000ENAG999",
+    "name": "E.ON SE",
+    "amount": "472.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2810201077",
+    "name": "EDISON INTERNATIONAL",
+    "amount": "80.60",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "IT0005176406",
+    "name": "ENAV SPA",
+    "amount": "600.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA29250N1050",
+    "name": "ENBRIDGE INC",
+    "amount": "652.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "IT0003128367",
+    "name": "ENEL SPA",
+    "amount": "1624.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "FR0010208488",
+    "name": "ENGIE",
+    "amount": "368.60",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2946001011",
+    "name": "EQUITRANS MIDSTREAM CORP",
+    "amount": "133.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US30161N1019",
+    "name": "EXELON CORP",
+    "amount": "209.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CH0319416936",
+    "name": "FLUGHAFEN ZURICH AG-REG",
+    "amount": "44.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "DE0005773303",
+    "name": "FRAPORT AG FRANKFURT AIRPORT",
+    "amount": "85.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "FR0010533075",
+    "name": "GETLINK SE",
+    "amount": "765.60",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4005011022",
+    "name": "GRUPO AEROPORTUARIO CEN-ADR",
+    "amount": "81.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4005061019",
+    "name": "GRUPO AEROPORTUARIO PAC-ADR",
+    "amount": "92.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US40051E2028",
+    "name": "GRUPO AEROPORTUARIO SUR-ADR",
+    "amount": "42.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "SG2D00968206",
+    "name": "HUTCHISON PORT HOLDINGS TR-U",
+    "amount": "11714.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "ES0144580Y14",
+    "name": "IBERDROLA SA",
+    "amount": "1214.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4642883726",
+    "name": "ISHARES GLOBAL INFRASTRUCTUR",
+    "amount": "395.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3151600008",
+    "name": "IWATANI CORP",
+    "amount": "16.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3699400002",
+    "name": "JAPAN AIRPORT TERMINAL CO",
+    "amount": "219.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000003J5",
+    "name": "JIANGSU EXPRESS CO LTD-H",
+    "amount": "2883.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA4932711001",
+    "name": "KEYERA CORP",
+    "amount": "70.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US49456B1017",
+    "name": "KINDER MORGAN INC",
+    "amount": "598.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "BMG5320C1082",
+    "name": "KUNLUN ENERGY CO LTD",
+    "amount": "837.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "GB00BDR05C01",
+    "name": "NATIONAL GRID PLC",
+    "amount": "777.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US65339F1012",
+    "name": "NEXTERA ENERGY INC",
+    "amount": "365.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6826801036",
+    "name": "ONEOK INC",
+    "amount": "138.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA7063271034",
+    "name": "PEMBINA PIPELINE CORP",
+    "amount": "169.60",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7445731067",
+    "name": "PUBLIC SERVICE ENTERPRISE GP",
+    "amount": "105.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "AU000000QUB5",
+    "name": "QUBE HOLDINGS LTD",
+    "amount": "4165.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "DE0007037129",
+    "name": "RWE AG",
+    "amount": "142.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "SG1I52882764",
+    "name": "SATS LTD",
+    "amount": "2461.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "MHY7542C1306",
+    "name": "SCORPIO TANKERS INC",
+    "amount": "14.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8168511090",
+    "name": "SEMPRA",
+    "amount": "132.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE100000478",
+    "name": "SHENZHEN EXPRESSWAY CORP-H",
+    "amount": "1446.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "BMG8086V1467",
+    "name": "SHENZHEN INTL HOLDINGS",
+    "amount": "3161.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "SG1I53882771",
+    "name": "SIA ENGINEERING CO LTD",
+    "amount": "610.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8425871071",
+    "name": "SOUTHERN CO/THE",
+    "amount": "229.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US87612G1013",
+    "name": "TARGA RESOURCES CORP",
+    "amount": "69.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA87807B1076",
+    "name": "TC ENERGY CORP",
+    "amount": "318.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "AU000000TCL6",
+    "name": "TRANSURBAN GROUP",
+    "amount": "2887.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US90400P1012",
+    "name": "ULTRAPAR PARTICPAC-SPON ADR",
+    "amount": "223.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92939U1060",
+    "name": "WEC ENERGY GROUP INC",
+    "amount": "66.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA96145A2002",
+    "name": "WESTSHORE TERMINALS INVESTME",
+    "amount": "81.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9694571004",
+    "name": "WILLIAMS COS INC",
+    "amount": "375.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98389B1008",
+    "name": "XCEL ENERGY INC",
+    "amount": "115.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "BMG9880L1028",
+    "name": "YUEXIU TRANSPORT INFRASTRUCT",
+    "amount": "2210.60",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CNE1000004S4",
+    "name": "ZHEJIANG EXPRESSWAY CO-H",
+    "amount": "2827.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "11436358",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "703375149",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
