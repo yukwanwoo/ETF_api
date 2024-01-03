@@ -1,0 +1,538 @@
+[
+  {
+    "code": "US0028241000",
+    "name": "ABBOTT LABORATORIES",
+    "amount": "134.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US00287Y1091",
+    "name": "ABBVIE INC",
+    "amount": "137.06",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US00846U1016",
+    "name": "AGILENT TECHNOLOGIES INC",
+    "amount": "22.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0162551016",
+    "name": "ALIGN TECHNOLOGY",
+    "amount": "5.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0311621009",
+    "name": "AMGEN INC",
+    "amount": "41.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0718131099",
+    "name": "BAXTER INTERNATIONAL INC",
+    "amount": "39.39",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0758871091",
+    "name": "BECTON DICKINSON AND CO",
+    "amount": "22.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0905722072",
+    "name": "BIO-RAD LABORATORIES-A",
+    "amount": "1.61",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US09073M1045",
+    "name": "BIO-TECHNE CORP",
+    "amount": "12.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US09062X1037",
+    "name": "BIOGEN",
+    "amount": "11.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1011371077",
+    "name": "BOSTON SCIENTIFIC CORP",
+    "amount": "113.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1101221083",
+    "name": "BRISTOL-MYERS SQUIBB CO",
+    "amount": "158.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US14149Y1082",
+    "name": "CARDINAL HEALTH INC",
+    "amount": "19.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1488061029",
+    "name": "CATALENT INC",
+    "amount": "14.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US15135B1017",
+    "name": "CENTENE CORP",
+    "amount": "41.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1598641074",
+    "name": "CHARLES RIVER LABORATORIES",
+    "amount": "4.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1255231003",
+    "name": "CIGNA CORP",
+    "amount": "22.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2166484020",
+    "name": "COOPER COS INC/THE",
+    "amount": "3.83",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1266501006",
+    "name": "CVS HEALTH CORP",
+    "amount": "99.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US03073E1055",
+    "name": "Cencora Inc",
+    "amount": "12.94",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2358511028",
+    "name": "DANAHER CORP",
+    "amount": "51.06",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US23918K1088",
+    "name": "DAVITA HEALTHCARE PARTNERS I",
+    "amount": "4.17",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US24906P1093",
+    "name": "DENTSPLY SIRONA INC",
+    "amount": "16.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2521311074",
+    "name": "DEXCOM",
+    "amount": "30.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US28176E1082",
+    "name": "EDWARDS LIFESCIENCES CORP",
+    "amount": "47.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0367521038",
+    "name": "ELEVANCE HEALTH",
+    "amount": "18.22",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5324571083",
+    "name": "ELI LILLY & CO",
+    "amount": "61.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US36266G1076",
+    "name": "GE HealthCare Technologies Inc",
+    "amount": "30.39",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3755581036",
+    "name": "GILEAD SCIENCES INC",
+    "amount": "96.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US40412C1018",
+    "name": "HCA HOLDINGS INC",
+    "amount": "15.39",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4448591028",
+    "name": "HUMANA INC",
+    "amount": "9.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US81369Y2090",
+    "name": "Health Care Select Sector SPDR",
+    "amount": "166.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8064071025",
+    "name": "Henry Schein Inc",
+    "amount": "10.17",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4364401012",
+    "name": "Hologic Inc",
+    "amount": "19.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US45168D1046",
+    "name": "IDEXX LABORATORIES INC",
+    "amount": "6.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4523271090",
+    "name": "ILLUMINA INC",
+    "amount": "12.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US45337C1027",
+    "name": "INCYTE CORP",
+    "amount": "14.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US45784P1012",
+    "name": "INSULET CORP",
+    "amount": "5.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US46266C1053",
+    "name": "IQVIA HOLDINGS",
+    "amount": "14.22",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US46120E6023",
+    "name": "Intuitive Surgical Inc",
+    "amount": "27.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4781601046",
+    "name": "JOHNSON & JOHNSON",
+    "amount": "186.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US50540R4092",
+    "name": "LABORATORY CRP OF AMER HLDGS",
+    "amount": "6.61",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US58155Q1031",
+    "name": "MCKESSON CORP",
+    "amount": "10.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "IE00BTN1Y115",
+    "name": "MEDTRONIC PLC",
+    "amount": "103.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US58933Y1055",
+    "name": "MERCK & CO. INC.",
+    "amount": "196.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5926881054",
+    "name": "METTLER-TOLEDO INTERNATIONAL",
+    "amount": "1.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US60770K1079",
+    "name": "MODERNA INC",
+    "amount": "25.78",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US60855R1005",
+    "name": "MOLINA HEALTHCAR",
+    "amount": "4.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7170811035",
+    "name": "PFIZER INC",
+    "amount": "438.39",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US74834L1008",
+    "name": "QUEST DIAGNOSTICS INC",
+    "amount": "8.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US75886F1075",
+    "name": "REGENERON PHARM",
+    "amount": "8.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7611521078",
+    "name": "RESMED INC",
+    "amount": "11.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7140461093",
+    "name": "Revvity inc",
+    "amount": "9.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "IE00BFY8C754",
+    "name": "STERIS PLC",
+    "amount": "7.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8636671013",
+    "name": "STRYKER CORP",
+    "amount": "26.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8793691069",
+    "name": "TELEFLEX INC",
+    "amount": "3.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8835561023",
+    "name": "THERMO FISHER SCIENTIFIC INC",
+    "amount": "30.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US91324P1021",
+    "name": "UNITEDHEALTH GROUP INC",
+    "amount": "71.83",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9139031002",
+    "name": "UNIVERSAL HEALTH SERVICES-B",
+    "amount": "4.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92556V1061",
+    "name": "VIATRIS Inc.",
+    "amount": "93.17",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US92532F1003",
+    "name": "Vertex Pharmaceuticals Inc",
+    "amount": "20.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9418481035",
+    "name": "WATERS CORP",
+    "amount": "4.61",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9553061055",
+    "name": "WEST PHARMACEUTICAL SERVICES",
+    "amount": "5.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98956P1021",
+    "name": "ZIMMER BIOMET HOLDINGS INC",
+    "amount": "16.22",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98978V1035",
+    "name": "ZOETIS INC",
+    "amount": "35.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "3940376",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "543580344",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
