@@ -1,0 +1,418 @@
+[
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "157.00",
+    "price": "21461900",
+    "ratio": "",
+    "totalPrice": "21477600"
+  },
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "256.00",
+    "price": "19584000",
+    "ratio": "",
+    "totalPrice": "19712000"
+  },
+  {
+    "code": "042700",
+    "name": "한미반도체",
+    "amount": "37.00",
+    "price": "2168200",
+    "ratio": "",
+    "totalPrice": "2201500"
+  },
+  {
+    "code": "058470",
+    "name": "리노공업",
+    "amount": "7.00",
+    "price": "1463000",
+    "ratio": "",
+    "totalPrice": "1498000"
+  },
+  {
+    "code": "000990",
+    "name": "DB하이텍",
+    "amount": "26.00",
+    "price": "1354600",
+    "ratio": "",
+    "totalPrice": "1365000"
+  },
+  {
+    "code": "039030",
+    "name": "이오테크닉스",
+    "amount": "6.00",
+    "price": "873000",
+    "ratio": "",
+    "totalPrice": "879600"
+  },
+  {
+    "code": "240810",
+    "name": "원익IPS",
+    "amount": "22.00",
+    "price": "735900",
+    "ratio": "",
+    "totalPrice": "745800"
+  },
+  {
+    "code": "098460",
+    "name": "고영",
+    "amount": "36.00",
+    "price": "617760",
+    "ratio": "",
+    "totalPrice": "601920"
+  },
+  {
+    "code": "108320",
+    "name": "LX세미콘",
+    "amount": "7.00",
+    "price": "583100",
+    "ratio": "",
+    "totalPrice": "591500"
+  },
+  {
+    "code": "140860",
+    "name": "파크시스템스",
+    "amount": "3.00",
+    "price": "557400",
+    "ratio": "",
+    "totalPrice": "545400"
+  },
+  {
+    "code": "US0382221051",
+    "name": "APPLIED MATERIALS INC",
+    "amount": "34.14",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003711008",
+    "name": "ASE Technology holding Co Ltd",
+    "amount": "138.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0000334118",
+    "name": "ASM International NV",
+    "amount": "1.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0010273215",
+    "name": "ASML Holding NV",
+    "amount": "16.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "SE0017486889",
+    "name": "ATLAS COPCO AB-A SHS",
+    "amount": "52.47",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0079031078",
+    "name": "Advanced Micro Devices Inc",
+    "amount": "110.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3122400009",
+    "name": "Advantest Corp",
+    "amount": "30.90",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0326541051",
+    "name": "Analog Devices Inc",
+    "amount": "20.39",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US11135F1012",
+    "name": "BROADCOM INC",
+    "amount": "19.29",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3548600000",
+    "name": "DISCO",
+    "amount": "3.59",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US29362U1043",
+    "name": "Entegris Inc",
+    "amount": "6.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3837800006",
+    "name": "HOYA",
+    "amount": "7.14",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4581401001",
+    "name": "INTEL CORP",
+    "amount": "263.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "DE0006231004",
+    "name": "Infineon Technologies AG",
+    "amount": "52.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4824801009",
+    "name": "KLA-TENCOR CORP",
+    "amount": "5.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5128071082",
+    "name": "Lam Research Corp",
+    "amount": "5.41",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3979200007",
+    "name": "Lasertec Corp",
+    "amount": "3.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5184151042",
+    "name": "Lattice Semiconductor Corp",
+    "amount": "40.21",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5950171042",
+    "name": "MICROCHIP TECHNOLOGY INC",
+    "amount": "22.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US55306N1046",
+    "name": "MKS Instruments Inc",
+    "amount": "2.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5738741041",
+    "name": "Marvell Technology Inc",
+    "amount": "83.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002454006",
+    "name": "MediaTek Incorporation TWD10",
+    "amount": "153.70",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5951121038",
+    "name": "Micron Technology Inc",
+    "amount": "44.53",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6098391054",
+    "name": "Monolithic Power Systems Inc",
+    "amount": "1.94",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US67066G1040",
+    "name": "NVIDIA",
+    "amount": "39.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0009538784",
+    "name": "NXP Semiconductors NV",
+    "amount": "10.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6821891057",
+    "name": "ON SEMICONDUCTOR CORP",
+    "amount": "17.54",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7475251036",
+    "name": "QUALCOMM",
+    "amount": "74.17",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3982800009",
+    "name": "ROHM COMPANY LIMITED",
+    "amount": "14.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3164720009",
+    "name": "Renesas Electronics Corp",
+    "amount": "57.67",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0000226223",
+    "name": "STMicroelectronics NV",
+    "amount": "26.59",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US83088M1027",
+    "name": "Skyworks Solutions Inc",
+    "amount": "6.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CH0102993182",
+    "name": "TE CONNECTIVITY LTD",
+    "amount": "12.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8825081040",
+    "name": "TEXAS INSTRUMENTS",
+    "amount": "36.91",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3571400005",
+    "name": "TOKYO ELECTRON LTD",
+    "amount": "19.03",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002330008",
+    "name": "Taiwan Semiconductor Manufact",
+    "amount": "994.54",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8807701029",
+    "name": "Teradyne Inc",
+    "amount": "6.26",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002303005",
+    "name": "United Microelectronics Corp.",
+    "amount": "472.46",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CH0311864901",
+    "name": "VAT Group AG",
+    "amount": "1.09",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9778521024",
+    "name": "WOLFSPEED Inc",
+    "amount": "5.06",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "703452",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "278361907",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
