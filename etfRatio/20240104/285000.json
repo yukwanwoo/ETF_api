@@ -1,0 +1,106 @@
+[
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "449.00",
+    "price": "62051800",
+    "ratio": "21.41",
+    "totalPrice": "61423200"
+  },
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "795.00",
+    "price": "61135500",
+    "ratio": "21.09",
+    "totalPrice": "61215000"
+  },
+  {
+    "code": "006400",
+    "name": "삼성SDI",
+    "amount": "111.00",
+    "price": "49617000",
+    "ratio": "17.12",
+    "totalPrice": "49561500"
+  },
+  {
+    "code": "066570",
+    "name": "LG전자",
+    "amount": "266.00",
+    "price": "26068000",
+    "ratio": "8.99",
+    "totalPrice": "26467000"
+  },
+  {
+    "code": "009150",
+    "name": "삼성전기",
+    "amount": "136.00",
+    "price": "21012000",
+    "ratio": "7.25",
+    "totalPrice": "20944000"
+  },
+  {
+    "code": "003550",
+    "name": "LG",
+    "amount": "229.00",
+    "price": "18709300",
+    "ratio": "6.45",
+    "totalPrice": "18709300"
+  },
+  {
+    "code": "018260",
+    "name": "삼성에스디에스",
+    "amount": "93.00",
+    "price": "15261300",
+    "ratio": "5.27",
+    "totalPrice": "15205500"
+  },
+  {
+    "code": "402340",
+    "name": "SK스퀘어",
+    "amount": "236.00",
+    "price": "11564000",
+    "ratio": "3.99",
+    "totalPrice": "11670200"
+  },
+  {
+    "code": "011070",
+    "name": "LG이노텍",
+    "amount": "35.00",
+    "price": "7962500",
+    "ratio": "2.75",
+    "totalPrice": "7945000"
+  },
+  {
+    "code": "034220",
+    "name": "LG디스플레이",
+    "amount": "555.00",
+    "price": "7237200",
+    "ratio": "2.50",
+    "totalPrice": "7370400"
+  },
+  {
+    "code": "000990",
+    "name": "DB하이텍",
+    "amount": "86.00",
+    "price": "4540800",
+    "ratio": "1.57",
+    "totalPrice": "4515000"
+  },
+  {
+    "code": "020150",
+    "name": "롯데에너지머티리얼즈",
+    "amount": "50.00",
+    "price": "2025000",
+    "ratio": "0.70",
+    "totalPrice": "2047500"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "2671707",
+    "ratio": "0.92",
+    "totalPrice": ""
+  }
+]
