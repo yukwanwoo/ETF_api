@@ -1,0 +1,42 @@
+[
+  {
+    "code": "USDZZ0000001",
+    "name": "USD현금",
+    "amount": "15138.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "19752231"
+  },
+  {
+    "code": "SWAP00000009",
+    "name": "스왑(삼성증권)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "25820411"
+  },
+  {
+    "code": "SWAP00000008",
+    "name": "스왑(신한투자증권)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "29447680"
+  },
+  {
+    "code": "SWAP00000011",
+    "name": "스왑(키움증권)",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "27028543"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
