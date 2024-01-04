@@ -1,0 +1,442 @@
+[
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "5364.00",
+    "price": "410882400",
+    "ratio": "",
+    "totalPrice": "413028000"
+  },
+  {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "amount": "1026.00",
+    "price": "140562000",
+    "ratio": "",
+    "totalPrice": "140356800"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "287.00",
+    "price": "64001000",
+    "ratio": "",
+    "totalPrice": "63714000"
+  },
+  {
+    "code": "006400",
+    "name": "삼성SDI",
+    "amount": "100.00",
+    "price": "44550000",
+    "ratio": "",
+    "totalPrice": "44650000"
+  },
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "576.00",
+    "price": "32716800",
+    "ratio": "",
+    "totalPrice": "32601600"
+  },
+  {
+    "code": "009150",
+    "name": "삼성전기",
+    "amount": "105.00",
+    "price": "16107000",
+    "ratio": "",
+    "totalPrice": "16170000"
+  },
+  {
+    "code": "259960",
+    "name": "크래프톤",
+    "amount": "63.00",
+    "price": "12360600",
+    "ratio": "",
+    "totalPrice": "12272400"
+  },
+  {
+    "code": "018260",
+    "name": "삼성에스디에스",
+    "amount": "75.00",
+    "price": "12270000",
+    "ratio": "",
+    "totalPrice": "12262500"
+  },
+  {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "amount": "204.00",
+    "price": "10098000",
+    "ratio": "",
+    "totalPrice": "10067400"
+  },
+  {
+    "code": "066970",
+    "name": "엘앤에프",
+    "amount": "48.00",
+    "price": "9648000",
+    "ratio": "",
+    "totalPrice": "9316800"
+  },
+  {
+    "code": "352820",
+    "name": "하이브",
+    "amount": "35.00",
+    "price": "8330000",
+    "ratio": "",
+    "totalPrice": "8382500"
+  },
+  {
+    "code": "030200",
+    "name": "KT",
+    "amount": "241.00",
+    "price": "8085550",
+    "ratio": "",
+    "totalPrice": "8097600"
+  },
+  {
+    "code": "036570",
+    "name": "엔씨소프트",
+    "amount": "30.00",
+    "price": "6855000",
+    "ratio": "",
+    "totalPrice": "6900000"
+  },
+  {
+    "code": "011070",
+    "name": "LG이노텍",
+    "amount": "27.00",
+    "price": "6183000",
+    "ratio": "",
+    "totalPrice": "6129000"
+  },
+  {
+    "code": "TW0002345006",
+    "name": "ACCTON TECH",
+    "amount": "945.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002353000",
+    "name": "ACER INC",
+    "amount": "5810.81",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003711008",
+    "name": "ASE INDUSTRIAL HOLDINGS",
+    "amount": "6486.49",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002357001",
+    "name": "ASUSTEK COMPUTER",
+    "amount": "1324.32",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002409000",
+    "name": "AU OPTRINICS",
+    "amount": "13610.81",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003017000",
+    "name": "Asia Vital Components Co Ltd",
+    "amount": "621.62",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002474004",
+    "name": "CATCHER TECHNOLIGY",
+    "amount": "1297.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002412004",
+    "name": "CHUNGHWA TELECOM CO LTD",
+    "amount": "7243.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002324001",
+    "name": "COMPAL ELECTRONICS",
+    "amount": "7891.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002360005",
+    "name": "Chroma ATE Inc",
+    "amount": "756.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002308004",
+    "name": "DELTA ELECTRONICS",
+    "amount": "3648.65",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002383007",
+    "name": "Elite Material Co Ltd",
+    "amount": "567.57",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0004904008",
+    "name": "FAR EASTONE TELECOM",
+    "amount": "3027.03",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002376001",
+    "name": "Gigabyte Technology Co Ltd",
+    "amount": "945.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003443008",
+    "name": "Global Unichip Corp",
+    "amount": "162.16",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002317005",
+    "name": "HON HAI PRECISION INDUSTRY",
+    "amount": "22945.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003481008",
+    "name": "INNOLUX CO",
+    "amount": "17276.32",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002356003",
+    "name": "INVENTEC CORP",
+    "amount": "5945.95",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002449006",
+    "name": "King Yuan Electronics Co Ltd",
+    "amount": "2108.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003008009",
+    "name": "LARGAN PRECISION CO LTD",
+    "amount": "191.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002301009",
+    "name": "LITE ON TECHNOLOGY",
+    "amount": "4243.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002454006",
+    "name": "MEDIATEK INC",
+    "amount": "3054.05",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002377009",
+    "name": "MICRO STAR INT CO",
+    "amount": "1351.35",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003034005",
+    "name": "NOVATEK MICROELECTRONICS LTD",
+    "amount": "1081.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002408002",
+    "name": "Nanya Technology Corp",
+    "amount": "2243.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0004938006",
+    "name": "PEGATRON",
+    "amount": "3891.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0006770001",
+    "name": "Powerchip Semiconductor Manufacturing Co",
+    "amount": "5891.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002382009",
+    "name": "QUANTA COMPUTER",
+    "amount": "5297.30",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002379005",
+    "name": "REALTEK SEMICONDUCTOR CORP",
+    "amount": "918.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002347002",
+    "name": "SYNNEX TECHNOLOGY INTL CORP",
+    "amount": "2405.41",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003045001",
+    "name": "TAIWAN MOBILE",
+    "amount": "3270.27",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002330008",
+    "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+    "amount": "16351.35",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003044004",
+    "name": "Tripod Technology Corp",
+    "amount": "864.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002303005",
+    "name": "UNITED MICROELECTRONICS",
+    "amount": "22108.11",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003037008",
+    "name": "Unimicron Technology Corp",
+    "amount": "2432.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0006669005",
+    "name": "WIWYNN CORP",
+    "amount": "189.19",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003702007",
+    "name": "WPG Holdings Ltd",
+    "amount": "3189.19",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0003231007",
+    "name": "Wistron Corp",
+    "amount": "5513.51",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "TW0002327004",
+    "name": "YAGEO CO",
+    "amount": "623.27",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "5959395",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "2054463184",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
