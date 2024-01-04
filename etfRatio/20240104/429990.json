@@ -1,0 +1,418 @@
+[
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "70.00",
+    "price": "15610000",
+    "ratio": "",
+    "totalPrice": "15540000"
+  },
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "140.00",
+    "price": "7924000",
+    "ratio": "",
+    "totalPrice": "7924000"
+  },
+  {
+    "code": "259960",
+    "name": "크래프톤",
+    "amount": "15.00",
+    "price": "2934000",
+    "ratio": "",
+    "totalPrice": "2922000"
+  },
+  {
+    "code": "036570",
+    "name": "엔씨소프트",
+    "amount": "7.00",
+    "price": "1589000",
+    "ratio": "",
+    "totalPrice": "1610000"
+  },
+  {
+    "code": "NL0012969182",
+    "name": "ADYEN NV",
+    "amount": "1.16",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US00971T1016",
+    "name": "AKAMAI_TECHNOLOGIES",
+    "amount": "42.16",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US02079K3059",
+    "name": "ALPHABET INC-CL A",
+    "amount": "51.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US02079K1079",
+    "name": "ALPHABET INC-CL C",
+    "amount": "58.52",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0090661010",
+    "name": "Airbnb Inc",
+    "amount": "16.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG017191142",
+    "name": "Alibaba Group Holding Ltd",
+    "amount": "546.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0231351067",
+    "name": "Amazon.com Inc",
+    "amount": "115.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0404131064",
+    "name": "Arista Networks Inc",
+    "amount": "9.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0494681010",
+    "name": "Atlassian Corp PLC",
+    "amount": "5.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG070341048",
+    "name": "Baidu Inc-CLASS A",
+    "amount": "83.48",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US17275R1023",
+    "name": "CISCO_SYSTEMS",
+    "amount": "148.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US18915M1071",
+    "name": "Cloudflare Inc",
+    "amount": "41.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US22266T1097",
+    "name": "Coupang Inc",
+    "amount": "588.04",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US23804L1035",
+    "name": "Datadog Inc",
+    "amount": "11.12",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2561631068",
+    "name": "DocuSign Inc",
+    "amount": "7.48",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US25809K1051",
+    "name": "DoorDash Inc",
+    "amount": "11.20",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US26142V1052",
+    "name": "DraftKings Inc",
+    "amount": "17.16",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US2786421030",
+    "name": "EBAY INC",
+    "amount": "19.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US29786A1060",
+    "name": "Etsy Inc",
+    "amount": "4.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "IE00BWT6H894",
+    "name": "FLUTTER ENTERTAINMENT PLC",
+    "amount": "6.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US3802371076",
+    "name": "GoDaddy Inc",
+    "amount": "5.16",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG8208B1014",
+    "name": "JD.com Inc",
+    "amount": "90.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG532631028",
+    "name": "Kuaishou Technology",
+    "amount": "92.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US30303M1027",
+    "name": "META PLATFORMS Inc",
+    "amount": "47.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US57667L1070",
+    "name": "Match Group Inc",
+    "amount": "10.00",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG596691041",
+    "name": "Meituan",
+    "amount": "159.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "ZAE000325783",
+    "name": "NASPERS_CL.N",
+    "amount": "6.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG6427A1022",
+    "name": "NetEase Inc",
+    "amount": "189.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US64110L1061",
+    "name": "Netflix Inc",
+    "amount": "16.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US67059N1081",
+    "name": "Nutanix Inc",
+    "amount": "8.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US6792951054",
+    "name": "Okta Inc",
+    "amount": "5.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0013654783",
+    "name": "PROSUS NV",
+    "amount": "56.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US70450Y1038",
+    "name": "PayPal Holdings Inc",
+    "amount": "39.64",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7223041028",
+    "name": "Pinduoduo Inc",
+    "amount": "25.40",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US72352L1061",
+    "name": "Pinterest Inc",
+    "amount": "21.56",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7710491033",
+    "name": "ROBLOX Corp",
+    "amount": "17.92",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US81141R1005",
+    "name": "SEA LTD-ADR",
+    "amount": "12.64",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CA82509L1076",
+    "name": "Shopify Inc",
+    "amount": "44.48",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US83304A1060",
+    "name": "Snap Inc",
+    "amount": "37.88",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8334451098",
+    "name": "Snowflake Inc",
+    "amount": "12.12",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "LU1778762911",
+    "name": "Spotify Technology SA",
+    "amount": "5.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KYG875721634",
+    "name": "TENCENT HOLDINGS LTD",
+    "amount": "227.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US9224751084",
+    "name": "Veeva Systems Inc",
+    "amount": "5.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98138H1014",
+    "name": "Workday Inc",
+    "amount": "7.60",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98980L1017",
+    "name": "Zoom Video Communications Inc",
+    "amount": "9.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US79466L3024",
+    "name": "salesforce Inc",
+    "amount": "51.36",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "459791",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "228243909",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
