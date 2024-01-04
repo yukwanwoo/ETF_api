@@ -1,0 +1,234 @@
+[
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "2011.00",
+    "price": "114224800",
+    "ratio": "20.65",
+    "totalPrice": "113822600"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "486.00",
+    "price": "109107000",
+    "ratio": "19.73",
+    "totalPrice": "107892000"
+  },
+  {
+    "code": "008770",
+    "name": "호텔신라",
+    "amount": "721.00",
+    "price": "46360300",
+    "ratio": "8.38",
+    "totalPrice": "46504500"
+  },
+  {
+    "code": "139480",
+    "name": "이마트",
+    "amount": "472.00",
+    "price": "34786400",
+    "ratio": "6.29",
+    "totalPrice": "34786400"
+  },
+  {
+    "code": "000120",
+    "name": "CJ대한통운",
+    "amount": "256.00",
+    "price": "32614400",
+    "ratio": "5.90",
+    "totalPrice": "32025600"
+  },
+  {
+    "code": "004170",
+    "name": "신세계",
+    "amount": "167.00",
+    "price": "28607100",
+    "ratio": "5.17",
+    "totalPrice": "28724000"
+  },
+  {
+    "code": "282330",
+    "name": "BGF리테일",
+    "amount": "186.00",
+    "price": "25221600",
+    "ratio": "4.56",
+    "totalPrice": "25537800"
+  },
+  {
+    "code": "007070",
+    "name": "GS리테일",
+    "amount": "1000.00",
+    "price": "23450000",
+    "ratio": "4.24",
+    "totalPrice": "23350000"
+  },
+  {
+    "code": "035760",
+    "name": "CJ ENM",
+    "amount": "272.00",
+    "price": "18768000",
+    "ratio": "3.39",
+    "totalPrice": "19012800"
+  },
+  {
+    "code": "067160",
+    "name": "아프리카TV",
+    "amount": "192.00",
+    "price": "16204800",
+    "ratio": "2.93",
+    "totalPrice": "16512000"
+  },
+  {
+    "code": "069960",
+    "name": "현대백화점",
+    "amount": "318.00",
+    "price": "16186200",
+    "ratio": "2.93",
+    "totalPrice": "16154400"
+  },
+  {
+    "code": "376300",
+    "name": "디어유",
+    "amount": "357.00",
+    "price": "11299050",
+    "ratio": "2.04",
+    "totalPrice": "11299050"
+  },
+  {
+    "code": "181710",
+    "name": "NHN",
+    "amount": "333.00",
+    "price": "7559100",
+    "ratio": "1.37",
+    "totalPrice": "7625700"
+  },
+  {
+    "code": "057050",
+    "name": "현대홈쇼핑",
+    "amount": "158.00",
+    "price": "6707100",
+    "ratio": "1.21",
+    "totalPrice": "6699200"
+  },
+  {
+    "code": "093320",
+    "name": "케이아이엔엑스",
+    "amount": "70.00",
+    "price": "6447000",
+    "ratio": "1.17",
+    "totalPrice": "6559000"
+  },
+  {
+    "code": "257720",
+    "name": "실리콘투",
+    "amount": "792.00",
+    "price": "6256800",
+    "ratio": "1.13",
+    "totalPrice": "6312240"
+  },
+  {
+    "code": "119860",
+    "name": "커넥트웨이브",
+    "amount": "379.00",
+    "price": "5707740",
+    "ratio": "1.03",
+    "totalPrice": "5893450"
+  },
+  {
+    "code": "002320",
+    "name": "한진",
+    "amount": "232.00",
+    "price": "5637600",
+    "ratio": "1.02",
+    "totalPrice": "5660800"
+  },
+  {
+    "code": "064260",
+    "name": "다날",
+    "amount": "1267.00",
+    "price": "5543125",
+    "ratio": "1.00",
+    "totalPrice": "5771185"
+  },
+  {
+    "code": "060250",
+    "name": "NHN KCP",
+    "amount": "508.00",
+    "price": "5024120",
+    "ratio": "0.91",
+    "totalPrice": "5034280"
+  },
+  {
+    "code": "094480",
+    "name": "갤럭시아머니트리",
+    "amount": "421.00",
+    "price": "4694150",
+    "ratio": "0.85",
+    "totalPrice": "5052000"
+  },
+  {
+    "code": "035600",
+    "name": "KG이니시스",
+    "amount": "360.00",
+    "price": "4298400",
+    "ratio": "0.78",
+    "totalPrice": "4320000"
+  },
+  {
+    "code": "381970",
+    "name": "케이카",
+    "amount": "310.00",
+    "price": "3546400",
+    "ratio": "0.64",
+    "totalPrice": "3614600"
+  },
+  {
+    "code": "090850",
+    "name": "현대이지웰",
+    "amount": "408.00",
+    "price": "2386800",
+    "ratio": "0.43",
+    "totalPrice": "2394960"
+  },
+  {
+    "code": "046440",
+    "name": "KG모빌리언스",
+    "amount": "417.00",
+    "price": "2255970",
+    "ratio": "0.41",
+    "totalPrice": "2264310"
+  },
+  {
+    "code": "362320",
+    "name": "청담글로벌",
+    "amount": "255.00",
+    "price": "2108850",
+    "ratio": "0.38",
+    "totalPrice": "2106300"
+  },
+  {
+    "code": "216050",
+    "name": "인크로스",
+    "amount": "175.00",
+    "price": "1848000",
+    "ratio": "0.33",
+    "totalPrice": "1856750"
+  },
+  {
+    "code": "053280",
+    "name": "예스24",
+    "amount": "268.00",
+    "price": "1293100",
+    "ratio": "0.23",
+    "totalPrice": "1302480"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "4870613",
+    "ratio": "0.88",
+    "totalPrice": ""
+  }
+]
