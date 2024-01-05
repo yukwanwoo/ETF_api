@@ -1,0 +1,250 @@
+[
+  {
+    "code": "035720",
+    "name": "카카오",
+    "amount": "249.00",
+    "price": "14143200",
+    "ratio": "10.45",
+    "totalPrice": "14242800"
+  },
+  {
+    "code": "352820",
+    "name": "하이브",
+    "amount": "56.00",
+    "price": "13972000",
+    "ratio": "10.33",
+    "totalPrice": "13468000"
+  },
+  {
+    "code": "009150",
+    "name": "삼성전기",
+    "amount": "89.00",
+    "price": "13536900",
+    "ratio": "10.01",
+    "totalPrice": "13528000"
+  },
+  {
+    "code": "035420",
+    "name": "NAVER",
+    "amount": "60.00",
+    "price": "13350000",
+    "ratio": "9.87",
+    "totalPrice": "13380000"
+  },
+  {
+    "code": "259960",
+    "name": "크래프톤",
+    "amount": "64.00",
+    "price": "13216000",
+    "ratio": "9.77",
+    "totalPrice": "12832000"
+  },
+  {
+    "code": "251270",
+    "name": "넷마블",
+    "amount": "201.00",
+    "price": "11215800",
+    "ratio": "8.29",
+    "totalPrice": "11055000"
+  },
+  {
+    "code": "011070",
+    "name": "LG이노텍",
+    "amount": "47.00",
+    "price": "10645500",
+    "ratio": "7.87",
+    "totalPrice": "10763000"
+  },
+  {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "amount": "93.00",
+    "price": "9755700",
+    "ratio": "7.21",
+    "totalPrice": "9597600"
+  },
+  {
+    "code": "034220",
+    "name": "LG디스플레이",
+    "amount": "751.00",
+    "price": "9732960",
+    "ratio": "7.19",
+    "totalPrice": "9800550"
+  },
+  {
+    "code": "041510",
+    "name": "에스엠",
+    "amount": "65.00",
+    "price": "6032000",
+    "ratio": "4.46",
+    "totalPrice": "5850000"
+  },
+  {
+    "code": "263750",
+    "name": "펄어비스",
+    "amount": "111.00",
+    "price": "4129200",
+    "ratio": "3.05",
+    "totalPrice": "4084800"
+  },
+  {
+    "code": "112040",
+    "name": "위메이드",
+    "amount": "62.00",
+    "price": "3534000",
+    "ratio": "2.61",
+    "totalPrice": "3509200"
+  },
+  {
+    "code": "108860",
+    "name": "셀바스AI",
+    "amount": "78.00",
+    "price": "1649700",
+    "ratio": "1.22",
+    "totalPrice": "1614600"
+  },
+  {
+    "code": "376300",
+    "name": "디어유",
+    "amount": "49.00",
+    "price": "1575350",
+    "ratio": "1.16",
+    "totalPrice": "1553300"
+  },
+  {
+    "code": "078340",
+    "name": "컴투스",
+    "amount": "27.00",
+    "price": "1264950",
+    "ratio": "0.93",
+    "totalPrice": "1259550"
+  },
+  {
+    "code": "299900",
+    "name": "위지윅스튜디오",
+    "amount": "301.00",
+    "price": "1065540",
+    "ratio": "0.79",
+    "totalPrice": "1051995"
+  },
+  {
+    "code": "064260",
+    "name": "다날",
+    "amount": "180.00",
+    "price": "775800",
+    "ratio": "0.57",
+    "totalPrice": "771300"
+  },
+  {
+    "code": "126700",
+    "name": "하이비젼시스템",
+    "amount": "37.00",
+    "price": "694490",
+    "ratio": "0.51",
+    "totalPrice": "692640"
+  },
+  {
+    "code": "418420",
+    "name": "라온텍",
+    "amount": "66.00",
+    "price": "625020",
+    "ratio": "0.46",
+    "totalPrice": "615780"
+  },
+  {
+    "code": "206560",
+    "name": "덱스터",
+    "amount": "67.00",
+    "price": "615060",
+    "ratio": "0.45",
+    "totalPrice": "619080"
+  },
+  {
+    "code": "190510",
+    "name": "나무가",
+    "amount": "36.00",
+    "price": "528480",
+    "ratio": "0.39",
+    "totalPrice": "540000"
+  },
+  {
+    "code": "289220",
+    "name": "자이언트스텝",
+    "amount": "40.00",
+    "price": "486400",
+    "ratio": "0.36",
+    "totalPrice": "473600"
+  },
+  {
+    "code": "286940",
+    "name": "롯데정보통신",
+    "amount": "15.00",
+    "price": "450750",
+    "ratio": "0.33",
+    "totalPrice": "454500"
+  },
+  {
+    "code": "182360",
+    "name": "큐브엔터",
+    "amount": "21.00",
+    "price": "413700",
+    "ratio": "0.31",
+    "totalPrice": "401100"
+  },
+  {
+    "code": "377030",
+    "name": "맥스트",
+    "amount": "48.00",
+    "price": "348480",
+    "ratio": "0.26",
+    "totalPrice": "334080"
+  },
+  {
+    "code": "274400",
+    "name": "이노시뮬레이션",
+    "amount": "19.00",
+    "price": "307800",
+    "ratio": "0.23",
+    "totalPrice": "304950"
+  },
+  {
+    "code": "438700",
+    "name": "버넥트",
+    "amount": "21.00",
+    "price": "194250",
+    "ratio": "0.14",
+    "totalPrice": "187530"
+  },
+  {
+    "code": "301300",
+    "name": "바이브컴퍼니",
+    "amount": "25.00",
+    "price": "173750",
+    "ratio": "0.13",
+    "totalPrice": "172250"
+  },
+  {
+    "code": "276040",
+    "name": "스코넥",
+    "amount": "15.00",
+    "price": "140100",
+    "ratio": "0.10",
+    "totalPrice": "133500"
+  },
+  {
+    "code": "230980",
+    "name": "비유테크놀러지",
+    "amount": "257.00",
+    "price": "118734",
+    "ratio": "0.09",
+    "totalPrice": "115393"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "608591",
+    "ratio": "0.45",
+    "totalPrice": ""
+  }
+]
