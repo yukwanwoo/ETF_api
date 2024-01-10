@@ -1,0 +1,370 @@
+[
+  {
+    "code": "005930",
+    "name": "삼성전자",
+    "amount": "26.54",
+    "price": "1953344",
+    "ratio": "",
+    "totalPrice": "1982538"
+  },
+  {
+    "code": "033640",
+    "name": "네패스",
+    "amount": "27.19",
+    "price": "570990",
+    "ratio": "",
+    "totalPrice": "579147"
+  },
+  {
+    "code": "US00724F1012",
+    "name": "ADOBE INC",
+    "amount": "3.63",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0079031078",
+    "name": "ADVANCED MICRO DEVICES",
+    "amount": "18.34",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3122400009",
+    "name": "ADVANTEST CORP",
+    "amount": "23.97",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US02079K3059",
+    "name": "ALPHABET INC-CL A",
+    "amount": "17.80",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0231351067",
+    "name": "AMAZON.COM INC",
+    "amount": "21.71",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0378331005",
+    "name": "APPLE INC",
+    "amount": "8.48",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0404131064",
+    "name": "ARISTA NETWORKS INC",
+    "amount": "3.44",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0420682058",
+    "name": "ARM HOLDINGS PLC",
+    "amount": "11.83",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US0567521085",
+    "name": "BAIDU INC - SPON ADR",
+    "amount": "12.86",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "NL0012866412",
+    "name": "BE SEMICONDUCTOR INDUSTRIES",
+    "amount": "10.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US11135F1012",
+    "name": "BROADCOM INC",
+    "amount": "2.10",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US1273871087",
+    "name": "CADENCE DESIGN SYS INC",
+    "amount": "4.24",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US20717M1036",
+    "name": "CONFLUENT INC-CLASS A",
+    "amount": "31.33",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US22788C1053",
+    "name": "CROWDSTRIKE HOLDINGS INC - A",
+    "amount": "5.64",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US23804L1035",
+    "name": "DATADOG INC - CLASS A",
+    "amount": "8.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3548600000",
+    "name": "DISCO CORP",
+    "amount": "4.13",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US37637K1088",
+    "name": "GITLAB INC-CL A",
+    "amount": "14.71",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3148800000",
+    "name": "IBIDEN CO LTD",
+    "amount": "24.79",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US4581401001",
+    "name": "INTEL CORP",
+    "amount": "53.06",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "HK0992009065",
+    "name": "LENOVO GROUP LTD",
+    "amount": "1006.19",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5738741041",
+    "name": "MARVELL TECHNOLOGY INC",
+    "amount": "47.41",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US30303M1027",
+    "name": "META PLATFORMS INC-CLASS A",
+    "amount": "7.71",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US5949181045",
+    "name": "MICROSOFT CORP",
+    "amount": "15.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US60741F1049",
+    "name": "MOBILEYE GLOBAL INC-A",
+    "amount": "26.01",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "IL0011762130",
+    "name": "MONDAY.COM LTD",
+    "amount": "6.45",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US60937P1066",
+    "name": "MONGODB INC",
+    "amount": "4.98",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US67066G1040",
+    "name": "NVIDIA CORP",
+    "amount": "18.66",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US7475251036",
+    "name": "QUALCOMM INC",
+    "amount": "17.23",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "JP3970300004",
+    "name": "RECRUIT HOLDINGS CO LTD",
+    "amount": "28.93",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US79466L3024",
+    "name": "SALESFORCE INC",
+    "amount": "8.76",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US81762P1021",
+    "name": "SERVICENOW INC",
+    "amount": "2.12",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "DE000SHL1006",
+    "name": "SIEMENS HEALTHINEERS AG",
+    "amount": "13.89",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US83304A1060",
+    "name": "SNAP INC - A",
+    "amount": "47.31",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8334451098",
+    "name": "SNOWFLAKE INC-CLASS A",
+    "amount": "10.96",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8716071076",
+    "name": "SYNOPSYS INC",
+    "amount": "2.50",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8740391003",
+    "name": "TAIWAN SEMICONDUCTOR-SP ADR",
+    "amount": "25.72",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US88160R1014",
+    "name": "TESLA INC",
+    "amount": "6.93",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US8835561023",
+    "name": "THERMO FISHER SCIENTIFIC INC",
+    "amount": "3.01",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US88339J1051",
+    "name": "TRADE DESK INC/THE -CLASS A",
+    "amount": "8.77",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US90353T1007",
+    "name": "UBER TECHNOLOGIES INC",
+    "amount": "16.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US91332U1016",
+    "name": "UNITY SOFTWARE INC",
+    "amount": "24.43",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "US98980G1022",
+    "name": "ZSCALER INC",
+    "amount": "5.88",
+    "price": "",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "3568207",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "109468286",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
