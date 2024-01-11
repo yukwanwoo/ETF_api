@@ -1,0 +1,58 @@
+[
+  {
+    "code": "455030",
+    "name": "KODEX 미국달러SOFR금리액티브(합성)",
+    "amount": "2231.00",
+    "price": "23458965",
+    "ratio": "",
+    "totalPrice": "23514740"
+  },
+  {
+    "code": "261240",
+    "name": "KODEX 미국달러선물",
+    "amount": "1853.00",
+    "price": "22893815",
+    "ratio": "",
+    "totalPrice": "22940140"
+  },
+  {
+    "code": "138230",
+    "name": "KOSEF 미국달러선물",
+    "amount": "41.00",
+    "price": "577280",
+    "ratio": "",
+    "totalPrice": "578510"
+  },
+  {
+    "code": "KR4175V10001",
+    "name": "미국달러 F 202401",
+    "amount": "11.08",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "146289240"
+  },
+  {
+    "code": "KR4175V20000",
+    "name": "미국달러 F 202402",
+    "amount": "5.21",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "68667800"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "83802491",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "130835881",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
