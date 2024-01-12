@@ -1,0 +1,34 @@
+[
+  {
+    "code": "KR4175V10001",
+    "name": "미국달러 F 202401",
+    "amount": "3.12",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "40959360"
+  },
+  {
+    "code": "KR4175V20000",
+    "name": "미국달러 F 202402",
+    "amount": "6.28",
+    "price": "",
+    "ratio": "",
+    "totalPrice": "82261720"
+  },
+  {
+    "code": "KRD010010001",
+    "name": "원화현금",
+    "amount": "",
+    "price": "123309801",
+    "ratio": "",
+    "totalPrice": ""
+  },
+  {
+    "code": "CASH00000001",
+    "name": "설정현금액",
+    "amount": "",
+    "price": "123309801",
+    "ratio": "",
+    "totalPrice": ""
+  }
+]
